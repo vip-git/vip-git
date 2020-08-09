@@ -30,7 +30,7 @@ jobs:
     # commit the output folder
     - name: Commit files
       run: |
-          git config --local user.email 6302771+vip-git@users.noreply.github.com
+          git config --local user.email ${{EMAIL_VIP}}
           git config --local user.name Vipin
           git add README.md
           git commit -m "update: hey of the day"
