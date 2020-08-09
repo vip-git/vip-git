@@ -25,7 +25,7 @@ jobs:
 
     # Runs a single command using the runners shell
     - name: Run hey there of the day
-      run: echo 'Hi there 👋  - ⚡ Have a amazing '$(date +%A)' ⚡' > README.md
+      run: printf '### Hi there 👋  \n ⚡ Have a amazing `'$(date +%A)'` ⚡' > README.md
 
     # commit the output folder
     - name: Commit files
