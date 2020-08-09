@@ -9,7 +9,7 @@ on:
     branches:
       - master
   schedule:
-    - cron: "59 10 * * *"
+    - cron: "00 7 * * *"
       
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -25,7 +25,7 @@ jobs:
 
     # Runs a single command using the runners shell
     - name: Run hey there of the day
-      run: printf '### Hey there 👋 \nHave a amazing `'$(date +%A)'` ⚡⚡⚡' > README.md
+      run: printf '## Hey there 👋 \nHave a amazing `'$(date +%A)'` ⚡⚡⚡' > README.md
 
     # commit the output folder
     - name: Commit files
