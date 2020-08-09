@@ -7,7 +7,7 @@ name: HeyThereAutomated
 on:
   push:
     branches:
-    - main
+    - master
   schedule:
   - cron: "08 10 * * *"
 
