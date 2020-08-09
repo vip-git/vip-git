@@ -1,1 +1,1 @@
-Hi there 👋 ⚡ - Have a amazing Sunday!
+Hi there 👋  - ⚡ Have a amazing Sunday ⚡
