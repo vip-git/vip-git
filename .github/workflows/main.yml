@@ -5,11 +5,8 @@ name: HeyThereAutomated
 # Controls when the action will run. Triggers the workflow on push or pull request
 # events but only for the master branch
 on:
-  push:
-    branches: 
-      - master
   schedule:
-  - cron: "00 7 * * *"
+    - cron: "56 10 * * *"
       
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -25,7 +22,7 @@ jobs:
 
     # Runs a single command using the runners shell
     - name: Run hey there of the day
-      run: printf '### Hey there 👋 \n⚡ Have a amazing `'$(date +%A)'` ⚡' > README.md
+      run: printf '### Hey there 👋 \nHave a amazing `'$(date +%A)'` ⚡⚡⚡' > README.md
 
     # commit the output folder
     - name: Commit files
