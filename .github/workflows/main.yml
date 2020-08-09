@@ -6,7 +6,7 @@ name: HeyThereAutomated
 # events but only for the master branch
 on:
   schedule:
-    - cron: '47 10 * * *'
+    - cron: '* * * * *'
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -22,7 +22,7 @@ jobs:
 
     # Runs a single command using the runners shell
     - name: Run hey there of the day
-      run: printf '### Hey there 👋 \n⚡ Have a amazing `'$(date +%A)'` ⚡' > README.md
+      run: printf '## Hey there 👋 \n⚡ Have a amazing `'$(date +%A)'` ⚡' > README.md
 
     # commit the output folder
     - name: Commit files
