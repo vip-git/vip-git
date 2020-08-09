@@ -29,8 +29,10 @@ jobs:
 
     # commit the output folder
     - name: Commit files
+      env:
+        EMAIL_VIP: ${{ secrets.EMAIL_VIP }}
       run: |
-          git config --local user.email ${{EMAIL_VIP}}
+          git config --local user.email $EMAIL_VIP
           git config --local user.name Vipin
           git add README.md
           git commit -m "update: hey of the day"
