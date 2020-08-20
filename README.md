@@ -1,2 +1,2 @@
 ## Hey there 👋 
-Have a amazing `Wednesday` ⚡⚡⚡
+Have a amazing `Thursday` ⚡⚡⚡
