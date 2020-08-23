@@ -1,2 +1,2 @@
 ## Hey there 👋 
-Have a amazing `Saturday` ⚡⚡⚡
+Have a amazing `Sunday` ⚡⚡⚡
