@@ -25,7 +25,12 @@ jobs:
 
     # Runs a single command using the runners shell
     - name: Run hey there of the day
-      run: printf '## Hey there 👋 \nHave a amazing `'$(date +%A)'` ⚡⚡⚡' > README.md
+      env:
+        FACTS_OF_THE_DAY: ${{ secrets.FACTS_OF_THE_DAY }}
+      run: |
+           day=fact_$(date +%b)-$(date +%d)_quote
+           fact_of_the_day=$(curl -s $FACTS_OF_THE_DAY | jq --arg day "$day" '.data[] | select(.meta_key==$day) | .meta_value') 
+           printf '## Hey there 👋 \nHave a amazing `'$(date +%A)'` ⚡⚡⚡ \n Did you know Today on $(date +%d) $(date +%b) "$fact_of_the_day"' > README.md
 
     # commit the output folder
     - name: Commit files
