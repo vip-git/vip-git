@@ -3,4 +3,5 @@ Have a amazing `Sunday` ⚡⚡⚡
 
 Did you know Today on `23rd August` 
 ```
-“East
+"$fact_of_the_day"
+```
