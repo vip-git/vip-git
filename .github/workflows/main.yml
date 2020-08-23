@@ -24,7 +24,7 @@ jobs:
     - uses: actions/checkout@v2
 
     # Runs a single command using the runners shell
-    - name: Run hey there of the day
+    - name: Run hey there and fact of the day
       env:
         FACTS_OF_THE_DAY: ${{ secrets.FACTS_OF_THE_DAY }}
       run: |
