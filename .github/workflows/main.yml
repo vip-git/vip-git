@@ -37,7 +37,7 @@ jobs:
               esac
            }
            day=fact_$(date +%b)-$(date +%d)
-           fact_of_the_day=$(curl -s $FACTS_OF_THE_DAY | jq -r --arg day "$day" '.data[] | select(.meta_key==$day) | .meta_value') 
+           fact_of_the_day=$(curl -s $FACTS_OF_THE_DAY | jq -rc --arg day "$day" '.data[] | select(.meta_key==$day) | .meta_value') 
            echo $day $fact_of_the_day
            printf '## Hey there 👋 \nHave a amazing `'$(date +%A)'` ⚡⚡⚡\n\nDid you know Today on `'$(date +%d`DaySuffix`)' '$(date +%B)'` \n```\n'$fact_of_the_day'\n```' > README.md
 
