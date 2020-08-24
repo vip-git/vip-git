@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have a amazing `Sunday` ⚡⚡⚡
+Have a amazing `Monday` ⚡⚡⚡
 
-Did you know Today on `23rd August`
+Did you know Today on `24th August`
 ```
-“East and West Germany announce they will unite on Oct 3.” (Year: 1990)
+“Mexico gained its independence from Spain with the Treaty of Cordoba.” (Year: 1821)
 ```
