@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have a amazing `Monday` ⚡⚡⚡
+Have a amazing `Tuesday` ⚡⚡⚡
 
-Did you know Today on `24th August`
+Did you know Today on `25th August`
 ```
-“Mexico gained its independence from Spain with the Treaty of Cordoba.” (Year: 1821)
+“Uruguay declared its independence from Brazil.” (Year: 1825)
 ```
