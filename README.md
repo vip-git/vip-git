@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have a amazing `Wednesday` ⚡⚡⚡
+Have a amazing `Thursday` ⚡⚡⚡
 
-Did you know Today on `26th August`
+Did you know Today on `27th August`
 ```
-“The 19th Amendment giving women the right to vote went into effect.” (Year: 1920)
+“Mars made its closest approach to earth in 60,000 years.” (Year: 2003)
 ```
