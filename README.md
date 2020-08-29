@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have a amazing `Friday` ⚡⚡⚡
+Have a amazing `Saturday` ⚡⚡⚡
 
-Did you know Today on `28th August`
+Did you know Today on `29th August`
 ```
-“The Centers for Disease Control announced a medical task force had been formed to look into the incidence of Kaposi`s sarcoma and pneumocystis in homosexual men. AIDS was later found to be the cause.” (Year: 1981)
+“The U.S.S.R. tested their first atomic bomb.” (Year: 1949)
 ```
