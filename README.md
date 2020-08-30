@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have a amazing `Saturday` ⚡⚡⚡
+Have a amazing `Sunday` ⚡⚡⚡
 
-Did you know Today on `29th August`
+Did you know Today on `30th August`
 ```
-“The U.S.S.R. tested their first atomic bomb.” (Year: 1949)
+“East Timor residents voted to secede from Indonesia.” (Year: 1999)
 ```
