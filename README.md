@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have a amazing `Sunday` ⚡⚡⚡
+Have a amazing `Monday` ⚡⚡⚡
 
-Did you know Today on `30th August`
+Did you know Today on `31st August`
 ```
-“East Timor residents voted to secede from Indonesia.” (Year: 1999)
+“Trinidad and Tobago gained independence from Great Britain.” (Year: 1962)
 ```
