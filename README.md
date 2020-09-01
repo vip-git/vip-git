@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have a amazing `Monday` ⚡⚡⚡
+Have a amazing `Tuesday` ⚡⚡⚡
 
-Did you know Today on `31st August`
+Did you know Today on `01th September`
 ```
-“Trinidad and Tobago gained independence from Great Britain.” (Year: 1962)
+“A devastating earthquake struck the Japanese cities of Tokyo and Yokohama. Nearly 150,000 people were killed and more than two million left homeless.” (Year: 1923)
 ```
