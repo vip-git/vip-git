@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have a amazing `Wednesday` ⚡⚡⚡
+Have a amazing `Thursday` ⚡⚡⚡
 
-Did you know Today on `02nd September`
+Did you know Today on `03rd September`
 ```
-“Ho Chi Minh declared Vietnam an independent republic.” (Year: 1945)
+“Richard I (the Lion-Hearted) was crowned king of England at Westminster Abbey.” (Year: 1189)
 ```
