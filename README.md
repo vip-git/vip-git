@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have a amazing `Thursday` ⚡⚡⚡
+Have a amazing `Friday` ⚡⚡⚡
 
-Did you know Today on `03rd September`
+Did you know Today on `04th September`
 ```
-“Richard I (the Lion-Hearted) was crowned king of England at Westminster Abbey.” (Year: 1189)
+“The city of Los Angeles was founded by Spanish settlers.” (Year: 1781)
 ```
