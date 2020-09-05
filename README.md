@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have a amazing `Friday` ⚡⚡⚡
+Have a amazing `Saturday` ⚡⚡⚡
 
-Did you know Today on `04th September`
+Did you know Today on `05th September`
 ```
-“The city of Los Angeles was founded by Spanish settlers.” (Year: 1781)
+“Humanitarian Mother Teresa, who won a Nobel Peace Prize for her work with the poor, died in Calcutta, India, at age 87.” (Year: 1997)
 ```
