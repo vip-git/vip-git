@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have a amazing `Saturday` ⚡⚡⚡
+Have a amazing `Sunday` ⚡⚡⚡
 
-Did you know Today on `05th September`
+Did you know Today on `06th September`
 ```
-“Humanitarian Mother Teresa, who won a Nobel Peace Prize for her work with the poor, died in Calcutta, India, at age 87.” (Year: 1997)
+“Nazi Germany required all Jews over the age of six to wear a yellow Star of David on their clothes.” (Year: 1941)
 ```
