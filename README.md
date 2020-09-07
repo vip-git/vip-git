@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have a amazing `Sunday` ⚡⚡⚡
+Have a amazing `Monday` ⚡⚡⚡
 
-Did you know Today on `06th September`
+Did you know Today on `07th September`
 ```
-“Nazi Germany required all Jews over the age of six to wear a yellow Star of David on their clothes.” (Year: 1941)
+
 ```
