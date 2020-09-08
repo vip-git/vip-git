@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have a amazing `Monday` ⚡⚡⚡
+Have a amazing `Tuesday` ⚡⚡⚡
 
-Did you know Today on `07th September`
+Did you know Today on `08th September`
 ```
-“Brazil declared its independence from Portugal.” (Year: 1822)
+“The San Francisco Peace Treaty was signed, formally ending World War II hostilities with Japan.” (Year: 1951)
 ```
