@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have a amazing `Wednesday` ⚡⚡⚡
+Have a amazing `Thursday` ⚡⚡⚡
 
-Did you know Today on `09th September`
+Did you know Today on `10th September`
 ```
-“The People's Democratic Republic of Korea (North Korea) was created.” (Year: 1948)
+“Switzerland became the 190th member of the United Nations.” (Year: 2002)
 ```
