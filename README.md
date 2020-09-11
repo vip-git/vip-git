@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have a amazing `Thursday` ⚡⚡⚡
+Have a amazing `Friday` ⚡⚡⚡
 
-Did you know Today on `10th September`
+Did you know Today on `11th September`
 ```
-“Switzerland became the 190th member of the United Nations.” (Year: 2002)
+“In Scotland, voters approved the establishment of a parliament to run their domestic affairs, after 290 years of union with England.” (Year: 1997)
 ```
