@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have a amazing `Friday` ⚡⚡⚡
+Have a amazing `Saturday` ⚡⚡⚡
 
-Did you know Today on `11th September`
+Did you know Today on `12th September`
 ```
-“In Scotland, voters approved the establishment of a parliament to run their domestic affairs, after 290 years of union with England.” (Year: 1997)
+“Indonesia announced it would allow an international peacekeeping force to restore order to East Timor.” (Year: 1999)
 ```
