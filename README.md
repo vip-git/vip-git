@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have a amazing `Saturday` ⚡⚡⚡
+Have a amazing `Sunday` ⚡⚡⚡
 
-Did you know Today on `12th September`
+Did you know Today on `13th September`
 ```
-“Indonesia announced it would allow an international peacekeeping force to restore order to East Timor.” (Year: 1999)
+“Israeli Prime Minister Yitzhak Rabin and PLO Chairman Yasir Arafat shook hands after signing an historic peace agreement.” (Year: 1993)
 ```
