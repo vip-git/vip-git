@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have a amazing `Sunday` ⚡⚡⚡
+Have a amazing `Monday` ⚡⚡⚡
 
-Did you know Today on `13th September`
+Did you know Today on `14th September`
 ```
-“Israeli Prime Minister Yitzhak Rabin and PLO Chairman Yasir Arafat shook hands after signing an historic peace agreement.” (Year: 1993)
+“The Soviet space probe Luna 2 became the first man-made object to reach the Moon when it crashed onto the lunar surface.” (Year: 1959)
 ```
