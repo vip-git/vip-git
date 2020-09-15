@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have a amazing `Monday` ⚡⚡⚡
+Have a amazing `Tuesday` ⚡⚡⚡
 
-Did you know Today on `14th September`
+Did you know Today on `15th September`
 ```
-“The Soviet space probe Luna 2 became the first man-made object to reach the Moon when it crashed onto the lunar surface.” (Year: 1959)
+“Alexander Kerensky proclaimed Russia a republic.” (Year: 1917)
 ```
