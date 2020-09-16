@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have a amazing `Tuesday` ⚡⚡⚡
+Have a amazing `Wednesday` ⚡⚡⚡
 
-Did you know Today on `15th September`
+Did you know Today on `16th September`
 ```
-“Alexander Kerensky proclaimed Russia a republic.” (Year: 1917)
+“Papua New Guinea became independent.” (Year: 1975)
 ```
