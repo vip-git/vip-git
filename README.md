@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have a amazing `Wednesday` ⚡⚡⚡
+Have a amazing `Thursday` ⚡⚡⚡
 
-Did you know Today on `16th September`
+Did you know Today on `17th September`
 ```
-“Papua New Guinea became independent.” (Year: 1975)
+“Heather Whitestone of Alabama became the first deaf Miss America.” (Year: 1994)
 ```
