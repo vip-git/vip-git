@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have a amazing `Thursday` ⚡⚡⚡
+Have a amazing `Friday` ⚡⚡⚡
 
-Did you know Today on `17th September`
+Did you know Today on `18th September`
 ```
-“Heather Whitestone of Alabama became the first deaf Miss America.” (Year: 1994)
+“Chile declared its independence from Spain.” (Year: 1810)
 ```
