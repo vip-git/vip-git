@@ -1,5 +1,5 @@
 ## Hey there 👋
-Have a amazing `Friday` ⚡⚡⚡
+Have an amazing `Friday` ⚡⚡⚡
 
 Did you know Today on `18th September`
 ```
