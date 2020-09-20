@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Saturday` ⚡⚡⚡
+Have an amazing `Sunday` ⚡⚡⚡
 
-Did you know Today on `19th September`
+Did you know Today on `20th September`
 ```
-“The Mexico City area was struck by the first of two devastating earthquakes that claimed thousands of lives. The second earthquake hit 36 hours later.” (Year: 1985)
+“Victor Emmanuel II, the first king of modern Italy, seized the Papal States from the French.” (Year: 1870)
 ```
