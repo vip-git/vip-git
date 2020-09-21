@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Sunday` ⚡⚡⚡
+Have an amazing `Monday` ⚡⚡⚡
 
-Did you know Today on `20th September`
+Did you know Today on `21st September`
 ```
-“Victor Emmanuel II, the first king of modern Italy, seized the Papal States from the French.” (Year: 1870)
+“The People's Republic of China was proclaimed.” (Year: 1949)
 ```
