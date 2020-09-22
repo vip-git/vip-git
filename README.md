@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Monday` ⚡⚡⚡
+Have an amazing `Tuesday` ⚡⚡⚡
 
-Did you know Today on `21st September`
+Did you know Today on `22nd September`
 ```
-“The People's Republic of China was proclaimed.” (Year: 1949)
+“The French Republic was proclaimed.” (Year: 1792)
 ```
