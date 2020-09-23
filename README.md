@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Tuesday` ⚡⚡⚡
+Have an amazing `Wednesday` ⚡⚡⚡
 
-Did you know Today on `22nd September`
+Did you know Today on `23rd September`
 ```
-“The French Republic was proclaimed.” (Year: 1792)
+“Palestinian president Mahmoud Abbas officially requests a bid for statehood at the UN Security Council.” (Year: 2011)
 ```
