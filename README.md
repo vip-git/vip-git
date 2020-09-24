@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Wednesday` ⚡⚡⚡
+Have an amazing `Thursday` ⚡⚡⚡
 
-Did you know Today on `23rd September`
+Did you know Today on `24th September`
 ```
-“Palestinian president Mahmoud Abbas officially requests a bid for statehood at the UN Security Council.” (Year: 2011)
+“The United States and the world`s other major nuclear powers signed a treaty to end all testing and development of nuclear weapons.” (Year: 1996)
 ```
