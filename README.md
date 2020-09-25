@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Thursday` ⚡⚡⚡
+Have an amazing `Friday` ⚡⚡⚡
 
-Did you know Today on `24th September`
+Did you know Today on `25th September`
 ```
-“The United States and the world`s other major nuclear powers signed a treaty to end all testing and development of nuclear weapons.” (Year: 1996)
+“King Abdullah of Saudi Arabia grants women the right to vote and run for office in future elections.” (Year: 2011)
 ```
