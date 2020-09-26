@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Friday` ⚡⚡⚡
+Have an amazing `Saturday` ⚡⚡⚡
 
-Did you know Today on `25th September`
+Did you know Today on `26th September`
 ```
-“King Abdullah of Saudi Arabia grants women the right to vote and run for office in future elections.” (Year: 2011)
+“United Nations troops recaptured Seoul, the capital of South Korea, from the North Koreans.” (Year: 1950)
 ```
