@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Saturday` ⚡⚡⚡
+Have an amazing `Sunday` ⚡⚡⚡
 
-Did you know Today on `26th September`
+Did you know Today on `27th September`
 ```
-“United Nations troops recaptured Seoul, the capital of South Korea, from the North Koreans.” (Year: 1950)
+“Typhoon Vera battered the Japanese island of Honshu, killing almost 5,000 people.” (Year: 1959)
 ```
