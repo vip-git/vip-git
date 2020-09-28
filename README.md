@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Sunday` ⚡⚡⚡
+Have an amazing `Monday` ⚡⚡⚡
 
-Did you know Today on `27th September`
+Did you know Today on `28th September`
 ```
-“Typhoon Vera battered the Japanese island of Honshu, killing almost 5,000 people.” (Year: 1959)
+“A German-Soviet agreement divided Poland between Nazi Germany and the USSR.” (Year: 1939)
 ```
