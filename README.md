@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Tuesday` ⚡⚡⚡
+Have an amazing `Wednesday` ⚡⚡⚡
 
-Did you know Today on `29th September`
+Did you know Today on `30th September`
 ```
-“John Paul I died one month after becoming pope.” (Year: 1978)
+“Botswana gained its independence from Great Britain.” (Year: 1966)
 ```
