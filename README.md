@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Thursday` ⚡⚡⚡
+Have an amazing `Friday` ⚡⚡⚡
 
-Did you know Today on `01st October`
+Did you know Today on `02nd October`
 ```
-“Henry Ford introduced the first mass-produced automobile on the market—the Model T car to the market. Each car cost $825.” (Year: 1908)
+“Guinea proclaimed its independence from France.” (Year: 1958)
 ```
