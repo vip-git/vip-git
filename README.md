@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Saturday` ⚡⚡⚡
+Have an amazing `Sunday` ⚡⚡⚡
 
-Did you know Today on `03rd October`
+Did you know Today on `04th October`
 ```
-“East Germany and West Germany united to become Germany, 45 years after being split into two countries at the end of World War II.” (Year: 1990)
+“The Soviet Union launched the first artificial satellite, Sputnik, into orbit around the earth, ushering in the Space Age and Space Race.” (Year: 1957)
 ```
