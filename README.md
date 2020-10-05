@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Sunday` ⚡⚡⚡
+Have an amazing `Monday` ⚡⚡⚡
 
-Did you know Today on `04th October`
+Did you know Today on `05th October`
 ```
-“The Soviet Union launched the first artificial satellite, Sputnik, into orbit around the earth, ushering in the Space Age and Space Race.” (Year: 1957)
+“King Manuel II was overnthrown in a revolution and Portugal became a republic.” (Year: 1910)
 ```
