@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Monday` ⚡⚡⚡
+Have an amazing `Tuesday` ⚡⚡⚡
 
-Did you know Today on `05th October`
+Did you know Today on `06th October`
 ```
-“King Manuel II was overnthrown in a revolution and Portugal became a republic.” (Year: 1910)
+“Japanese-American broadcaster, Iva Toguri D'Aquino (Tokyo Rose), was sentenced to 10 years in prison and fined $10,000 for treason.” (Year: 1949)
 ```
