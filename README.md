@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Tuesday` ⚡⚡⚡
+Have an amazing `Wednesday` ⚡⚡⚡
 
-Did you know Today on `06th October`
+Did you know Today on `07th October`
 ```
-“Japanese-American broadcaster, Iva Toguri D'Aquino (Tokyo Rose), was sentenced to 10 years in prison and fined $10,000 for treason.” (Year: 1949)
+“The Republic of East Germany was formed.” (Year: 1949)
 ```
