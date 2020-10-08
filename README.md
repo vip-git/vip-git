@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Wednesday` ⚡⚡⚡
+Have an amazing `Thursday` ⚡⚡⚡
 
-Did you know Today on `07th October`
+Did you know Today on `08th October`
 ```
-“The Republic of East Germany was formed.” (Year: 1949)
+“President Harry Truman announced the U.S. would share the secret of the atomic bomb only with Great Britain and Canada.” (Year: 1945)
 ```
