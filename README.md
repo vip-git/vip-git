@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Thursday` ⚡⚡⚡
+Have an amazing `Friday` ⚡⚡⚡
 
-Did you know Today on `08th October`
+Did you know Today on `09th October`
 ```
-“President Harry Truman announced the U.S. would share the secret of the atomic bomb only with Great Britain and Canada.” (Year: 1945)
+“Soviet scientist Andrei Sakharov was awarded the Nobel Peace Prize for his work to end the nuclear arms race.” (Year: 1975)
 ```
