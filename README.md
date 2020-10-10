@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Friday` ⚡⚡⚡
+Have an amazing `Saturday` ⚡⚡⚡
 
-Did you know Today on `09th October`
+Did you know Today on `10th October`
 ```
-“Soviet scientist Andrei Sakharov was awarded the Nobel Peace Prize for his work to end the nuclear arms race.” (Year: 1975)
+“Fiji gained its independence from Great Britain.” (Year: 1970)
 ```
