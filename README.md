@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Sunday` ⚡⚡⚡
+Have an amazing `Monday` ⚡⚡⚡
 
-Did you know Today on `11th October`
+Did you know Today on `12th October`
 ```
-“A letter from Albert Einstein was delivered to President Franklin D. Roosevelt concerning the possibility of atomic weapons.” (Year: 1939)
+“The Soviets launched Voskhod I, the first space capsule to carry three people into orbit.” (Year: 1964)
 ```
