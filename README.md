@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Monday` ⚡⚡⚡
+Have an amazing `Tuesday` ⚡⚡⚡
 
-Did you know Today on `12th October`
+Did you know Today on `13th October`
 ```
-“The Soviets launched Voskhod I, the first space capsule to carry three people into orbit.” (Year: 1964)
+“The Jewish organization B'nai B'rith was founded.” (Year: 1843)
 ```
