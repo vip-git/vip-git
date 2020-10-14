@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Tuesday` ⚡⚡⚡
+Have an amazing `Wednesday` ⚡⚡⚡
 
-Did you know Today on `13th October`
+Did you know Today on `14th October`
 ```
-“The Jewish organization B'nai B'rith was founded.” (Year: 1843)
+“Martin Luther King, Jr., was awarded the Nobel Peace Prize for his work in civil rights.” (Year: 1964)
 ```
