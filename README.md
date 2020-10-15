@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Wednesday` ⚡⚡⚡
+Have an amazing `Thursday` ⚡⚡⚡
 
-Did you know Today on `14th October`
+Did you know Today on `15th October`
 ```
-“Martin Luther King, Jr., was awarded the Nobel Peace Prize for his work in civil rights.” (Year: 1964)
+“China became the third country to launch a staffed space mission.” (Year: 2003)
 ```
