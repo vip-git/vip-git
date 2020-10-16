@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Thursday` ⚡⚡⚡
+Have an amazing `Friday` ⚡⚡⚡
 
-Did you know Today on `15th October`
+Did you know Today on `16th October`
 ```
-“China became the third country to launch a staffed space mission.” (Year: 2003)
+“China detonated its first atomic bomb.” (Year: 1964)
 ```
