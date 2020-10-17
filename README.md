@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Friday` ⚡⚡⚡
+Have an amazing `Saturday` ⚡⚡⚡
 
-Did you know Today on `16th October`
+Did you know Today on `17th October`
 ```
-“China detonated its first atomic bomb.” (Year: 1964)
+“Albert Einstein arrived in the United States as a refugee from Nazi Germany.” (Year: 1933)
 ```
