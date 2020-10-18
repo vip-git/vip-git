@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Saturday` ⚡⚡⚡
+Have an amazing `Sunday` ⚡⚡⚡
 
-Did you know Today on `17th October`
+Did you know Today on `18th October`
 ```
-“Albert Einstein arrived in the United States as a refugee from Nazi Germany.” (Year: 1933)
+“The United States took possession of Alaska from Russia.” (Year: 1867)
 ```
