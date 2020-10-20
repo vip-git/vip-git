@@ -22,6 +22,12 @@ jobs:
     steps:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     - uses: actions/checkout@v2
+      
+    # commit the output folder
+    - name: Clean pull the project
+      run: |
+           git reset --hard HEAD
+           git pull --force
 
     # Runs a single command using the runners shell
     - name: Run hey there and fact of the day
@@ -50,8 +56,6 @@ jobs:
           git config --local user.name Vipin
           git config pull.ff only
           git status
-          git pull --force
-          git reset --hard HEAD
           git add README.md
           git commit -m "update: hey of the day"
           git push
