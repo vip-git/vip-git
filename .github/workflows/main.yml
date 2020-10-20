@@ -49,7 +49,9 @@ jobs:
           git config --local user.email $EMAIL_VIP
           git config --local user.name Vipin
           git config pull.ff only
+          git status
           git pull --force
+          git reset --hard HEAD
           git add README.md
           git commit -m "update: hey of the day"
           git push
