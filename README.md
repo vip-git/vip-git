@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Tuesday` ⚡⚡⚡
+Have an amazing `Wednesday` ⚡⚡⚡
 
-Did you know Today on `20th October`
+Did you know Today on `21st October`
 ```
-“1st Chinese immigrant arrives in Suriname.” (Year: 1843)
+“Thomas Edison invented a workable incandescent electric lamp.” (Year: 1879)
 ```
