@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Wednesday` ⚡⚡⚡
+Have an amazing `Thursday` ⚡⚡⚡
 
-Did you know Today on `21st October`
+Did you know Today on `22nd October`
 ```
-“Thomas Edison invented a workable incandescent electric lamp.” (Year: 1879)
+“Andre-Jacques Garnerin made the first parachute jump from a balloon.” (Year: 1797)
 ```
