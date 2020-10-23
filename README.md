@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Thursday` ⚡⚡⚡
+Have an amazing `Friday` ⚡⚡⚡
 
-Did you know Today on `22nd October`
+Did you know Today on `23rd October`
 ```
-“Andre-Jacques Garnerin made the first parachute jump from a balloon.” (Year: 1797)
+“25,000 women marched in New York City, demanding the right to vote.” (Year: 1915)
 ```
