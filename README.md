@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Friday` ⚡⚡⚡
+Have an amazing `Saturday` ⚡⚡⚡
 
-Did you know Today on `23rd October`
+Did you know Today on `24th October`
 ```
-“25,000 women marched in New York City, demanding the right to vote.” (Year: 1915)
+“Anna Edson Taylor became the first person to survive going over Niagara Falls in a barrel.” (Year: 1901)
 ```
