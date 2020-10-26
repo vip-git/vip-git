@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Sunday` ⚡⚡⚡
+Have an amazing `Monday` ⚡⚡⚡
 
-Did you know Today on `25th October`
+Did you know Today on `26th October`
 ```
-“The United States invaded the Caribbean nation of Grenada.” (Year: 1983)
+“Anwar Sadat became the first Egyptian president to pay an official visit to the United States.” (Year: 1975)
 ```
