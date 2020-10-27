@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Monday` ⚡⚡⚡
+Have an amazing `Tuesday` ⚡⚡⚡
 
-Did you know Today on `26th October`
+Did you know Today on `27th October`
 ```
-“Anwar Sadat became the first Egyptian president to pay an official visit to the United States.” (Year: 1975)
+“Du Pont announced that it would name its new synthetic yarn nylon.” (Year: 1938)
 ```
