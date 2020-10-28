@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Tuesday` ⚡⚡⚡
+Have an amazing `Wednesday` ⚡⚡⚡
 
-Did you know Today on `27th October`
+Did you know Today on `28th October`
 ```
-“Du Pont announced that it would name its new synthetic yarn nylon.” (Year: 1938)
+“Eli Whitney applied for a patent for the cotton gin.” (Year: 1793)
 ```
