@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Wednesday` ⚡⚡⚡
+Have an amazing `Thursday` ⚡⚡⚡
 
-Did you know Today on `28th October`
+Did you know Today on `29th October`
 ```
-“Eli Whitney applied for a patent for the cotton gin.” (Year: 1793)
+“The Republic of Turkey was proclaimed under Mustafa Kemal Ataturk.” (Year: 1923)
 ```
