@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Thursday` ⚡⚡⚡
+Have an amazing `Friday` ⚡⚡⚡
 
-Did you know Today on `29th October`
+Did you know Today on `30th October`
 ```
-“The Republic of Turkey was proclaimed under Mustafa Kemal Ataturk.” (Year: 1923)
+“Gen. George C. Marshall won the Nobel Peace Prize for originating the Marshall Plan.” (Year: 1953)
 ```
