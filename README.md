@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Friday` ⚡⚡⚡
+Have an amazing `Saturday` ⚡⚡⚡
 
-Did you know Today on `30th October`
+Did you know Today on `31st October`
 ```
-“Gen. George C. Marshall won the Nobel Peace Prize for originating the Marshall Plan.” (Year: 1953)
+“Pope John Paul II admitted that the Roman Catholic Church had erred in convicting Galileo of heresy 350 years earlier.” (Year: 1992)
 ```
