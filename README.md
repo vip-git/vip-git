@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Monday` ⚡⚡⚡
+Have an amazing `Tuesday` ⚡⚡⚡
 
-Did you know Today on `02nd November`
+Did you know Today on `03rd November`
 ```
-“Harry S. Truman defeated Thomas E. Dewey to the surprise of pollsters and newspapers, in the greatest presidential upset in history.” (Year: 1948)
+“Panama proclaimed its independence from Colombia.” (Year: 1903)
 ```
