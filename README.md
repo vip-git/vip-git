@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Thursday` ⚡⚡⚡
+Have an amazing `Friday` ⚡⚡⚡
 
-Did you know Today on `05th November`
+Did you know Today on `06th November`
 ```
-“George B. Selden of Rochester, N.Y., received the first U.S. patent for an automobile.” (Year: 1895)
+“Mohandas Gandhi led a march of miners in South Africa. He was arrested three times in the first four days of the march.” (Year: 1913)
 ```
