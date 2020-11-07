@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Friday` ⚡⚡⚡
+Have an amazing `Saturday` ⚡⚡⚡
 
-Did you know Today on `06th November`
+Did you know Today on `07th November`
 ```
-“Mohandas Gandhi led a march of miners in South Africa. He was arrested three times in the first four days of the march.” (Year: 1913)
+“Vladimir Lenin`s forces overthrew Alexander Kerensky`s government in Russia`s Bolshevik Revolution.” (Year: 1917)
 ```
