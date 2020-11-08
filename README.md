@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Saturday` ⚡⚡⚡
+Have an amazing `Sunday` ⚡⚡⚡
 
-Did you know Today on `07th November`
+Did you know Today on `08th November`
 ```
-“Vladimir Lenin`s forces overthrew Alexander Kerensky`s government in Russia`s Bolshevik Revolution.” (Year: 1917)
+“After a 40-year Democrat domination, the Republican Party gained control of the U.S. House of Representatives, as well as a Senate majority.” (Year: 1994)
 ```
