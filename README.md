@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Sunday` ⚡⚡⚡
+Have an amazing `Monday` ⚡⚡⚡
 
-Did you know Today on `08th November`
+Did you know Today on `09th November`
 ```
-“After a 40-year Democrat domination, the Republican Party gained control of the U.S. House of Representatives, as well as a Senate majority.” (Year: 1994)
+“A switch at a station near Niagara Falls failed. The Northeast and parts of Canada went dark for more than 13 hours.” (Year: 1965)
 ```
