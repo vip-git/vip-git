@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Monday` ⚡⚡⚡
+Have an amazing `Tuesday` ⚡⚡⚡
 
-Did you know Today on `09th November`
+Did you know Today on `10th November`
 ```
-“A switch at a station near Niagara Falls failed. The Northeast and parts of Canada went dark for more than 13 hours.” (Year: 1965)
+“The Great Wall of China opened to the world for tourism.” (Year: 1970)
 ```
