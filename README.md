@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Tuesday` ⚡⚡⚡
+Have an amazing `Wednesday` ⚡⚡⚡
 
-Did you know Today on `10th November`
+Did you know Today on `11th November`
 ```
-“The Great Wall of China opened to the world for tourism.” (Year: 1970)
+“Rhodesia proclaimed its independence from Britain.” (Year: 1965)
 ```
