@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Wednesday` ⚡⚡⚡
+Have an amazing `Thursday` ⚡⚡⚡
 
-Did you know Today on `11th November`
+Did you know Today on `12th November`
 ```
-“Rhodesia proclaimed its independence from Britain.” (Year: 1965)
+“The space shuttle Columbia was launched for the second time. It was the first time a space vehicle was used more than once.” (Year: 1981)
 ```
