@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Thursday` ⚡⚡⚡
+Have an amazing `Friday` ⚡⚡⚡
 
-Did you know Today on `12th November`
+Did you know Today on `13th November`
 ```
-“The space shuttle Columbia was launched for the second time. It was the first time a space vehicle was used more than once.” (Year: 1981)
+“Vincent Schaefer produced artificial snow from a natural cloud for the first time at Mount Greylock in Massachusetts.” (Year: 1946)
 ```
