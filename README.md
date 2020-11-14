@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Friday` ⚡⚡⚡
+Have an amazing `Saturday` ⚡⚡⚡
 
-Did you know Today on `13th November`
+Did you know Today on `14th November`
 ```
-“Vincent Schaefer produced artificial snow from a natural cloud for the first time at Mount Greylock in Massachusetts.” (Year: 1946)
+“Apollo 12, the second manned lunar expedition, was launched.” (Year: 1969)
 ```
