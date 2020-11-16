@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Sunday` ⚡⚡⚡
+Have an amazing `Monday` ⚡⚡⚡
 
-Did you know Today on `15th November`
+Did you know Today on `16th November`
 ```
-“About 250,000 protesters against the Vietnam War, the largest war protest ever, converged peacefully on Washington, DC.” (Year: 1969)
+“The United States and the Soviet Union established diplomatic relations.” (Year: 1933)
 ```
