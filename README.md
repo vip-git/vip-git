@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Monday` ⚡⚡⚡
+Have an amazing `Tuesday` ⚡⚡⚡
 
-Did you know Today on `16th November`
+Did you know Today on `17th November`
 ```
-“The United States and the Soviet Union established diplomatic relations.” (Year: 1933)
+“Arnold Schwarzenegger was sworn in as governor of California.” (Year: 2003)
 ```
