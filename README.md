@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Tuesday` ⚡⚡⚡
+Have an amazing `Wednesday` ⚡⚡⚡
 
-Did you know Today on `17th November`
+Did you know Today on `18th November`
 ```
-“Arnold Schwarzenegger was sworn in as governor of California.” (Year: 2003)
+“Captain Nathaniel Palmer discovered Antarctica.” (Year: 1820)
 ```
