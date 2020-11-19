@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Wednesday` ⚡⚡⚡
+Have an amazing `Thursday` ⚡⚡⚡
 
-Did you know Today on `18th November`
+Did you know Today on `19th November`
 ```
-“Captain Nathaniel Palmer discovered Antarctica.” (Year: 1820)
+“Milli Vanilli`s Grammy award was rescinded after it was discovered they didn`t do their own singing.” (Year: 1990)
 ```
