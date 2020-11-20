@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Thursday` ⚡⚡⚡
+Have an amazing `Friday` ⚡⚡⚡
 
-Did you know Today on `19th November`
+Did you know Today on `20th November`
 ```
-“Milli Vanilli`s Grammy award was rescinded after it was discovered they didn`t do their own singing.” (Year: 1990)
+“The future Queen Elizabeth II married Philip Mountbatten, Duke of Ediburgh.” (Year: 1947)
 ```
