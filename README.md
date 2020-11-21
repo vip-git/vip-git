@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Friday` ⚡⚡⚡
+Have an amazing `Saturday` ⚡⚡⚡
 
-Did you know Today on `20th November`
+Did you know Today on `21st November`
 ```
-“The future Queen Elizabeth II married Philip Mountbatten, Duke of Ediburgh.” (Year: 1947)
+“Egypt`s Boutros Boutros-Ghali was chosen to become secretary-general by the UN Security Council.” (Year: 1991)
 ```
