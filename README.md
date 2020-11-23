@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Sunday` ⚡⚡⚡
+Have an amazing `Monday` ⚡⚡⚡
 
-Did you know Today on `22nd November`
+Did you know Today on `23rd November`
 ```
-“German politician Angela Merkel was sworn in as the country's chancellor, becoming the first woman to hold the post.” (Year: 2005)
+“The first smartphone, the IBM Simon, is introduced at COMDEX in Las Vegas, Nevada.” (Year: 1992) “People's Republic of China was seated at the UN Security Council.” (Year: 1971)
 ```
