@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Monday` ⚡⚡⚡
+Have an amazing `Tuesday` ⚡⚡⚡
 
-Did you know Today on `23rd November`
+Did you know Today on `24th November`
 ```
-“The first smartphone, the IBM Simon, is introduced at COMDEX in Las Vegas, Nevada.” (Year: 1992) “People's Republic of China was seated at the UN Security Council.” (Year: 1971)
+“Abel Tasman discovered Van Diemen's land, later renamed Tasmania.” (Year: 1642)
 ```
