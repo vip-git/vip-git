@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Tuesday` ⚡⚡⚡
+Have an amazing `Wednesday` ⚡⚡⚡
 
-Did you know Today on `24th November`
+Did you know Today on `25th November`
 ```
-“Abel Tasman discovered Van Diemen's land, later renamed Tasmania.” (Year: 1642)
+“The British captured Fort Duquesne (Pittsburgh) in the French and Indian Wars.” (Year: 1758)
 ```
