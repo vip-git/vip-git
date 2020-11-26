@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Wednesday` ⚡⚡⚡
+Have an amazing `Thursday` ⚡⚡⚡
 
-Did you know Today on `25th November`
+Did you know Today on `26th November`
 ```
-“The British captured Fort Duquesne (Pittsburgh) in the French and Indian Wars.” (Year: 1758)
+“Tony Blair became the first British prime minister to speak to the Irish parliament.” (Year: 1998)
 ```
