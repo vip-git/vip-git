@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Thursday` ⚡⚡⚡
+Have an amazing `Friday` ⚡⚡⚡
 
-Did you know Today on `26th November`
+Did you know Today on `27th November`
 ```
-“Tony Blair became the first British prime minister to speak to the Irish parliament.” (Year: 1998)
+“Lord Byron`s daughter Ada died. She had assisted Charles Babbage with his `analytical engine` and is credited with inventing computer language.” (Year: 1852)
 ```
