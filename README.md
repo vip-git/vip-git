@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Friday` ⚡⚡⚡
+Have an amazing `Saturday` ⚡⚡⚡
 
-Did you know Today on `27th November`
+Did you know Today on `28th November`
 ```
-“Lord Byron`s daughter Ada died. She had assisted Charles Babbage with his `analytical engine` and is credited with inventing computer language.” (Year: 1852)
+“The U.S. spacecraft Mariner 4 launched—on its way to the first successful mission to Mars.” (Year: 1964)
 ```
