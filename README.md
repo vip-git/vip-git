@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Saturday` ⚡⚡⚡
+Have an amazing `Sunday` ⚡⚡⚡
 
-Did you know Today on `28th November`
+Did you know Today on `29th November`
 ```
-“The U.S. spacecraft Mariner 4 launched—on its way to the first successful mission to Mars.” (Year: 1964)
+“The United Nations voted to grant the Jewish people a homeland to be established in Palestine.” (Year: 1947)
 ```
