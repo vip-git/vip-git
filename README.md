@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Sunday` ⚡⚡⚡
+Have an amazing `Monday` ⚡⚡⚡
 
-Did you know Today on `29th November`
+Did you know Today on `30th November`
 ```
-“The United Nations voted to grant the Jewish people a homeland to be established in Palestine.” (Year: 1947)
+“Barbados became independent of Great Britain.” (Year: 1966)
 ```
