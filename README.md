@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Monday` ⚡⚡⚡
+Have an amazing `Tuesday` ⚡⚡⚡
 
-Did you know Today on `30th November`
+Did you know Today on `01st December`
 ```
-“Barbados became independent of Great Britain.” (Year: 1966)
+“Exxon and Mobil agreed to merge, creating the world`s largest corporation.” (Year: 1998)
 ```
