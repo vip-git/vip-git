@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Tuesday` ⚡⚡⚡
+Have an amazing `Wednesday` ⚡⚡⚡
 
-Did you know Today on `01st December`
+Did you know Today on `02nd December`
 ```
-“Exxon and Mobil agreed to merge, creating the world`s largest corporation.” (Year: 1998)
+“Napoleon Bonaparte was crowned emperor of France in Paris by Pope Pius VII.” (Year: 1804)
 ```
