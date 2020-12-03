@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Wednesday` ⚡⚡⚡
+Have an amazing `Thursday` ⚡⚡⚡
 
-Did you know Today on `02nd December`
+Did you know Today on `03rd December`
 ```
-“Napoleon Bonaparte was crowned emperor of France in Paris by Pope Pius VII.” (Year: 1804)
+“Dr. Christiaan N. Barnard performed the world's first successful human heart transplant.” (Year: 1967)
 ```
