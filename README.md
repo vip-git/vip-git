@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Friday` ⚡⚡⚡
+Have an amazing `Saturday` ⚡⚡⚡
 
-Did you know Today on `04th December`
+Did you know Today on `05th December`
 ```
-“Dianne Feinstein became San Francisco`s first female mayor.” (Year: 1978)
+“Having left New York on Nov. 5, the brigantine Mary Celeste was found adrift off Portugal with everyone aboard mysteriously missing.” (Year: 1872)
 ```
