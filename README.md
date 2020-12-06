@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Saturday` ⚡⚡⚡
+Have an amazing `Sunday` ⚡⚡⚡
 
-Did you know Today on `05th December`
+Did you know Today on `06th December`
 ```
-“Having left New York on Nov. 5, the brigantine Mary Celeste was found adrift off Portugal with everyone aboard mysteriously missing.” (Year: 1872)
+“The destruction of a mosque in India by Hindu extremists set off two months of Muslim-Hindu fighting that claimed at least 2,000 lives.” (Year: 1992)
 ```
