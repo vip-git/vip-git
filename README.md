@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Sunday` ⚡⚡⚡
+Have an amazing `Monday` ⚡⚡⚡
 
-Did you know Today on `06th December`
+Did you know Today on `07th December`
 ```
-“The destruction of a mosque in India by Hindu extremists set off two months of Muslim-Hindu fighting that claimed at least 2,000 lives.” (Year: 1992)
+“A 6.9 magnitude earthquake hit Armenia, killing 25,000.” (Year: 1988)
 ```
