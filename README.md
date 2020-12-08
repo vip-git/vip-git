@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Monday` ⚡⚡⚡
+Have an amazing `Tuesday` ⚡⚡⚡
 
-Did you know Today on `07th December`
+Did you know Today on `08th December`
 ```
-“A 6.9 magnitude earthquake hit Armenia, killing 25,000.” (Year: 1988)
+“John Lennon, former member of the Beatles, was shot and killed in New York City by a deranged fan.” (Year: 1980)
 ```
