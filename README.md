@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Tuesday` ⚡⚡⚡
+Have an amazing `Wednesday` ⚡⚡⚡
 
-Did you know Today on `08th December`
+Did you know Today on `09th December`
 ```
-“John Lennon, former member of the Beatles, was shot and killed in New York City by a deranged fan.” (Year: 1980)
+“U.S. astronauts completed repair work on the Hubble Space Telescope.” (Year: 1993)
 ```
