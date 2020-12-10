@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Wednesday` ⚡⚡⚡
+Have an amazing `Thursday` ⚡⚡⚡
 
-Did you know Today on `09th December`
+Did you know Today on `10th December`
 ```
-“U.S. astronauts completed repair work on the Hubble Space Telescope.” (Year: 1993)
+“Dr. Martin Luther King, Jr., received the Nobel Peace Prize.” (Year: 1964)
 ```
