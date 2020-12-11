@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Thursday` ⚡⚡⚡
+Have an amazing `Friday` ⚡⚡⚡
 
-Did you know Today on `10th December`
+Did you know Today on `11th December`
 ```
-“Dr. Martin Luther King, Jr., received the Nobel Peace Prize.” (Year: 1964)
+“The United Nations International Children's Emergency Fund (UNICEF) was established.” (Year: 1946)
 ```
