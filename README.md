@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Friday` ⚡⚡⚡
+Have an amazing `Saturday` ⚡⚡⚡
 
-Did you know Today on `11th December`
+Did you know Today on `12th December`
 ```
-“The United Nations International Children's Emergency Fund (UNICEF) was established.” (Year: 1946)
+“Kenya gained its independence from Britain.” (Year: 1963)
 ```
