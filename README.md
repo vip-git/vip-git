@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Saturday` ⚡⚡⚡
+Have an amazing `Sunday` ⚡⚡⚡
 
-Did you know Today on `12th of December`
+Did you know Today on `13th of December`
 ```
-“Kenya gained its independence from Britain.” (Year: 1963)
+“American forces captured Saddam Hussein who was hiding in a hole near his hometown of Tikrit.” (Year: 2003)
 ```
