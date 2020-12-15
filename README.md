@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Monday` ⚡⚡⚡
+Have an amazing `Tuesday` ⚡⚡⚡
 
-Did you know Today on `14th of December`
+Did you know Today on `15th of December`
 ```
-“DNA synthesized for the first time.” (Year: 1967)
+“Canada adopted its national flag, a red maple leaf on a white background.” (Year: 1964)
 ```
