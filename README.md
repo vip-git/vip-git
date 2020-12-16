@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Tuesday` ⚡⚡⚡
+Have an amazing `Wednesday` ⚡⚡⚡
 
-Did you know Today on `15th of December`
+Did you know Today on `16th of December`
 ```
-“Canada adopted its national flag, a red maple leaf on a white background.” (Year: 1964)
+“One of the deadliest earthquakes in history hit the Gansu province in China. The 8.6 quake killed 200,000 people.” (Year: 1920)
 ```
