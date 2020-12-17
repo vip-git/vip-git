@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Wednesday` ⚡⚡⚡
+Have an amazing `Thursday` ⚡⚡⚡
 
-Did you know Today on `16th of December`
+Did you know Today on `17th of December`
 ```
-“One of the deadliest earthquakes in history hit the Gansu province in China. The 8.6 quake killed 200,000 people.” (Year: 1920)
+“North American Free Trade Agreement (NAFTA) signed by U.S., Canada, and Mexico.” (Year: 1992)
 ```
