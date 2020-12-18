@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Thursday` ⚡⚡⚡
+Have an amazing `Friday` ⚡⚡⚡
 
-Did you know Today on `17th of December`
+Did you know Today on `18th of December`
 ```
-“North American Free Trade Agreement (NAFTA) signed by U.S., Canada, and Mexico.” (Year: 1992)
+“The British Parliament abolished the death penalty for murder.” (Year: 1969)
 ```
