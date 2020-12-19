@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Friday` ⚡⚡⚡
+Have an amazing `Saturday` ⚡⚡⚡
 
-Did you know Today on `18th of December`
+Did you know Today on `19th of December`
 ```
-“The British Parliament abolished the death penalty for murder.” (Year: 1969)
+“Britain and China signed an accord returning Hong Kong to Chinese sovereignty on July 1, 1997.” (Year: 1984)
 ```
