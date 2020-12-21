@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Sunday` ⚡⚡⚡
+Have an amazing `Monday` ⚡⚡⚡
 
-Did you know Today on `20th of December`
+Did you know Today on `21st of December`
 ```
-“Astronomer Carl Sagan died at age 62.” (Year: 1996)
+“The first basketball game, invented at Springfield College in Massachusetts by James E. Naismith, was played.” (Year: 1891)
 ```
