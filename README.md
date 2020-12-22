@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Monday` ⚡⚡⚡
+Have an amazing `Tuesday` ⚡⚡⚡
 
-Did you know Today on `21st of December`
+Did you know Today on `22nd of December`
 ```
-“The first basketball game, invented at Springfield College in Massachusetts by James E. Naismith, was played.” (Year: 1891)
+“French army officer Capt. Alfred Dreyfus was convicted of treason in a court-martial.” (Year: 1894)
 ```
