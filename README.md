@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Tuesday` ⚡⚡⚡
+Have an amazing `Wednesday` ⚡⚡⚡
 
-Did you know Today on `05th of January`
+Did you know Today on `06th of January`
  
- [<img src="https://upload.wikimedia.org/wikipedia/commons/7/71/Roentgen2.jpg" width="300" />](https://en.wikipedia.org/wiki/Wilhelm_R%C3%B6ntgen#:~:text=R%C3%B6ntgen's%20original%20paper%2C%20%22On%20A,a%20new%20type%20of%20radiation.) 
+ [<img src="https://thumbs-prod.si-cdn.com/73YmFRdqSbdYN44Dk0hSsNbm1JU=/800x600/filters:no_upscale()/https://public-media.si-cdn.com/filer/10/13/10135e71-4e55-483b-bc41-b6fe7f8d29df/kilonova_thumbnail_02.png" width="300" />](https://www.nytimes.com/1987/01/07/us/astronomers-report-seeing-galaxy-s-birth-for-first-time.html) 
  ```
-“A German newspaper reported German physicist Wilhelm Roentgen`s discovery of X-rays.” (Year: 1896)
+“University of California astronomers first witnessed the birth of a galaxy that contained 1 billion stars.” (Year: 1987)
 ```
