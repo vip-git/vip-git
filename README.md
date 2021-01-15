@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Thursday` ⚡⚡⚡
+Have an amazing `Friday` ⚡⚡⚡
 
-Did you know Today on `14th of January`
+Did you know Today on `15th of January`
  
- [<img src="https://upload.wikimedia.org/wikipedia/en/0/0d/Simpsons_FamilyPicture.png" width="300" />](http://en.wikipedia.org/wiki/Bart_the_Genius) 
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Sir_Hans_Sloane%2C_an_engraving_from_a_portrait_by_T._Murray.jpg" width="300" />](http://en.wikipedia.org/wiki/British_Museum) 
  ```
-“The Simpsons premiered on television.” (Year: 1990)
+“The British Museum opened.” (Year: 1759)
 ```
