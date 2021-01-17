@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Saturday` ⚡⚡⚡
+Have an amazing `Sunday` ⚡⚡⚡
 
-Did you know Today on `16th of January`
+Did you know Today on `17th of January`
  
- [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Close-up_STS-107_Launch_-_GPN-2003-00080.jpg/1280px-Close-up_STS-107_Launch_-_GPN-2003-00080.jpg" width="300" />](https://en.wikipedia.org/wiki/Space_Shuttle_Columbia_disaster#:~:text=launched%20on%20January%2016,%202003) 
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Thomas_Mann_Randolph.jpg/400px-Thomas_Mann_Randolph.jpg" width="300" />](https://en.wikipedia.org/wiki/Martha_Jefferson_Randolph#:~:text=James%20Madison%20Randolph%20(1806%E2%80%931834)%20was%20born%20at%20the%20President's%20House) 
  ```
-“Space shuttle Columbia blasted off on what would be its final mission. The craft broke up on its descent on Feb. 1, killing all on board.” (Year: 2003)
+“James Madison Randolph, the grandson of Thomas Jefferson, became the first child born in the White House.” (Year: 1806)
 ```
