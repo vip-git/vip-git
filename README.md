@@ -1,5 +1,5 @@
 ## Hey there 👋
-Have an amazing `Friday` ⚡⚡
+Have an amazing `Friday` ⚡⚡⚡
 
 Did you know Today on `22nd of January`
  
