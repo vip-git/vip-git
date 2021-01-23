@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Friday` ⚡⚡⚡
+Have an amazing `Saturday` ⚡⚡⚡
 
-Did you know Today on `22nd of January`
+Did you know Today on `23rd of January`
  
- [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Denning%2C_Stephen_Poyntz_-_Princess_Victoria_aged_Four_-_Google_Art_Project.jpg/1280px-Denning%2C_Stephen_Poyntz_-_Princess_Victoria_aged_Four_-_Google_Art_Project.jpg" width="300" />](https://en.wikipedia.org/wiki/Queen_Victoria#:~:text=Victoria%20Alexandrina%20Victoria%3B%2024%20May,of%20any%20of%20her%20predecessors.) 
+ [<img src="https://devastatingdisasters.com/wp-content/uploads/2015/03/shaanxi-earthquake-1556-featured.jpg" width="300" />](https://en.wikipedia.org/wiki/1556_Shaanxi_earthquake) 
  ```
-“Queen Victoria of England died after reigning for 63 years (the 4th longest among longest-reigning monarchs and the longest for queens).” (Year: 1901)
+“The deadliest earthquake on record killed 830,000 in Shansi, China.” (Year: 1556)
 ```
