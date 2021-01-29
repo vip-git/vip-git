@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Thursday` ⚡⚡⚡
+Have an amazing `Friday` ⚡⚡⚡
 
-Did you know Today on `28th of January`
+Did you know Today on `29th of January`
  
- [<img src="https://www.chemistrylearner.com/wp-content/uploads/2018/03/Flerovium-Atomic-Structure-Bohr-Model.png" width="300" />](https://en.wikipedia.org/wiki/Flerovium#:~:text=was%20published%20in%20January%201999s) 
+ [<img src="https://heartthatvroom.files.wordpress.com/2017/10/benz.jpg?w=640" width="300" />](https://www.daimler.com/company/tradition/company-history/1885-1886.html#:~:text=On%20January%2029%2C%201886%2C%20Carl,birth%20certificate%20of%20the%20automobile.) 
  ```
-“The creation of Element 114 is announced by scientists.” (Year: 1999)
+“Karl Benz received a patent for the first successful gasoline-driven car.” (Year: 1886)
 ```
