@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Saturday` ⚡⚡⚡
+Have an amazing `Sunday` ⚡⚡⚡
 
-Did you know Today on `13th of February`
+Did you know Today on `14th of February`
  
- [<img src="https://m.dw.com/image/17870031_401.jpg" width="300" />](https://en.wikipedia.org/wiki/Gerboise_Bleue_(nuclear_test)) 
+ [<img src="https://i.pinimg.com/originals/4c/41/86/4c4186ac8fc973ae17a1ef39907eeb1d.jpg" width="300" />](https://www.britannica.com/place/Grenada/Independence) 
  ```
-“France exploded its first atomic bomb.” (Year: 1960)
+“The League of Women Voters was founded.” (Year: 1920)
 ```
