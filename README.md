@@ -1,5 +1,5 @@
 ## Hey there 👋
-Have an amazing `Sunday` ⚡⚡
+Have an amazing `Sunday` ⚡⚡⚡
 
 Did you know Today on `21st of February`
  
