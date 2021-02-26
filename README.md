@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Thursday` ⚡⚡⚡
+Have an amazing `Friday` ⚡⚡⚡
 
-Did you know Today on `25th of February`
+Did you know Today on `26th of February`
  
- [<img src="https://img.haikudeck.com/mg/93BC6355-C0F2-4EB4-83C9-12AD9CF65888.jpg" width="300" />](https://en.wikipedia.org/wiki/U.S._Steel#:~:text=J.%20P.%20Morgan%20formed%20U.S.%20Steel,million%20) 
+ [<img src="https://thisdayintechhistory.com/wp-content/uploads/2011/02/798px-Watson_watt_02_fr-300x225.jpg" width="300" />](https://www.wired.com/2008/02/dayintech-0226/) 
  ```
-“J.P. Morgan formed U.S. Steel Corporation, the first billion-dollar corporation in the world.” (Year: 1901)
+“RADAR (Radio Detection and Ranging) was first demonstrated by Robert Watson-Watt.” (Year: 1935)
 ```
