@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Wednesday` ⚡⚡⚡
+Have an amazing `Thursday` ⚡⚡⚡
 
-Did you know Today on `03rd of March`
+Did you know Today on `04th of March`
  
- [<img src="https://historycms2.house.gov/assets/15032390670.jpeg?wd=280" width="300" />](https://history.house.gov/Institution/Presidential-Vetoes/Presidential-Vetoes/#:~:text=The%20first%20successful%20congressional%20override,veto%20that%20cannot%20be%20overridden.) 
+ [<img src="https://i.ytimg.com/vi/tsMT0BjaUtg/hqdefault.jpg" width="300" />](https://www.history.com/this-day-in-history/u-s-constitution-ratified#:~:text=As%20dictated%20by%20Article%20VII,nine%20of%20the%2013%20states.&text=On%20June%2021%2C%201788%2C%20New,begin%20on%20March%204%2C%201789.) 
  ```
-“The U.S. Senate passed legislation overriding a presidential veto for the first time.” (Year: 1845)
+“The Constitution of the United States went into effect.” (Year: 1789)
 ```
