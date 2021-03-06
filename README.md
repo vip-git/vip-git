@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Friday` ⚡⚡⚡
+Have an amazing `Saturday` ⚡⚡⚡
 
-Did you know Today on `05th of March`
+Did you know Today on `06th of March`
  
- [<img src="https://bsmedia.business-standard.com/_media/bs/img/article/2017-10/13/full/1507873417-6694.jpg" width="300" />](http://edition.cnn.com/WORLD/9703/05/korea.talks/) 
+ [<img src="https://pbs.twimg.com/media/COOd8nBWcAAz1HX.jpg" width="300" />](https://observer.com/2015/09/queen-elizabeth-a-high-tech-monarch/#:~:text=1997%3A%20The%20Queen%20launched%20www,a%20video%20to%20the%20site.) 
  ```
-“North and South Korean representatives met for the first time in 25 years for peace talks.” (Year: 1997)
+“Queen Elizabeth II launched the first royal website.” (Year: 1997)
 ```
