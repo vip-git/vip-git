@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Monday` ⚡⚡⚡
+Have an amazing `Tuesday` ⚡⚡⚡
 
-Did you know Today on `15th of March`
+Did you know Today on `16th of March`
  
- [<img src="https://science.nasa.gov/files/science-pink/s3fs-public/styles/large/public/mnt/medialibrary/2004/03/15/16mar_sedna_resources/comparison.jpg" width="300" />](https://www.nasa.gov/home/hqnews/2004/mar/HQ_04091_sedna_discovered.html) 
+ [<img src="http://www.todayifoundout.com/wp-content/uploads/2012/03/Goddard_and_Rocket.jpg" width="300" />](https://www.history.com/this-day-in-history/first-liquid-fueled-rocket#:~:text=Goddard%2C%20who%20successfully%20launches%20the,and%20landing%20184%20feet%20away.) 
  ```
-“Scientists reported the discovery of Sedna, the most distant object in the solar system.” (Year: 2004)
+“The first liquid-fuel rocket was successfully launched by Prof. Robert Goddard at Auburn, Massachusetts. The rocket traveled 184 feet in 2.5 seconds.” (Year: 1926)
 ```
