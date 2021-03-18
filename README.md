@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Wednesday` ⚡⚡⚡
+Have an amazing `Thursday` ⚡⚡⚡
 
-Did you know Today on `17th of March`
+Did you know Today on `18th of March`
  
- [<img src="https://georgewbush-whitehouse.archives.gov/news/releases/2003/09/images/20030907-1_address090703th-515h.jpg" width="300" />](http://edition.cnn.com/2003/US/03/17/sprj.irq.bush.speech/index.html) 
+ [<img src="https://static.scientificamerican.com/sciam/cache/file/D1E80695-CB95-4991-AA920CD1223C0CE0_source.jpg" width="300" />](https://cneos.jpl.nasa.gov/news/news142.html) 
  ```
-“President Bush delivered an ultimatum to Saddam Hussein: leave Iraq within 48 hours or face an attack.” (Year: 2003)
+“A small asteroid made the closest approach to Earth ever recorded, only about 26,500 miles away.” (Year: 2004)
 ```
