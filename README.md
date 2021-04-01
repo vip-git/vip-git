@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Wednesday` ⚡⚡⚡
+Have an amazing `Thursday` ⚡⚡⚡
 
-Did you know Today on `31st of March`
+Did you know Today on `01st of April`
  
- [<img src="https://www.toureiffel.paris/sites/default/files/styles/1200x675/public/actualite/image_principale/Expo_universelle_1889.jpg?itok=R04yXdCc" width="300" />](https://www.history.com/this-day-in-history/eiffel-tower-opens) 
+ [<img src="https://content.fortune.com/wp-content/uploads/2016/04/gettyimages-515561638.jpg" width="300" />](https://www.cnbc.com/2020/02/06/steve-wozniak-on-steve-jobs-personality-shift-as-apple-co-founder.html#:~:text=They%20founded%20Apple%20Computers%2C%20Inc,company%20started%20to%20take%20off.) 
  ```
-“The Eiffel Tower in Paris officially opened.” (Year: 1889)
+“Steve Wozniak and Steve Jobs founded Apple Computer.” (Year: 1976)
 ```
