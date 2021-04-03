@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Friday` ⚡⚡⚡
+Have an amazing `Saturday` ⚡⚡⚡
 
-Did you know Today on `02nd of April`
+Did you know Today on `03rd of April`
  
- [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Juan_Ponce_de_Le%C3%B3n.jpg/480px-Juan_Ponce_de_Le%C3%B3n.jpg" width="300" />](https://en.wikipedia.org/wiki/Juan_Ponce_de_Le%C3%B3n) 
+ [<img src="https://www.historyonthenet.com/wp-content/uploads/2017/04/2000px-US-MarshallPlanAid-Logo.svg_.png" width="300" />](https://en.wikipedia.org/wiki/Marshall_Plan) 
  ```
-“Spanish explorer Juan Ponce de Leon landed in Florida.” (Year: 1513)
+“President Truman signed the Marshall Plan, which would foster the recovery of war-torn Europe.” (Year: 1948)
 ```
