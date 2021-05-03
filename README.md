@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Sunday` ⚡⚡⚡
+Have an amazing `Monday` ⚡⚡⚡
 
-Did you know Today on `02nd of May`
+Did you know Today on `03rd of May`
  
- [<img src="https://www.limkokwing.net/graphics/community/recognized_leadership/nelson_mandela.jpeg" width="300" />](https://www.africa.upenn.edu/Articles_Gen/Election_Victory_15727.html) 
+ [<img src="https://media.npr.org/assets/img/2012/06/21/thatcher0106_slide-985df7d37a90ba48dbb98a02ed451df845af4106.jpg" width="300" />](https://en.wikipedia.org/wiki/Margaret_Thatcher#:~:text=A%20general%20election%20was%20called,first%20female%20British%20prime%20minister.) 
  ```
-“Nelson Mandela was victorious in South Africa’s first multiracial election.” (Year: 1994)
+“Margaret Thatcher became the first woman elected prime minister of England.” (Year: 1979)
 ```
