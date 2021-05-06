@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Wednesday` ⚡⚡⚡
+Have an amazing `Thursday` ⚡⚡⚡
 
-Did you know Today on `05th of May`
+Did you know Today on `06th of May`
  
- [<img src="https://www1.insh.world/wp-content/uploads/sites/28/2019/03/top20_most_expansive_paintings_10.jpg" width="300" />](https://edition.cnn.com/2004/US/05/05/picasso.auction/index.html#:~:text=NEW%20YORK%20(CNN)%20%2D%2D%20A,of%20Sotheby's%20for%20%2493%20million.) 
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Scotland_Parliament_Holyrood.jpg" width="300" />](https://en.wikipedia.org/wiki/Scottish_Parliament#:~:text=An%20election%20was%20held%20on%206%20May) 
  ```
-“Pablo Picasso`s `Boy with a Pipe` became the most expensive painting ever sold.” (Year: 2004)
+“Scotland elected its first separate parliament in three centuries.” (Year: 1999)
 ```
