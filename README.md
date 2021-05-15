@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Friday` ⚡⚡⚡
+Have an amazing `Saturday` ⚡⚡⚡
 
-Did you know Today on `14th of May`
+Did you know Today on `15th of May`
  
- [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/PalestineRailways-1946-sabotage-JaffaJerusalem-1.jpg" width="300" />](https://en.wikipedia.org/wiki/Jewish_insurgency_in_Mandatory_Palestine) 
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Ellen_Church_%28cropped%29.jpg" width="300" />](https://www.thisdayinaviation.com/tag/ellen-church-marshall/#:~:text=15%20May%201930&text=Miss%20Ellen%20Evalyn%20Church%2C%20R.N.,California%2C%20to%20Chicago%2C%20Illinois.) 
  ```
-“British rule in Palestine came to an end as The Jewish National Council proclaimed the State of Israel. Within hours, Israel was under attack from Arab forces.” (Year: 1948)
+“On a Boeing Air Transport flight between Oakland and Chicago, Ellen Church became the first airline stewardess.” (Year: 1930)
 ```
