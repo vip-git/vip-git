@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Thursday` ⚡⚡⚡
+Have an amazing `Friday` ⚡⚡⚡
 
-Did you know Today on `03rd of June`
+Did you know Today on `04th of June`
  
- [<img src="https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/images/235794main_GPN-2006-000025_full.jpg" width="300" />](https://www.nasa.gov/multimedia/imagegallery/image_feature_1098.html) 
+ [<img src="https://th.thgim.com/children/jv79f8/article24056083.ece/ALTERNATES/FREE_960/03istbFordQuadricyclejpg" width="300" />](https://www.thehindu.com/children/fords-first-test-drive-in-a-quadricycle/article24056084.ece#:~:text=On%20June%204%2C%201896%2C%20Henry,on%20the%20way%20to%20greatness.) 
  ```
-“Maj. Edward White became the first U.S. astronaut to walk in space, during the Gemini 4 mission.” (Year: 1965)
+“Henry Ford took his first car out for a test drive.” (Year: 1896)
 ```
