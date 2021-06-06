@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Saturday` ⚡⚡⚡
+Have an amazing `Sunday` ⚡⚡⚡
 
-Did you know Today on `05th of June`
+Did you know Today on `06th of June`
  
- [<img src="https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2013/6/23/1372015020195/Edward-Snowden-008.jpg?width=620&quality=45&auto=format&fit=max&dpr=2&s=2a65cd0c2780d0ca227c3136c5710633" width="300" />](https://www.theguardian.com/world/2013/jun/23/edward-snowden-nsa-files-timeline) 
+ [<img src="https://townsquare.media/site/385/files/2019/06/GettyImages-3259113.jpg?w=980&q=75" width="300" />](https://www.history.com/this-day-in-history/first-drive-in-movie-theater-opens#:~:text=On%20June%206%2C%201933%2C%20eager,Boulevard%20in%20Camden%2C%20New%20Jersey.) 
  ```
-“The British newspaper the Guardian published the first of many stories based on leaks by Edward Snowden about the top-secret surveillance activities of the National Security Agency.” (Year: 2013)
+“The first drive-in movie theater opened in Camden, New Jersey.” (Year: 1933)
 ```
