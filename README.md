@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Saturday` ⚡⚡⚡
+Have an amazing `Sunday` ⚡⚡⚡
 
-Did you know Today on `19th of June`
+Did you know Today on `20th of June`
  
- [<img src="https://cdn.britannica.com/49/168949-050-64CF22C4/Map-states-slave-slavery-territory-freedom-Missouri-1856.jpg" width="300" />](https://www.archives.gov/publications/prologue/2017/winter/summer-of-1862) 
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/The_Black_hole%27_june_20_1756.jpg" width="300" />](https://en.wikipedia.org/wiki/Black_Hole_of_Calcutta) 
  ```
-“Congress abolished slavery in the U.S. territories.” (Year: 1862)
+“British soldiers were thrown into the cell known as the `Black Hole of Calcutta.`” (Year: 1756)
 ```
