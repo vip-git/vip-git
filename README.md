@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Saturday` ⚡⚡⚡
+Have an amazing `Sunday` ⚡⚡⚡
 
-Did you know Today on `26th of June`
+Did you know Today on `27th of June`
  
- [<img src="https://slideplayer.com/6907935/23/images/slide_1.jpg" width="300" />](https://en.wikipedia.org/wiki/Human_Genome_Project) 
+ [<img src="https://i.pinimg.com/originals/fd/cc/df/fdccdfe87488e78cd7b4971109b1415a.png" width="300" />](http://www.energyglobalnews.com/1954-obninsk-nuclear-plant-produces-worlds-first-commercial-electricity/#:~:text=On%20June%2026%2C%201954%2C%20at,100%20km%20southwest%20of%20Moscow.) 
  ```
-“The first map of the human genome, which required decoding more than 3 billion biochemical `letters` of human DNA, is completed.” (Year: 2000)
+“The world's first atomic power station opened at Obninsk, near Moscow.” (Year: 1954)
 ```
