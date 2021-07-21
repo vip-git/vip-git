@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Tuesday` ⚡⚡⚡
+Have an amazing `Wednesday` ⚡⚡⚡
 
-Did you know Today on `20th of July`
+Did you know Today on `21st of July`
  
- [<img src="https://thatgift.files.wordpress.com/2015/05/armstrong.jpg?w=1024&h=768&crop=1" width="300" />](https://www.history.com/this-day-in-history/armstrong-walks-on-moon#:~:text=At%2010%3A56%20p.m.%20EDT,on%20the%20surface%20of%20the) 
+ [<img src="https://i1.wp.com/exploreegyptwithessam.com/wp-content/uploads/2020/09/aswan-high-dam-aswan-high-dam-definition-aswan-high-dam-map-1.jpg?fit=910%2C683&ssl=1" width="300" />](https://www.history.com/this-day-in-history/aswan-high-dam-completed#:~:text=After%2011%20years%20of%20construction,completed%20on%20July%2021%2C%201970.) 
  ```
-“Astronaut Neil A. Armstrong was the first man to walk on the Moon.” (Year: 1969)
+“The Aswan High Dam was opened in Egypt.” (Year: 1970)
 ```
