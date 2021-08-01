@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Saturday` ⚡⚡⚡
+Have an amazing `Sunday` ⚡⚡⚡
 
-Did you know Today on `31st of July`
+Did you know Today on `01st of August`
  
- [<img src="https://static.wired868.com/wp-content/uploads/2018/11/Columbus-arriving-in-Caribbean-ftr-600x330.jpg" width="300" />](https://www.history.com/this-day-in-history/columbus-lands-in-south-america#:~:text=In%20May%201498%2C%20Columbus%20left,America%20on%20August%201%2C%201498.) 
+ [<img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Mtvstationid.gif/880px-Mtvstationid.gif" width="300" />](https://www.cnet.com/news/did-video-kill-the-radio-star/) 
  ```
-“Columbus arrived at the island of Trinidad.” (Year: 1498)
+“MTV made its debut at 12:01 AM. The first video shown was Video Killed the Radio Star by the Buggles.” (Year: 1981)
 ```
