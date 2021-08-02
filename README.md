@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Sunday` ⚡⚡⚡
+Have an amazing `Monday` ⚡⚡⚡
 
-Did you know Today on `01st of August`
+Did you know Today on `02nd of August`
  
- [<img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Mtvstationid.gif/880px-Mtvstationid.gif" width="300" />](https://www.cnet.com/news/did-video-kill-the-radio-star/) 
+ [<img src="https://i.pinimg.com/originals/19/59/cc/1959cca42c0a8a5f64316e9fdf1f3532.jpg" width="300" />](https://www.britannica.com/event/Persian-Gulf-War) 
  ```
-“MTV made its debut at 12:01 AM. The first video shown was Video Killed the Radio Star by the Buggles.” (Year: 1981)
+“The Persian Gulf War broke out when Iraq invaded Kuwait.” (Year: 1990)
 ```
