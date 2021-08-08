@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Saturday` ⚡⚡⚡
+Have an amazing `Sunday` ⚡⚡⚡
 
-Did you know Today on `07th of August`
+Did you know Today on `08th of August`
  
- [<img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Explorer_6_paddles_up.jpg" width="300" />](https://www.history.com/this-day-in-history/u-s-satellite-photographs-earth) 
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/8/89/00_Chamonix-Mont-Blanc_-_M_G_Paccard.jpg" width="300" />](https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/michel-gabriel-paccard) 
  ```
-“The United States launched Explorer 6, which sent back a picture of Earth.” (Year: 1959)
+“Dr. Michael-Gabriel Paccard and Jacques Balmat became the first to climb Mont Blanc.” (Year: 1786)
 ```
