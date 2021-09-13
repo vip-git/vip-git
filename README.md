@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Sunday` ⚡⚡⚡
+Have an amazing `Monday` ⚡⚡⚡
 
-Did you know Today on `12th of September`
+Did you know Today on `13th of September`
  
- [<img src="https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1495119923/rr3zfdd5xlzjzjwowu8j.jpg" width="300" />](https://reliefweb.int/report/indonesia/report-security-council-mission-jakarta-and-dili-8-12-sep-1999) 
+ [<img src="https://notevenpast.org/wp-content/uploads/2015/11/rabin-arafat.jpg" width="300" />](http://news.bbc.co.uk/onthisday/hi/dates/stories/september/13/newsid_3053000/3053733.stm) 
  ```
-“Indonesia announced it would allow an international peacekeeping force to restore order to East Timor.” (Year: 1999)
+“Israeli Prime Minister Yitzhak Rabin and PLO Chairman Yasir Arafat shook hands after signing an historic peace agreement.” (Year: 1993)
 ```
