@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Wednesday` ⚡⚡⚡
+Have an amazing `Thursday` ⚡⚡⚡
 
-Did you know Today on `22nd of September`
+Did you know Today on `23rd of September`
  
- [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Philippoteaux_-_Lamartine_in_front_of_the_Town_Hall_of_Paris_rejects_the_red_flag.jpg/1200px-Philippoteaux_-_Lamartine_in_front_of_the_Town_Hall_of_Paris_rejects_the_red_flag.jpg" width="300" />](https://library.brown.edu/cds/paris/chronology1.html#:~:text=Following%20the%20aftermaths%20of%20the,on%20September%2022%20of%201792.) 
+ [<img src="https://static.timesofisrael.com/www/uploads/2020/09/Screen-Shot-2020-09-25-at-16.54.15-e1601042173897.jpeg" width="300" />](https://www.aljazeera.com/news/2011/9/23/palestinians-submit-statehood-request-to-un) 
  ```
-“The French Republic was proclaimed.” (Year: 1792)
+“Palestinian president Mahmoud Abbas officially requests a bid for statehood at the UN Security Council.” (Year: 2011)
 ```
