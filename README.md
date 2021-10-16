@@ -3,7 +3,7 @@ Have an amazing `Saturday` ⚡⚡⚡
 
 Did you know Today on `16th of October`
  
- [<img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Zhou_Enlai_announced_the_success_of_China%27s_atomic_bomb_test.jpg" width="300" />](https://en.wikipedia.org/wiki/Project_596#:~:text=Project%20596%2C%20(Miss%20Qiu%20(,the%20Lop%20Nur%20test%20site.) 
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Zhou_Enlai_announced_the_success_of_China%27s_atomic_bomb_test.jpg" width="300" />](https://en.wikipedia.org/wiki/Project_596) 
  ```
 “China detonated its first atomic bomb.” (Year: 1964)
 ```
