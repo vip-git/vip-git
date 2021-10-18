@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Sunday` ⚡⚡⚡
+Have an amazing `Monday` ⚡⚡⚡
 
-Did you know Today on `17th of October`
+Did you know Today on `18th of October`
  
- [<img src="https://nu.aeon.co/images/5f3335c6-470b-45d0-adb3-ac47069a4df9/header_essay-93434392.jpg" width="300" />](https://www.rescue.org/article/albert-einstein-and-birth-international-rescue-committee#:~:text=Einstein%20arrived%20in%20America%20on,fled%20persecution%20in%20Nazi%20Germany.&text=Its%20mission%2C%20as%20The%20New,policies%20of%20the%20Hitler%20regime.%22) 
+ [<img src="https://pbs.twimg.com/media/EHJoBX2UUAA46q8.jpg" width="300" />](https://history.state.gov/milestones/1866-1898/alaska-purchase#:~:text=The%20Senate%20approved%20the%20treaty,to%20the%20Pacific%20northern%20rim.) 
  ```
-“Albert Einstein arrived in the United States as a refugee from Nazi Germany.” (Year: 1933)
+“The United States took possession of Alaska from Russia.” (Year: 1867)
 ```
