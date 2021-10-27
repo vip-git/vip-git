@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Tuesday` ⚡⚡⚡
+Have an amazing `Wednesday` ⚡⚡⚡
 
-Did you know Today on `26th of October`
+Did you know Today on `27th of October`
  
- [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Sadat_and_Begin_clean3.jpg/1920px-Sadat_and_Begin_clean3.jpg" width="300" />](https://en.wikipedia.org/wiki/Anwar_Sadat) 
+ [<img src="https://i.ytimg.com/vi/B_rbX17TZfs/maxresdefault.jpg" width="300" />](https://retronewser.com/2018/10/27/du-pont-names-new-synthetic-yarn-nylon-80-years-ago-onthisday-otd-oct-27-1938/) 
  ```
-“Anwar Sadat became the first Egyptian president to pay an official visit to the United States.” (Year: 1975)
+“Du Pont announced that it would name its new synthetic yarn nylon.” (Year: 1938)
 ```
