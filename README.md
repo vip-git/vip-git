@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Tuesday` ⚡⚡⚡
+Have an amazing `Wednesday` ⚡⚡⚡
 
-Did you know Today on `16th of November`
+Did you know Today on `17th of November`
  
- [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Jalta_1945.jpg" width="300" />](https://en.wikipedia.org/wiki/Soviet_Union–United_States_relations) 
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Arnold_Schwarzenegger_-_2019_%2833730956438%29_%28cropped%29.jpg" width="300" />](https://en.wikipedia.org/wiki/First_term_of_Arnold_Schwarzenegger_as_governor_of_California) 
  ```
-“The United States and the Soviet Union established diplomatic relations.” (Year: 1933)
+“Arnold Schwarzenegger was sworn in as governor of California.” (Year: 2003)
 ```
