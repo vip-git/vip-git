@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Sunday` ⚡⚡⚡
+Have an amazing `Monday` ⚡⚡⚡
 
-Did you know Today on `21st of November`
+Did you know Today on `22nd of November`
  
- [<img src="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2016/02/23805/image770x420cropped.jpg" width="300" />](https://www.arabnews.com/node/1660001) 
+ [<img src="https://static.dw.com/image/59221972_403.jpg" width="300" />](https://www.britannica.com/biography/Angela-Merkel) 
  ```
-“Egypt`s Boutros Boutros-Ghali was chosen to become secretary-general by the UN Security Council.” (Year: 1991)
+“German politician Angela Merkel was sworn in as the country's chancellor, becoming the first woman to hold the post.” (Year: 2005)
 ```
