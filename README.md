@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Tuesday` ⚡⚡⚡
+Have an amazing `Wednesday` ⚡⚡⚡
 
-Did you know Today on `30th of November`
+Did you know Today on `01st of December`
  
- [<img src="https://www.britishempire.co.uk/images3/barbados1760map.jpg" width="300" />](https://en.wikipedia.org/wiki/Barbados_Independence_Act_1966) 
+ [<img src="https://pbs.twimg.com/media/Cyc13uAUUAEPBB-.jpg" width="300" />](https://www.latimes.com/archives/la-xpm-1998-dec-02-mn-49856-story.html) 
  ```
-“Barbados became independent of Great Britain.” (Year: 1966)
+“Exxon and Mobil agreed to merge, creating the world`s largest corporation.” (Year: 1998)
 ```
