@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Monday` ⚡⚡⚡
+Have an amazing `Tuesday` ⚡⚡⚡
 
-Did you know Today on `13th of December`
+Did you know Today on `14th of December`
  
- [<img src="https://pbs.twimg.com/media/DuVCBqGUYAE0V-G?format=jpg&name=large" width="300" />](https://www.history.com/this-day-in-history/saddam-hussein-captured) 
+ [<img src="https://www.nature.com/scitable/content/ne0000/ne0000/ne0000/ne0000/119383623/4699_90.jpg" width="300" />](https://profiles.nlm.nih.gov/spotlight/wh/feature/biographical-overview) 
  ```
-“American forces captured Saddam Hussein who was hiding in a hole near his hometown of Tikrit.” (Year: 2003)
+“DNA synthesized for the first time.” (Year: 1967)
 ```
