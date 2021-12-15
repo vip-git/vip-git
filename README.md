@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Tuesday` ⚡⚡⚡
+Have an amazing `Wednesday` ⚡⚡⚡
 
-Did you know Today on `14th of December`
+Did you know Today on `15th of December`
  
- [<img src="https://image2.slideserve.com/4474812/novel-bioactive-enzyme-dna-inorganic-materials-challa-v-kumar-university-of-connecticut-dmr-0604815-l.jpg" width="300" />](https://profiles.nlm.nih.gov/spotlight/wh/feature/biographical-overview) 
+ [<img src="https://www.canada.ca/content/dam/pch/images/services/flag-canada/flag-committee-1964.jpg" width="300" />](https://www.canada.ca/en/canadian-heritage/services/flag-canada-history.html) 
  ```
-“DNA synthesized for the first time.” (Year: 1967)
+“Canada adopted its national flag, a red maple leaf on a white background.” (Year: 1964)
 ```
