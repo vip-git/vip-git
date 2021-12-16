@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Wednesday` ⚡⚡⚡
+Have an amazing `Thursday` ⚡⚡⚡
 
-Did you know Today on `15th of December`
+Did you know Today on `16th of December`
  
- [<img src="https://www.canada.ca/content/dam/pch/images/services/flag-canada/flag-committee-1964.jpg" width="300" />](https://www.canada.ca/en/canadian-heritage/services/flag-canada-history.html) 
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/1920_Gansu_earthquake.svg/800px-1920_Gansu_earthquake.svg.png" width="300" />](https://en.wikipedia.org/wiki/1920_Haiyuan_earthquake) 
  ```
-“Canada adopted its national flag, a red maple leaf on a white background.” (Year: 1964)
+“One of the deadliest earthquakes in history hit the Gansu province in China. The 8.6 quake killed 200,000 people.” (Year: 1920)
 ```
