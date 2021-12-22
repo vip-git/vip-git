@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Tuesday` ⚡⚡⚡
+Have an amazing `Wednesday` ⚡⚡⚡
 
-Did you know Today on `21st of December`
+Did you know Today on `22nd of December`
  
- [<img src="https://springfield.edu/sites/default/files/styles/feature_smaller/public/2017-02/Dr_Naismith_with_peach_basket_0.jpg?h=03236d71&itok=e9PTue0L" width="300" />](https://springfield.edu/where-basketball-was-invented-the-birthplace-of-basketball) 
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Alfred_Dreyfus_%281859-1935%29.jpg" width="300" />](https://en.wikipedia.org/wiki/Dreyfus_affair) 
  ```
-“The first basketball game, invented at Springfield College in Massachusetts by James E. Naismith, was played.” (Year: 1891)
+“French army officer Capt. Alfred Dreyfus was convicted of treason in a court-martial.” (Year: 1894)
 ```
