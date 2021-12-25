@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Friday` ⚡⚡⚡
+Have an amazing `Saturday` ⚡⚡⚡
 
-Did you know Today on `24th of December`
+Did you know Today on `25th of December`
  
- [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Sines06_edit1.jpg" width="300" />](https://en.wikipedia.org/wiki/Vasco_da_Gama) 
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/7/78/The_Tramp_Essanay.jpg" width="300" />](http://en.wikipedia.org/wiki/Charlie_Chaplin) 
  ```
-“Portuguese navigator Vasco da Gama died in Cochin, India.” (Year: 1524)
+“British film actor, director, and producer Charlie Chaplin died in Switzerland at age 88.” (Year: 1977)
 ```
