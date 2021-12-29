@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Tuesday` ⚡⚡⚡
+Have an amazing `Wednesday` ⚡⚡⚡
 
-Did you know Today on `28th of December`
+Did you know Today on `29th of December`
  
- [<img src="https://images.squarespace-cdn.com/content/v1/54d23339e4b05e3af8143898/1449635225298-HI50R3VF4F9EAM36RU4N/ke17ZwdGBToddI8pDm48kJn-Jvt5ZDuvjMKP_f-j-l17gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTm6TGbZoHqkPa09oubCTenQr-NtzQ2ke-TWG9HYW-g8ypdq1mFM-gtF2pSotX3_0tm/image-asset.png" width="300" />](https://en.wikipedia.org/wiki/William_F._Semple) 
+ [<img src="https://www.prensalibre.com/wp-content/uploads/2018/12/f8f6b8db-ee02-4f37-80b1-12362ddb0cdc.jpg" width="300" />](http://en.wikipedia.org/wiki/Guatemalan_Peace_Process_1994-1996) 
  ```
-“William F. Semple patented chewing gum.” (Year: 1869)
+“A peace agreement was signed, ending 36 years of conflict in Guatemala.” (Year: 1996)
 ```
