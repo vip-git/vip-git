@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Monday` ⚡⚡⚡
+Have an amazing `Tuesday` ⚡⚡⚡
 
-Did you know Today on `03rd of January`
+Did you know Today on `04th of January`
  
- [<img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Vernet_Luis_Portrait.jpg" width="300" />](https://en.wikipedia.org/wiki/Reassertion_of_British_sovereignty_over_the_Falkland_Islands_(1833)) 
+ [<img src="https://upload.wikimedia.org/wikipedia/en/1/1d/Royallake_dalhousiepark_rangoon1895.jpg" width="300" />](https://en.wikipedia.org/wiki/British_rule_in_Burma#:~:text=Burma%20achieved%20independence%20from%20British%20rule%20on%204%20January%201948) 
  ```
-“Britain seized control of the Falkland Islands.” (Year: 1833)
+“Burma (Myanmar) gained independence from Great Britain.” (Year: 1948)
 ```
