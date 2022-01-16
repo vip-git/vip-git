@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Saturday` ⚡⚡⚡
+Have an amazing `Sunday` ⚡⚡⚡
 
-Did you know Today on `15th of January`
+Did you know Today on `16th of January`
  
- [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Sir_Hans_Sloane%2C_an_engraving_from_a_portrait_by_T._Murray.jpg" width="300" />](http://en.wikipedia.org/wiki/British_Museum) 
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Close-up_STS-107_Launch_-_GPN-2003-00080.jpg/1280px-Close-up_STS-107_Launch_-_GPN-2003-00080.jpg" width="300" />](https://en.wikipedia.org/wiki/Space_Shuttle_Columbia_disaster#:~:text=launched%20on%20January%2016,%202003) 
  ```
-“The British Museum opened.” (Year: 1759)
+“Space shuttle Columbia blasted off on what would be its final mission. The craft broke up on its descent on Feb. 1, killing all on board.” (Year: 2003)
 ```
