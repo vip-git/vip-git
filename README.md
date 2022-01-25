@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Monday` ⚡⚡⚡
+Have an amazing `Tuesday` ⚡⚡⚡
 
-Did you know Today on `24th of January`
+Did you know Today on `25th of January`
  
- [<img src="https://i.pinimg.com/564x/f7/cf/48/f7cf4804e7a66efbcba59db85ef7f8fb--gold-rush-marshalls.jpg" width="300" />](https://en.wikipedia.org/wiki/California_Gold_Rush) 
+ [<img src="https://coresites-cdn-adm.imgix.net/mpora_new/wp-content/uploads/2018/01/download-4.jpg" width="300" />](https://en.wikipedia.org/wiki/1924_Winter_Olympics) 
  ```
-“Gold was first discovered in California, in Sutter's mill. When President Polk announced the news in December, the gold rush began.” (Year: 1848)
+“The first Winter Olympic games opened at Chamonix, France.” (Year: 1924)
 ```
