@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Sunday` ⚡⚡⚡
+Have an amazing `Monday` ⚡⚡⚡
 
-Did you know Today on `06th of February`
+Did you know Today on `07th of February`
  
- [<img src="https://i.pinimg.com/originals/47/b5/8e/47b58ebf852bae68a9db5af9bf8551e7.jpg" width="300" />](https://en.wikipedia.org/wiki/History_of_Monopoly#:~:text=Monopoly%20was%20first%20marketed%20on,two%20editions%20sold%20by%20Darrow.) 
+ [<img src="https://i.pinimg.com/originals/4c/41/86/4c4186ac8fc973ae17a1ef39907eeb1d.jpg" width="300" />](https://www.britannica.com/place/Grenada/Independence) 
  ```
-“The popular board game Monopoly® went on sale for the first time.” (Year: 1935)
+“The island of Grenada won its independence from Britain” (Year: 1974)
 ```
