@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Monday` ⚡⚡⚡
+Have an amazing `Tuesday` ⚡⚡⚡
 
-Did you know Today on `14th of March`
+Did you know Today on `15th of March`
  
- [<img src="https://i0.wp.com/todayincthistory.com/wp-content/uploads/2019/03/03-14-Cotton-Gin-HW-1869.png" width="300" />](https://www.history.com/topics/inventions/cotton-gin-and-eli-whitney#:~:text=In%201794%2C%20U.S.%2Dborn%20inventor,had%20become%20America's%20leading%20export.) 
+ [<img src="https://science.nasa.gov/files/science-pink/s3fs-public/styles/large/public/mnt/medialibrary/2004/03/15/16mar_sedna_resources/comparison.jpg" width="300" />](https://www.nasa.gov/home/hqnews/2004/mar/HQ_04091_sedna_discovered.html) 
  ```
-“The cotton gin was patented by Eli Whitney.” (Year: 1794)
+“Scientists reported the discovery of Sedna, the most distant object in the solar system.” (Year: 2004)
 ```
