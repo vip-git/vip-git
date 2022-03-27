@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Saturday` ⚡⚡⚡
+Have an amazing `Sunday` ⚡⚡⚡
 
-Did you know Today on `26th of March`
+Did you know Today on `27th of March`
  
- [<img src="https://images.prothomalo.com/prothomalo-english%2Fimport%2Fmedia%2F2019%2F03%2F27%2F20bf4c0cdcf01da26e89f327c4fb9e6d-The-New-York-Times-1.jpg?auto=format%2Ccompress&format=webp&w=480&dpr=2.6" width="300" />](https://en.wikipedia.org/wiki/Bangladesh_Liberation_War#:~:text=26%20March%201971%20is%20considered,former%20East%20Pakistan%20as%20Bangladesh.) 
+ [<img src="https://images.slideplayer.com/22/6383025/slides/slide_9.jpg" width="300" />](https://www.mysticstamp.com/info/this-day-in-history-march-27-1884/#:~:text=On%20March%2027%2C%201884%2C%20the,call%20just%20three%20days%20later.) 
  ```
-“East Pakistan proclaimed its independence, taking the name Bangladesh.” (Year: 1971)
+“The first long-distance telephone call was made, between Boston and New York.” (Year: 1884)
 ```
