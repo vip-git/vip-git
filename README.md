@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Sunday` ⚡⚡⚡
+Have an amazing `Monday` ⚡⚡⚡
 
-Did you know Today on `27th of March`
+Did you know Today on `28th of March`
  
- [<img src="https://images.slideplayer.com/22/6383025/slides/slide_9.jpg" width="300" />](https://www.mysticstamp.com/info/this-day-in-history-march-27-1884/#:~:text=On%20March%2027%2C%201884%2C%20the,call%20just%20three%20days%20later.) 
+ [<img src="https://jdmitchelldesigns.files.wordpress.com/2016/03/march-28th-celebrates-first-washing-machine-patent.jpg?w=640" width="300" />](http://www.famousdaily.com/history/nathaniel-briggs-patents-washing-machine.html) 
  ```
-“The first long-distance telephone call was made, between Boston and New York.” (Year: 1884)
+“Nathaniel Briggs patented a washing machine.” (Year: 1797)
 ```
