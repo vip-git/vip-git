@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Friday` ⚡⚡⚡
+Have an amazing `Saturday` ⚡⚡⚡
 
-Did you know Today on `08th of April`
+Did you know Today on `09th of April`
  
- [<img src="https://content.wdl.org/11605/thumbnail/1430177549/616x510.jpg" width="300" />](https://www.wdl.org/en/item/11605/#:~:text=At%20the%20initiative%20of%20the,archives%2C%20to%20the%20new%20organization.) 
+ [<img src="https://1d4vws37vmp124vlehygoxxd-wpengine.netdna-ssl.com/wp-content/uploads/2013/04/ChurchillsUSPassport.png" width="300" />](https://www.history.com/news/americas-honorary-citizens#:~:text=1.,receive%20honorary%20United%20States%20citizenship.) 
  ```
-“The League of Nations assembled for the last time.” (Year: 1946)
+“Winston Churchill became the first honorary U.S. citizen.” (Year: 1963)
 ```
