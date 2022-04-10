@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Saturday` ⚡⚡⚡
+Have an amazing `Sunday` ⚡⚡⚡
 
-Did you know Today on `09th of April`
+Did you know Today on `10th of April`
  
- [<img src="https://1d4vws37vmp124vlehygoxxd-wpengine.netdna-ssl.com/wp-content/uploads/2013/04/ChurchillsUSPassport.png" width="300" />](https://www.history.com/news/americas-honorary-citizens#:~:text=1.,receive%20honorary%20United%20States%20citizenship.) 
+ [<img src="https://mtv-main-assets.mountvernon.org/files/callout/text-image-block-full/image/sml_washingtoncabinet_loc_10098v_crop.jpg" width="300" />](https://www.mountvernon.org/george-washington/the-first-president/patents/#:~:text=2.,a%20system%20to%20grant%20patents.) 
  ```
-“Winston Churchill became the first honorary U.S. citizen.” (Year: 1963)
+“The U.S. patent system was formed.” (Year: 1790)
 ```
