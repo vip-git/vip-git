@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Sunday` ⚡⚡⚡
+Have an amazing `Monday` ⚡⚡⚡
 
-Did you know Today on `17th of April`
+Did you know Today on `18th of April`
  
- [<img src="https://www.universetoday.com/wp-content/uploads/2020/04/S70-35615medium.jpg" width="300" />](https://www.space.com/17250-apollo-13-facts.html#:~:text=But%20the%20small%20vessel%20protected,the%20Odyssey%20powered%20it%20up.&text=Lovell%2C%20Haise%20and%20Swigert%20splashed,near%20Samoa%2C%20on%20April%2017.) 
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/2/25/London_Bridge_Lake_Havasu%2C_aerial_view_1973%2C_Film0_A_6-11-b.jpg" width="300" />](https://londonist.com/2013/04/londonbridge#:~:text=45%20years%20ago%20today%2C%20London,reassembled%20and%20still%20stands%20today.) 
  ```
-“The Apollo 13 astronauts safely splashed down after their near-disastrous flight.” (Year: 1970)
+“London Bridge was sold to an American. It was rebuilt in Arizona.” (Year: 1968)
 ```
