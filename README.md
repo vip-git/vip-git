@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Thursday` ⚡⚡⚡
+Have an amazing `Friday` ⚡⚡⚡
 
-Did you know Today on `19th of May`
+Did you know Today on `20th of May`
  
- [<img src="https://www.nps.gov/articles/images/Quota-Cartoon.jpg?maxwidth=650&autorotate=false" width="300" />](https://www.nps.gov/articles/closing-the-door-on-immigration.htm#:~:text=The%20Emergency%20Quota%20Act%20of,the%20quotas%20stricter%20and%20permanent.) 
+ [<img src="https://southeastasiabackpacker.com/wp-content/uploads/2017/05/1200-x-800-East-Timor-travel4more.jpg" width="300" />](https://en.wikipedia.org/wiki/History_of_East_Timor) 
  ```
-“Congress passed the Emergency Quota Act, establishing national quotas for immigrants.” (Year: 1921)
+“East Timor became the what was then the world`s newest nation.” (Year: 2002)
 ```
