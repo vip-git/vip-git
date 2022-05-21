@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Friday` ⚡⚡⚡
+Have an amazing `Saturday` ⚡⚡⚡
 
-Did you know Today on `20th of May`
+Did you know Today on `21st of May`
  
- [<img src="https://southeastasiabackpacker.com/wp-content/uploads/2017/05/1200-x-800-East-Timor-travel4more.jpg" width="300" />](https://en.wikipedia.org/wiki/History_of_East_Timor) 
+ [<img src="https://go.newspapers.com/i/email/Ncom_HIH_May2016.jpg" width="300" />](https://www.history.com/topics/exploration/charles-a-lindbergh) 
  ```
-“East Timor became the what was then the world`s newest nation.” (Year: 2002)
+“Charles Lindbergh became the first person to fly across the Atlantic (from New York to Paris) in his monoplane, The Spirit of St. Louis.” (Year: 1927)
 ```
