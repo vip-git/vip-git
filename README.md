@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Wednesday` ⚡⚡⚡
+Have an amazing `Thursday` ⚡⚡⚡
 
-Did you know Today on `01st of June`
+Did you know Today on `02nd of June`
  
- [<img src="https://media4.manhattan-institute.org/sites/cj/files/charles-de-gaulle3.jpg" width="300" />](https://en.wikipedia.org/wiki/Charles_de_Gaulle#:~:text=1%20June%201958) 
+ [<img src="https://fcit.usf.edu/wp-content/uploads/2016/08/CitizenshipBanner.jpg" width="300" />](https://www.loc.gov/item/today-in-history/june-02/#:~:text=On%20June%202%2C%201924%2C%20Congress,barred%20Native%20Americans%20from%20voting.) 
  ```
-“General Charles De Gaulle became the premier of France.” (Year: 1958)
+“Congress granted U.S. citizenship to all American Indians.” (Year: 1924)
 ```
