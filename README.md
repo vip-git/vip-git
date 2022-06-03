@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Thursday` ⚡⚡⚡
+Have an amazing `Friday` ⚡⚡⚡
 
-Did you know Today on `02nd of June`
+Did you know Today on `03rd of June`
  
- [<img src="https://fcit.usf.edu/wp-content/uploads/2016/08/CitizenshipBanner.jpg" width="300" />](https://www.loc.gov/item/today-in-history/june-02/#:~:text=On%20June%202%2C%201924%2C%20Congress,barred%20Native%20Americans%20from%20voting.) 
+ [<img src="https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/images/235794main_GPN-2006-000025_full.jpg" width="300" />](https://www.nasa.gov/multimedia/imagegallery/image_feature_1098.html) 
  ```
-“Congress granted U.S. citizenship to all American Indians.” (Year: 1924)
+“Maj. Edward White became the first U.S. astronaut to walk in space, during the Gemini 4 mission.” (Year: 1965)
 ```
