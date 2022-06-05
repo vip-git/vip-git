@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Saturday` ⚡⚡⚡
+Have an amazing `Sunday` ⚡⚡⚡
 
-Did you know Today on `04th of June`
+Did you know Today on `05th of June`
  
- [<img src="https://th.thgim.com/children/jv79f8/article24056083.ece/ALTERNATES/FREE_960/03istbFordQuadricyclejpg" width="300" />](https://www.thehindu.com/children/fords-first-test-drive-in-a-quadricycle/article24056084.ece#:~:text=On%20June%204%2C%201896%2C%20Henry,on%20the%20way%20to%20greatness.) 
+ [<img src="https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2013/6/23/1372015020195/Edward-Snowden-008.jpg?width=620&quality=45&auto=format&fit=max&dpr=2&s=2a65cd0c2780d0ca227c3136c5710633" width="300" />](https://www.theguardian.com/world/2013/jun/23/edward-snowden-nsa-files-timeline) 
  ```
-“Henry Ford took his first car out for a test drive.” (Year: 1896)
+“The British newspaper the Guardian published the first of many stories based on leaks by Edward Snowden about the top-secret surveillance activities of the National Security Agency.” (Year: 2013)
 ```
