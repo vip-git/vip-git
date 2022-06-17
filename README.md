@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Thursday` ⚡⚡⚡
+Have an amazing `Friday` ⚡⚡⚡
 
-Did you know Today on `16th of June`
+Did you know Today on `17th of June`
  
- [<img src="https://gdb.rferl.org/88FEC9B7-368F-42EC-A827-8316AA11E99E_w1080_h608_s.jpg" width="300" />](https://en.wikipedia.org/wiki/1996_Russian_presidential_election) 
+ [<img src="https://s.hdnux.com/photos/10/33/60/2210833/5/rawImage.jpg" width="300" />](http://news.bbc.co.uk/2/hi/science/nature/2049048.stm) 
  ```
-“Russia voted in its first independent presidential election. Boris Yeltsin eventually won in a runoff.” (Year: 1996)
+“Australian scientists announced that they had `teleported` a laser beam—breaking it up and reconstructing it in another location.” (Year: 2002)
 ```
