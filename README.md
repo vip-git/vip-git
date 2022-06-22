@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Tuesday` ⚡⚡⚡
+Have an amazing `Wednesday` ⚡⚡⚡
 
-Did you know Today on `21st of June`
+Did you know Today on `22nd of June`
  
- [<img src="https://lookingupwayup.com/dev/wp-content/uploads/2019/06/clip_image002.jpg" width="300" />](https://www.britannica.com/biography/Michael-Melvill#:~:text=On%20June%2021,%202004) 
+ [<img src="" width="300" />]() 
  ```
-“Michael Melvill pilots the first privately-developed spacecraft,SpaceShipOne, into space.” (Year: 2004)
+
 ```
