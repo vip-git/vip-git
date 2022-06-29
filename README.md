@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Tuesday` ⚡⚡⚡
+Have an amazing `Wednesday` ⚡⚡⚡
 
-Did you know Today on `28th of June`
+Did you know Today on `29th of June`
  
- [<img src="https://cdn.britannica.com/48/71448-050-4C5EB186/Big-Four-David-Lloyd-George-architects-Italy.jpg" width="300" />](https://www.britannica.com/event/Treaty-of-Versailles-1919#:~:text=June%2028,%201919) 
+ [<img src="https://i.pinimg.com/originals/fa/60/b3/fa60b3c0b18a44584b6905c2a9fdcb5c.jpg" width="300" />](https://www.history.com/this-day-in-history/u-s-space-shuttle-docks-with-russian-space-station#:~:text=On%20June%2029%2C%201995%2C%20the,space%20mission%20in%20American%20history.) 
  ```
-“The Treaty of Versailles was signed in France, ending World War I.” (Year: 1919)
+“The shuttle Atlantis and the Russian space station Mir docked, forming the largest man-made satellite ever to orbit Earth.” (Year: 1995)
 ```
