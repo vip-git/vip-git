@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Friday` ⚡⚡⚡
+Have an amazing `Saturday` ⚡⚡⚡
 
-Did you know Today on `22nd of July`
+Did you know Today on `23rd of July`
  
- [<img src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/prince-william-duke-of-cambridge-catherine-duchess-of-news-photo-611451602-1555970841.jpg" width="300" />](https://www.history.com/this-day-in-history/prince-george-child-of-prince-william-and-kate-middleton-born#:~:text=2013%20July%2022-,Prince%20George%2C%20first%20child%20of%20Prince%20William%20and%20Kate%20Middleton,Mary's%20Hospital%20in%20London%2C%20England.) 
+ [<img src="https://image4.slideserve.com/771498/slide2-l.jpg" width="300" />](https://en.wikipedia.org/wiki/Comet_Hale%E2%80%93Bopp) 
  ```
-“Prince George of Cambridge is born. He is the first child of Prince William, Duke of Cambridge, and Catherine, Duchess of Cambridge.” (Year: 2013)
+“The Hale-Bopp comet was discovered by Alan Hale and Thomas Bopp.” (Year: 1995)
 ```
