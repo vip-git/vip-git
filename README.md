@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Friday` ⚡⚡⚡
+Have an amazing `Saturday` ⚡⚡⚡
 
-Did you know Today on `23rd of September`
+Did you know Today on `24th of September`
  
- [<img src="https://static.timesofisrael.com/www/uploads/2020/09/Screen-Shot-2020-09-25-at-16.54.15-e1601042173897.jpeg" width="300" />](https://www.aljazeera.com/news/2011/9/23/palestinians-submit-statehood-request-to-un) 
+ [<img src="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2013/09/17478/image1170x530cropped.jpg" width="300" />](https://www.jfklibrary.org/learn/about-jfk/jfk-in-history/nuclear-test-ban-treaty) 
  ```
-“Palestinian president Mahmoud Abbas officially requests a bid for statehood at the UN Security Council.” (Year: 2011)
+“The United States and the world`s other major nuclear powers signed a treaty to end all testing and development of nuclear weapons.” (Year: 1996)
 ```
