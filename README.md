@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Monday` ⚡⚡⚡
+Have an amazing `Tuesday` ⚡⚡⚡
 
-Did you know Today on `24th of October`
+Did you know Today on `25th of October`
  
- [<img src="http://www.infoniagara.com/niagaradaredevils/images/annietaylor_lg.jpg" width="300" />](http://www.infoniagara.com/niagaradaredevils/annietaylor.aspx#:~:text=On%20October%2024th%2C%201901%20Annie,to%20gain%20fame%20and%20fortune.) 
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/CH-53D_HMM-261_Grenada_Okt1983.jpeg/2560px-CH-53D_HMM-261_Grenada_Okt1983.jpeg" width="300" />](https://en.wikipedia.org/wiki/United_States_invasion_of_Grenada) 
  ```
-“Anna Edson Taylor became the first person to survive going over Niagara Falls in a barrel.” (Year: 1901)
+“The United States invaded the Caribbean nation of Grenada.” (Year: 1983)
 ```
