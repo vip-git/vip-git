@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Tuesday` ⚡⚡⚡
+Have an amazing `Wednesday` ⚡⚡⚡
 
-Did you know Today on `25th of October`
+Did you know Today on `26th of October`
  
- [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/CH-53D_HMM-261_Grenada_Okt1983.jpeg/2560px-CH-53D_HMM-261_Grenada_Okt1983.jpeg" width="300" />](https://en.wikipedia.org/wiki/United_States_invasion_of_Grenada) 
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Sadat_and_Begin_clean3.jpg/1920px-Sadat_and_Begin_clean3.jpg" width="300" />](https://en.wikipedia.org/wiki/Anwar_Sadat) 
  ```
-“The United States invaded the Caribbean nation of Grenada.” (Year: 1983)
+“Anwar Sadat became the first Egyptian president to pay an official visit to the United States.” (Year: 1975)
 ```
