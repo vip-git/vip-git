@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Tuesday` ⚡⚡⚡
+Have an amazing `Wednesday` ⚡⚡⚡
 
-Did you know Today on `08th of November`
+Did you know Today on `09th of November`
  
- [<img src="https://mediad.publicbroadcasting.net/p/shared/npr/styles/x_large/nprshared/201805/507863977.jpg" width="300" />](https://en.wikipedia.org/wiki/Republican_Revolution) 
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/The_Subway_Sun_Extra_We%27re_Proud_of_You...jpg" width="300" />](https://en.wikipedia.org/wiki/Northeast_blackout_of_1965) 
  ```
-“After a 40-year Democrat domination, the Republican Party gained control of the U.S. House of Representatives, as well as a Senate majority.” (Year: 1994)
+“A switch at a station near Niagara Falls failed. The Northeast and parts of Canada went dark for more than 13 hours.” (Year: 1965)
 ```
