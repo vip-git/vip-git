@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Wednesday` ⚡⚡⚡
+Have an amazing `Friday` ⚡⚡⚡
 
-Did you know Today on `09th of November`
+Did you know Today on `11th of November`
  
- [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/The_Subway_Sun_Extra_We%27re_Proud_of_You...jpg" width="300" />](https://en.wikipedia.org/wiki/Northeast_blackout_of_1965) 
+ [<img src="https://upload.wikimedia.org/wikipedia/en/3/36/Unilateral_Declaration_of_Independence_%28Rhodesia%29.jpg" width="300" />](https://en.wikipedia.org/wiki/Rhodesia%27s_Unilateral_Declaration_of_Independence) 
  ```
-“A switch at a station near Niagara Falls failed. The Northeast and parts of Canada went dark for more than 13 hours.” (Year: 1965)
+“Rhodesia proclaimed its independence from Britain.” (Year: 1965)
 ```
