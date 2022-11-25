@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Thursday` ⚡⚡⚡
+Have an amazing `Friday` ⚡⚡⚡
 
-Did you know Today on `24th of November`
+Did you know Today on `25th of November`
  
- [<img src="https://upload.wikimedia.org/wikipedia/commons/6/68/Van_Diemen%27s_Land_%2815202418751%29.jpg" width="300" />](https://en.wikipedia.org/wiki/Van_Diemen%27s_Land) 
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/4/49/FortDuquesne.jpg" width="300" />](https://en.wikipedia.org/wiki/Battle_of_Fort_Duquesne) 
  ```
-“Abel Tasman discovered Van Diemen's land, later renamed Tasmania.” (Year: 1642)
+“The British captured Fort Duquesne (Pittsburgh) in the French and Indian Wars.” (Year: 1758)
 ```
