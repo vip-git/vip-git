@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Friday` ⚡⚡⚡
+Have an amazing `Saturday` ⚡⚡⚡
 
-Did you know Today on `25th of November`
+Did you know Today on `26th of November`
  
- [<img src="https://upload.wikimedia.org/wikipedia/commons/4/49/FortDuquesne.jpg" width="300" />](https://en.wikipedia.org/wiki/Battle_of_Fort_Duquesne) 
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Tony_Blair_2010_%28cropped%29.jpg" width="300" />](https://www.historyplace.com/speeches/blair.htm) 
  ```
-“The British captured Fort Duquesne (Pittsburgh) in the French and Indian Wars.” (Year: 1758)
+“Tony Blair became the first British prime minister to speak to the Irish parliament.” (Year: 1998)
 ```
