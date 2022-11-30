@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Tuesday` ⚡⚡⚡
+Have an amazing `Wednesday` ⚡⚡⚡
 
-Did you know Today on `29th of November`
+Did you know Today on `30th of November`
  
- [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/UN_Palestine_Partition_Versions_1947.jpg/230px-UN_Palestine_Partition_Versions_1947.jpg" width="300" />](https://en.wikipedia.org/wiki/United_Nations_Partition_Plan_for_Palestine) 
+ [<img src="https://www.britishempire.co.uk/images3/barbados1760map.jpg" width="300" />](https://en.wikipedia.org/wiki/Barbados_Independence_Act_1966) 
  ```
-“The United Nations voted to grant the Jewish people a homeland to be established in Palestine.” (Year: 1947)
+“Barbados became independent of Great Britain.” (Year: 1966)
 ```
