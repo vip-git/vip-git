@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Thursday` ⚡⚡⚡
+Have an amazing `Friday` ⚡⚡⚡
 
-Did you know Today on `01st of December`
+Did you know Today on `02nd of December`
  
- [<img src="https://pbs.twimg.com/media/Cyc13uAUUAEPBB-.jpg" width="300" />](https://www.latimes.com/archives/la-xpm-1998-dec-02-mn-49856-story.html) 
+ [<img src="https://ksh.roma.it/sites/default/files/The-Emperor-Napoleon.jpg" width="300" />](https://ksh.roma.it/romanticism/1804#:~:text=On%20the%202nd%20of%20December,the%20authority%20of%20the%20Pontiff.) 
  ```
-“Exxon and Mobil agreed to merge, creating the world`s largest corporation.” (Year: 1998)
+“Napoleon Bonaparte was crowned emperor of France in Paris by Pope Pius VII.” (Year: 1804)
 ```
