@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Thursday` ⚡⚡⚡
+Have an amazing `Friday` ⚡⚡⚡
 
-Did you know Today on `22nd of December`
+Did you know Today on `23rd of December`
  
- [<img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Alfred_Dreyfus_%281859-1935%29.jpg" width="300" />](https://en.wikipedia.org/wiki/Dreyfus_affair) 
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Replica-of-first-transistor.jpg" width="300" />](https://en.wikipedia.org/wiki/History_of_the_transistor) 
  ```
-“French army officer Capt. Alfred Dreyfus was convicted of treason in a court-martial.” (Year: 1894)
+“The transistor was unveiled by American physicists John Bardeen, Walter H. Brattain, and William Shockley.” (Year: 1947)
 ```
