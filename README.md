@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Friday` ⚡⚡⚡
+Have an amazing `Saturday` ⚡⚡⚡
 
-Did you know Today on `23rd of December`
+Did you know Today on `24th of December`
  
- [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Replica-of-first-transistor.jpg" width="300" />](https://en.wikipedia.org/wiki/History_of_the_transistor) 
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Sines06_edit1.jpg" width="300" />](https://en.wikipedia.org/wiki/Vasco_da_Gama) 
  ```
-“The transistor was unveiled by American physicists John Bardeen, Walter H. Brattain, and William Shockley.” (Year: 1947)
+“Portuguese navigator Vasco da Gama died in Cochin, India.” (Year: 1524)
 ```
