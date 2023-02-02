@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Wednesday` ⚡⚡⚡
+Have an amazing `Thursday` ⚡⚡⚡
 
-Did you know Today on `01st of February`
+Did you know Today on `02nd of February`
  
- [<img src="https://static01.nyt.com/images/2009/04/27/world/27icelandA-xl.jpg?quality=75&auto=webp&disable=upscale" width="300" />](https://en.wikipedia.org/wiki/J%C3%B3hanna_Sigur%C3%B0ard%C3%B3ttir) 
+ [<img src="https://static01.nyt.com/images/2013/06/27/world/africa/mandela-timeline-1990/mandela-timeline-1990-jumbo.png" width="300" />](https://en.wikipedia.org/wiki/1992_South_African_apartheid_referendum) 
  ```
-“Johanna Sigurdardottir takes office as Iceland`s first female prime minister.” (Year: 2009)
+“South African President F. W. de Klerk lifted a ban on the African National Congress and promised to free Nelson Mandela.” (Year: 1990)
 ```
