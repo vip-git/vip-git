@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Thursday` ⚡⚡⚡
+Have an amazing `Friday` ⚡⚡⚡
 
-Did you know Today on `02nd of February`
+Did you know Today on `03rd of February`
  
- [<img src="https://static01.nyt.com/images/2013/06/27/world/africa/mandela-timeline-1990/mandela-timeline-1990-jumbo.png" width="300" />](https://en.wikipedia.org/wiki/1992_South_African_apartheid_referendum) 
+ [<img src="https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/sts063-312-020-orig.jpg" width="300" />](https://www.nasa.gov/image-feature/feb-3-1995-astronaut-eileen-collins-at-the-pilots-station-on-shuttle-discovery/) 
  ```
-“South African President F. W. de Klerk lifted a ban on the African National Congress and promised to free Nelson Mandela.” (Year: 1990)
+“Col. Eileen Collins became the first woman to pilot the space shuttle when the Discovery blasted off.” (Year: 1995)
 ```
