@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Tuesday` ⚡⚡⚡
+Have an amazing `Wednesday` ⚡⚡⚡
 
-Did you know Today on `07th of February`
+Did you know Today on `08th of February`
  
- [<img src="https://i.pinimg.com/originals/4c/41/86/4c4186ac8fc973ae17a1ef39907eeb1d.jpg" width="300" />](https://www.britannica.com/place/Grenada/Independence) 
+ [<img src="https://www.history.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_1400/MTYxODM1MDIxODkwNDk1Nzkw/mary-of-scots_tdih.webp" width="300" />](https://www.history.com/this-day-in-history/mary-queen-of-scots-beheaded#:~:text=She%20was%20convicted%20for%20complicity,of%20England%2C%20Scotland%20and%20Ireland.) 
  ```
-“The island of Grenada won its independence from Britain” (Year: 1974)
+“Mary Queen of Scots was beheaded.” (Year: 1587)
 ```
