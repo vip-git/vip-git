@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Friday` ⚡⚡⚡
+Have an amazing `Saturday` ⚡⚡⚡
 
-Did you know Today on `10th of February`
+Did you know Today on `11th of February`
  
- [<img src="https://media.pri.org/s3fs-public/styles/story_main/public/story/images/DeepBlue.png?itok=N01yMnCK" width="300" />](https://en.wikipedia.org/wiki/Deep_Blue_versus_Garry_Kasparov) 
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Ohsumi.jpg" width="300" />](https://www.history.com/this-day-in-history/the-worlds-fourth-space-power#:~:text=From%20the%20Kagoshima%20Space%20Center,1958%2C%20and%20France%20in%201965.) 
  ```
-“IBM`s computer, Deep Blue, beat the world chess champion, Garry Kasparov, in the first game of their match.” (Year: 1996)
+“Japan became the fourth country to put a satellite into orbit.” (Year: 1970)
 ```
