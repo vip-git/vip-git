@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Tuesday` ⚡⚡⚡
+Have an amazing `Thursday` ⚡⚡⚡
 
-Did you know Today on `14th of February`
+Did you know Today on `16th of February`
  
- [<img src="https://i.pinimg.com/originals/4c/41/86/4c4186ac8fc973ae17a1ef39907eeb1d.jpg" width="300" />](https://www.britannica.com/place/Grenada/Independence) 
+ [<img src="https://cdn-images-1.listennotes.com/podcasts/historypod/16th-february-1937-organic-9QEeABdfDTW-ZJCHRQPhVyW.400x300.jpg" width="300" />](https://nowweknowem.wordpress.com/2014/02/16/the-patent-for-nylon-was-awarded-today-in-1937-to-wallace-carothers-and-the-dupont-corporation-now-we-know-em/#:~:text=people%20from%20history-,The%20patent%20for%20nylon%20was%20awarded%20today%20in%201937%20to,and%20spent%20many%20hours%20experimenting.) 
  ```
-“The League of Women Voters was founded.” (Year: 1920)
+“Nylon was patented.” (Year: 1937)
 ```
