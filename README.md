@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Friday` ⚡⚡⚡
+Have an amazing `Saturday` ⚡⚡⚡
 
-Did you know Today on `17th of February`
+Did you know Today on `18th of February`
  
- [<img src="https://static01.nyt.com/images/2008/02/18/world/18kosovo-inline3-650.jpg?quality=75&auto=webp&disable=upscale" width="300" />](https://www.britannica.com/place/Kosovo/Self-declared-independence) 
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Clyde_W._Tombaugh.jpeg" width="300" />](https://www.britannica.com/biography/Clyde-Tombaugh#:~:text=On%20February%2018%2C%201930%2C%20Tombaugh%20pinpointed%20Pluto) 
  ```
-“Kosovo declared independence from Serbia.” (Year: 2008)
+“Pluto, the ninth planet in the solar system, was discovered by American astronomer Clyde Tombaugh.” (Year: 1930)
 ```
