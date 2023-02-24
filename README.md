@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Thursday` ⚡⚡⚡
+Have an amazing `Friday` ⚡⚡⚡
 
-Did you know Today on `23rd of February`
+Did you know Today on `24th of February`
  
- [<img src="https://i.imgur.com/duxn8EM.png" width="300" />](http://news.bbc.co.uk/onthisday/hi/dates/stories/february/22/newsid_4245000/4245877.stm) 
+ [<img src="https://content.wdl.org/2968/thumbnail/1430162697/616x510.jpg" width="300" />](https://www.wdl.org/en/item/2968/#:~:text=On%20February%2024%2C%201821%2C%20Iturbide,called%20Am%C3%A9rica%20Septentrional%20) 
  ```
-“Scottish scientists announced the successful cloning of a sheep, Dolly.” (Year: 1997)
+“Mexico declared its independence from Spain.” (Year: 1821)
 ```
