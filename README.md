@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Saturday` ⚡⚡⚡
+Have an amazing `Sunday` ⚡⚡⚡
 
-Did you know Today on `18th of March`
+Did you know Today on `19th of March`
  
- [<img src="https://static.scientificamerican.com/sciam/cache/file/D1E80695-CB95-4991-AA920CD1223C0CE0_source.jpg" width="300" />](https://cneos.jpl.nasa.gov/news/news142.html) 
+ [<img src="https://www.gannett-cdn.com/-mm-/1bfbef37d47cc5b737ccfea9631c470adc9338f7/c=0-0-4855-3651/local/-/media/2016/03/18/RenoGroup/RGJ/635939161151470126-Nevada-State-Journal-Fri-Mar-20-1931-.jpg?quality=50&width=640" width="300" />](https://www.history.com/this-day-in-history/nevada-legalizes-gambling#:~:text=In%20March%201931%2C%20Nevada's%20state,later%20in%20the%20year%2C%20divorce.) 
  ```
-“A small asteroid made the closest approach to Earth ever recorded, only about 26,500 miles away.” (Year: 2004)
+“Nevada state legislature legalized gambling.” (Year: 1931)
 ```
