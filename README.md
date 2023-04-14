@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Thursday` ⚡⚡⚡
+Have an amazing `Friday` ⚡⚡⚡
 
-Did you know Today on `13th of April`
+Did you know Today on `14th of April`
  
- [<img src="https://ichef.bbci.co.uk/news/1024/cpsprodpb/6738/production/_106342462_woods_95_getty_feature_promo.png" width="300" />](https://www.history.com/this-day-in-history/tiger-woods-wins-first-major) 
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Noah_Webster_The_Schoolmaster_of_the_Republic.jpg/2560px-Noah_Webster_The_Schoolmaster_of_the_Republic.jpg" width="300" />](https://en.wikipedia.org/wiki/Noah_Webster#:~:text=At%20the%20age%20of%20seventy,dictionary%20only%20sold%202%2C500%20copies.) 
  ```
-“Tiger Woods became the youngest person to win the Masters Tournament and the first of African descent to win a major golf title.” (Year: 1997)
+“Noah Webster copyrighted the first edition of his dictionary.” (Year: 1828)
 ```
