@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Sunday` ⚡⚡⚡
+Have an amazing `Monday` ⚡⚡⚡
 
-Did you know Today on `30th of April`
+Did you know Today on `01st of May`
  
- [<img src="https://www.history.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTU3ODc5MDgzNzQ2MDEwODQ3/louisiana-purchase-2.jpg" width="300" />](https://en.wikipedia.org/wiki/Louisiana_Purchase#:~:text=April%2030,%201803) 
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Coat_of_Arms_of_Scotland_%281660-1689%29.svg/280px-Coat_of_Arms_of_Scotland_%281660-1689%29.svg.png" width="300" />](https://en.wikipedia.org/wiki/Acts_of_Union_1707#:~:text=The%20Acts%20took%20effect%20on,the%20Union%20of%20the%20Parliaments.) 
  ```
-“France sold Louisiana and adjoining lands to the United States as part of the Louisiana Purchase.” (Year: 1803)
+“The Act of Union joined England and Scotland to form Great Britain.” (Year: 1707)
 ```
