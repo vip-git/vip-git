@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Thursday` ⚡⚡⚡
+Have an amazing `Friday` ⚡⚡⚡
 
-Did you know Today on `04th of May`
+Did you know Today on `05th of May`
  
- [<img src="https://www.grammy.com/sites/com/files/59.5_dean_martin_sammy_davis_jr.jpg" width="300" />](https://en.wikipedia.org/wiki/1st_Annual_Grammy_Awards) 
+ [<img src="https://www1.insh.world/wp-content/uploads/sites/28/2019/03/top20_most_expansive_paintings_10.jpg" width="300" />](https://edition.cnn.com/2004/US/05/05/picasso.auction/index.html#:~:text=NEW%20YORK%20(CNN)%20%2D%2D%20A,of%20Sotheby's%20for%20%2493%20million.) 
  ```
-“The first Grammy Awards were held.” (Year: 1959)
+“Pablo Picasso`s `Boy with a Pipe` became the most expensive painting ever sold.” (Year: 2004)
 ```
