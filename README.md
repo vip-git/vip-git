@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Thursday` ⚡⚡⚡
+Have an amazing `Friday` ⚡⚡⚡
 
-Did you know Today on `11th of May`
+Did you know Today on `12th of May`
  
- [<img src="https://www.historytoday.com/sites/default/files/styles/large/public/thai.jpg?itok=AB0sPlXf" width="300" />](http://www.thai-or.com/thailand-overview) 
+ [<img src="https://craighill01.files.wordpress.com/2012/05/may-12-king-george-vi-coronation-e1337939343312.jpg?w=450" width="300" />](https://en.wikipedia.org/wiki/Coronation_of_George_VI_and_Elizabeth#:~:text=The%20coronation%20of%20George%20VI,London%2C%20on%2012%20May%201937.) 
  ```
-“Siam changed its name to Thailand for the second time.” (Year: 1949)
+“Britain’s King George VI was crowned at Westminster Abbey in London.” (Year: 1937)
 ```
