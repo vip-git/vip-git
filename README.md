@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Tuesday` ⚡⚡⚡
+Have an amazing `Wednesday` ⚡⚡⚡
 
-Did you know Today on `16th of May`
+Did you know Today on `17th of May`
  
- [<img src="https://www.hollywoodinsider.com/wp-content/uploads/2020/09/Hollywood-Insider-Oscars-New-Rules-80-Years-Ago-1280x720.jpg" width="300" />](https://www.tititudorancea.com/z/what_is_academy_award.htm) 
+ [<img src="https://media4.s-nbcnews.com/j/msnbc/Components/Photos/040517/040517_first_marriage_hmed_7a7.fit-760w.jpg" width="300" />](https://www.nbcnews.com/id/wbna4991967) 
  ```
-“The first Academy Awards were given on this night. The term, Oscars, was not used to describe the statuettes given to actors and actresses until 1931.” (Year: 1929)
+“In Massachusetts, same-sex couples exchanged marriage vows for the first time in the United States.” (Year: 2004)
 ```
