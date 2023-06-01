@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Wednesday` ⚡⚡⚡
+Have an amazing `Thursday` ⚡⚡⚡
 
-Did you know Today on `31st of May`
+Did you know Today on `01st of June`
  
- [<img src="https://www.sahistory.org.za/sites/default/files/article_image/treaty_of_vereeniging_history.jpg" width="300" />](https://en.wikipedia.org/wiki/History_of_South_Africa#:~:text=The%20country%20became%20a%20fully,the%20Republic%20of%20South%20Africa.) 
+ [<img src="https://media4.manhattan-institute.org/sites/cj/files/charles-de-gaulle3.jpg" width="300" />](https://en.wikipedia.org/wiki/Charles_de_Gaulle#:~:text=1%20June%201958) 
  ```
-“South Africa became an independent republic.” (Year: 1961)
+“General Charles De Gaulle became the premier of France.” (Year: 1958)
 ```
