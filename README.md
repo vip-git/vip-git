@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Friday` ⚡⚡⚡
+Have an amazing `Saturday` ⚡⚡⚡
 
-Did you know Today on `09th of June`
+Did you know Today on `10th of June`
  
- [<img src="https://static.wikia.nocookie.net/donaldduck/images/1/1f/DonaldDuck.jpg/revision/latest/scale-to-width-down/899?cb=20090727132040&path-prefix=no" width="300" />](https://abc7chicago.com/donald-duck-anniversary-birthday-first-appearance/5338510/#:~:text=Everybody's%20favorite%20cartoon%20duck%20made,cartoon%20characters%20by%20the%201940s.) 
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Scheda_elettorale_referendum_2_giugno_1946.jpg" width="300" />](https://en.wikipedia.org/wiki/1946_Italian_institutional_referendum#:~:text=10%20June) 
  ```
-“Donald Duck makes his film debut in The Wise Little Hen.” (Year: 1934)
+“Italy replaced its monarchy with a republic.” (Year: 1946)
 ```
