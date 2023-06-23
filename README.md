@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Thursday` ⚡⚡⚡
+Have an amazing `Friday` ⚡⚡⚡
 
-Did you know Today on `22nd of June`
+Did you know Today on `23rd of June`
  
- [<img src="https://www.atsu.edu/museum-of-osteopathic-medicine/wp-content/themes/museum/images/atstill-pointing.jpg" width="300" />](https://nmos.ca/history-of-osteopathy/#:~:text=On%20June%2022%2C%201874%20Dr,identified%20his%20techniques%20as%20Osteopathic.&text=In%201892%2C%20he%20started%20the%20American%20School%20of%20Osteopathy.) 
+ [<img src="https://i.kym-cdn.com/photos/images/facebook/001/139/584/084.jpg" width="300" />](https://en.wikipedia.org/wiki/2016_United_Kingdom_European_Union_membership_referendum) 
  ```
-“Dr. Andrew Still became the first to practice osteopathy.” (Year: 1874)
+“Brexit referendum: United Kingdom votes to leave the European Union” (Year: 2016)
 ```
