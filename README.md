@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Tuesday` ⚡⚡⚡
+Have an amazing `Wednesday` ⚡⚡⚡
 
-Did you know Today on `27th of June`
+Did you know Today on `28th of June`
  
- [<img src="https://i.pinimg.com/originals/fd/cc/df/fdccdfe87488e78cd7b4971109b1415a.png" width="300" />](http://www.energyglobalnews.com/1954-obninsk-nuclear-plant-produces-worlds-first-commercial-electricity/#:~:text=On%20June%2026%2C%201954%2C%20at,100%20km%20southwest%20of%20Moscow.) 
+ [<img src="https://cdn.britannica.com/48/71448-050-4C5EB186/Big-Four-David-Lloyd-George-architects-Italy.jpg" width="300" />](https://www.britannica.com/event/Treaty-of-Versailles-1919#:~:text=June%2028,%201919) 
  ```
-“The world's first atomic power station opened at Obninsk, near Moscow.” (Year: 1954)
+“The Treaty of Versailles was signed in France, ending World War I.” (Year: 1919)
 ```
