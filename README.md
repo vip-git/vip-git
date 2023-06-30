@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Thursday` ⚡⚡⚡
+Have an amazing `Friday` ⚡⚡⚡
 
-Did you know Today on `29th of June`
+Did you know Today on `30th of June`
  
- [<img src="https://i.pinimg.com/originals/fa/60/b3/fa60b3c0b18a44584b6905c2a9fdcb5c.jpg" width="300" />](https://www.history.com/this-day-in-history/u-s-space-shuttle-docks-with-russian-space-station#:~:text=On%20June%2029%2C%201995%2C%20the,space%20mission%20in%20American%20history.) 
+ [<img src="https://scx1.b-cdn.net/csz/news/800a/2013/animageobtai.jpg" width="300" />](https://en.wikipedia.org/wiki/Tunguska_event#:~:text=30%20June) 
  ```
-“The shuttle Atlantis and the Russian space station Mir docked, forming the largest man-made satellite ever to orbit Earth.” (Year: 1995)
+“A powerful natural explosion from an unknown cause rocked the Tunguska Basin, in eastern Siberia, flattening hundreds of square miles of forest and resulting in tremors that could be felt hundreds of miles away.” (Year: 1908)
 ```
