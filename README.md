@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Sunday` ⚡⚡⚡
+Have an amazing `Monday` ⚡⚡⚡
 
-Did you know Today on `02nd of July`
+Did you know Today on `03rd of July`
  
- [<img src="https://i.pinimg.com/236x/b1/93/2a/b1932a804e3e1a28a0a6e79825beadc3--history-mysteries-unsolved-mysteries.jpg" width="300" />](https://www.history.com/topics/exploration/what-happened-to-amelia-earhart#:~:text=On%20the%20morning%20of%20July,attempt%20to%20circumnavigate%20the%20globe.&text=A%20court%20order%20declared%20Earhart,18%20months%20after%20she%20disappeared.) 
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Arrival_of_Marshal_Randon_in_Algier-Ernest-Francis_Vacherot_mg_5120.jpg" width="300" />](https://en.wikipedia.org/wiki/French_Algeria#:~:text=French%20rule%20in%20the%20region,War%20of%20Independence%20in%201962.&text=The%20war%20ended%20in%201962,determination%20referendum%20in%20July%201962.) 
  ```
-“Amelia Earhart and her co-pilot Fred Noonan disappeared over the Pacific Ocean while attempting to fly around the world.” (Year: 1937)
+“Algeria became independent after 132 years of French rule.” (Year: 1962)
 ```
