@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Sunday` ⚡⚡⚡
+Have an amazing `Monday` ⚡⚡⚡
 
-Did you know Today on `30th of July`
+Did you know Today on `31st of July`
  
- [<img src="https://static.dw.com/image/16135323_403.jpg" width="300" />](https://en.wikipedia.org/wiki/2012_India_blackouts#:~:text=The%20blackout%20on%2031%20July,generating%20capacity%20was%20taken%20offline.) 
+ [<img src="https://static.wired868.com/wp-content/uploads/2018/11/Columbus-arriving-in-Caribbean-ftr-600x330.jpg" width="300" />](https://www.history.com/this-day-in-history/columbus-lands-in-south-america#:~:text=In%20May%201498%2C%20Columbus%20left,America%20on%20August%201%2C%201498.) 
  ```
-“620 million people were without power in India, the worst power outage in world history.” (Year: 2012)
+“Columbus arrived at the island of Trinidad.” (Year: 1498)
 ```
