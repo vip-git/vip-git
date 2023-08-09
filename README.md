@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Tuesday` ⚡⚡⚡
+Have an amazing `Wednesday` ⚡⚡⚡
 
-Did you know Today on `08th of August`
+Did you know Today on `09th of August`
  
- [<img src="https://upload.wikimedia.org/wikipedia/commons/8/89/00_Chamonix-Mont-Blanc_-_M_G_Paccard.jpg" width="300" />](https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/michel-gabriel-paccard) 
+ [<img src="https://eresources.nlb.gov.sg/history/thumbnail/event/dc1efe7a-8159-40b2-9244-cdb078755013/3137/2" width="300" />](https://eresources.nlb.gov.sg/history/events/dc1efe7a-8159-40b2-9244-cdb078755013#:~:text=On%209%20August%201965%2C%20Singapore,in%20July%20and%20September%201964.) 
  ```
-“Dr. Michael-Gabriel Paccard and Jacques Balmat became the first to climb Mont Blanc.” (Year: 1786)
+“Singapore proclaimed its independence from Malaysia.” (Year: 1965)
 ```
