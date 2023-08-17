@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Wednesday` ⚡⚡⚡
+Have an amazing `Thursday` ⚡⚡⚡
 
-Did you know Today on `16th of August`
+Did you know Today on `17th of August`
  
- [<img src="https://dom.com.cy/upload/live/1587999858_965.jpeg" width="300" />](https://simple.wikipedia.org/wiki/Republic_of_Cyprus) 
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Indonesia_declaration_of_independence_17_August_1945.jpg" width="300" />](https://en.wikipedia.org/wiki/Proclamation_of_Indonesian_Independence) 
  ```
-“Cyprus, the third-largest island in the Mediterranean, became an independent republic.” (Year: 1960)
+“Indonesian nationalists proclaimed independence from the Netherlands.” (Year: 1945)
 ```
