@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Saturday` ⚡⚡⚡
+Have an amazing `Sunday` ⚡⚡⚡
 
-Did you know Today on `19th of August`
+Did you know Today on `20th of August`
  
- [<img src="https://www.annefrank.org/media/filer_public_thumbnails/filer_public/f5/be/f5beb1b2-56d7-4666-960a-7bad8c2722f2/bundesarchiv_bild_183-k0930-502_wahlplakat_der_nsdap_zur_reichstagswahl.jpg__1280x640_q85_crop_subsampling-2.jpg" width="300" />](https://en.wikipedia.org/wiki/1934_German_referendum) 
+ [<img src="https://tigerwoods.com/wp-content/uploads/2016/11/GettyImages-72575972_small.jpg" width="300" />](https://tigerwoods.com/timeline/) 
  ```
-“Germans voted to make Adolf Hitler Fuhrer.” (Year: 1934)
+“Tiger Woods won the PGA Championship becoming the first player since Ben Hogan in 1953 to win three majors in one year.” (Year: 2000)
 ```
