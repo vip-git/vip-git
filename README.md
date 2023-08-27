@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Saturday` ⚡⚡⚡
+Have an amazing `Sunday` ⚡⚡⚡
 
-Did you know Today on `26th of August`
+Did you know Today on `27th of August`
  
- [<img src="https://www.archives.gov/files/exhibits/featured-documents/amendment-19/images/amendment-19-l.jpg" width="300" />](https://www.ourdocuments.gov/doc.php?flash=false&doc=63) 
+ [<img src="https://www.nasa.gov/images/content/45050main_ReddyAnim_med.gif" width="300" />](https://www.nasa.gov/vision/universe/watchtheskies/18jun_approachingmars.html) 
  ```
-“The 19th Amendment giving women the right to vote went into effect.” (Year: 1920)
+“Mars made its closest approach to earth in 60,000 years.” (Year: 2003)
 ```
