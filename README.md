@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Monday` ⚡⚡⚡
+Have an amazing `Tuesday` ⚡⚡⚡
 
-Did you know Today on `11th of September`
+Did you know Today on `12th of September`
  
- [<img src="https://cdn.britannica.com/q:60/05/200005-050-517EA189/Flags-England-Scotland-United-Kingdom-of-Great.jpg" width="300" />](https://en.wikipedia.org/wiki/Acts_of_Union_1707) 
+ [<img src="https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1495119923/rr3zfdd5xlzjzjwowu8j.jpg" width="300" />](https://reliefweb.int/report/indonesia/report-security-council-mission-jakarta-and-dili-8-12-sep-1999) 
  ```
-“In Scotland, voters approved the establishment of a parliament to run their domestic affairs, after 290 years of union with England.” (Year: 1997)
+“Indonesia announced it would allow an international peacekeeping force to restore order to East Timor.” (Year: 1999)
 ```
