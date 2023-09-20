@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Tuesday` ⚡⚡⚡
+Have an amazing `Wednesday` ⚡⚡⚡
 
-Did you know Today on `19th of September`
+Did you know Today on `20th of September`
  
- [<img src="https://ichef.bbci.co.uk/news/1024/branded_news/A390/production/_97727814_041547332afp.jpg" width="300" />](https://en.wikipedia.org/wiki/1985_Mexico_City_earthquake) 
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Victor_Emmanuel_reviews_the_troops_for_the_Crimean_War.jpg" width="300" />](https://en.wikipedia.org/wiki/Capture_of_Rome) 
  ```
-“The Mexico City area was struck by the first of two devastating earthquakes that claimed thousands of lives. The second earthquake hit 36 hours later.” (Year: 1985)
+“Victor Emmanuel II, the first king of modern Italy, seized the Papal States from the French.” (Year: 1870)
 ```
