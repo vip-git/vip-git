@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Sunday` ⚡⚡⚡
+Have an amazing `Monday` ⚡⚡⚡
 
-Did you know Today on `24th of September`
+Did you know Today on `25th of September`
  
- [<img src="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2013/09/17478/image1170x530cropped.jpg" width="300" />](https://www.jfklibrary.org/learn/about-jfk/jfk-in-history/nuclear-test-ban-treaty) 
+ [<img src="https://foreignpolicy.com/wp-content/uploads/2015/12/gettyimages-ksa.jpg?w=800&h=474&quality=90" width="300" />](https://www.nytimes.com/2011/09/26/world/middleeast/women-to-vote-in-saudi-arabia-king-says.html) 
  ```
-“The United States and the world`s other major nuclear powers signed a treaty to end all testing and development of nuclear weapons.” (Year: 1996)
+“King Abdullah of Saudi Arabia grants women the right to vote and run for office in future elections.” (Year: 2011)
 ```
