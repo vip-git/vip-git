@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Sunday` ⚡⚡⚡
+Have an amazing `Monday` ⚡⚡⚡
 
-Did you know Today on `08th of October`
+Did you know Today on `09th of October`
  
- [<img src="https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/23f82fd6-7cd8-44ad-ab08-cd7ca50fa91a/fx1_lrg.jpg" width="300" />](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2572009/) 
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/1991_CPA_6322.jpg/170px-1991_CPA_6322.jpg" width="300" />](https://www.history.com/this-day-in-history/sakharov-wins-peace-prize) 
  ```
-“World’s first internal pacemaker was implanted.” (Year: 1948)
+“Soviet scientist Andrei Sakharov was awarded the Nobel Peace Prize for his work to end the nuclear arms race.” (Year: 1975)
 ```
