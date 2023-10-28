@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Friday` ⚡⚡⚡
+Have an amazing `Saturday` ⚡⚡⚡
 
-Did you know Today on `27th of October`
+Did you know Today on `28th of October`
  
- [<img src="https://i.ytimg.com/vi/B_rbX17TZfs/maxresdefault.jpg" width="300" />](https://retronewser.com/2018/10/27/du-pont-names-new-synthetic-yarn-nylon-80-years-ago-onthisday-otd-oct-27-1938/) 
+ [<img src="https://www.massmoments.org/files/assets/moments/03-14-1794/03_14_1794.jpg" width="300" />](https://www.archives.gov/historical-docs/todays-doc/index.html?dod-date=314#:~:text=Designed%20to%20separate%20cotton%20fiber,to%20agricultural%20production%20in%20America.) 
  ```
-“Du Pont announced that it would name its new synthetic yarn nylon.” (Year: 1938)
+“Eli Whitney applied for a patent for the cotton gin.” (Year: 1793)
 ```
