@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Thursday` ⚡⚡⚡
+Have an amazing `Friday` ⚡⚡⚡
 
-Did you know Today on `02nd of November`
+Did you know Today on `03rd of November`
  
- [<img src="https://images.theconversation.com/files/362805/original/file-20201011-21-tx638h.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=900.0&fit=crop" width="300" />](https://en.wikipedia.org/wiki/Dewey_Defeats_Truman) 
+ [<img src="https://media.panamalifeinsider.com/2019/12/panama-flag-victory-freedom-independence-day.jpg" width="300" />](https://history.state.gov/countries/panama#:~:text=The%20United%20States%20recognized%20Panama,established%20a%20provisional%20government%20junta.) 
  ```
-“Harry S. Truman defeated Thomas E. Dewey to the surprise of pollsters and newspapers, in the greatest presidential upset in history.” (Year: 1948)
+“Panama proclaimed its independence from Colombia.” (Year: 1903)
 ```
