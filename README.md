@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Sunday` ⚡⚡⚡
+Have an amazing `Monday` ⚡⚡⚡
 
-Did you know Today on `05th of November`
+Did you know Today on `06th of November`
  
- [<img src="https://www.edn.com/wp-content/uploads/contenteetimes-images-ednmoments-selden-automobile-patent.jpg" width="300" />](https://www.edn.com/george-selden-granted-1st-us-patent-for-an-automobile-november-5-1895/) 
+ [<img src="https://www.deccanherald.com/sites/dh/files/styles/article_detail/public/articleimages/2020/06/23/Young%20Gandhi-1592912142.jpg?itok=NsgYkb-n" width="300" />](https://www.sahistory.org.za/dated-event/mohandas-k-gandhi-arrested-he-leads-march-indian-miners-south-africa) 
  ```
-“George B. Selden of Rochester, N.Y., received the first U.S. patent for an automobile.” (Year: 1895)
+“Mohandas Gandhi led a march of miners in South Africa. He was arrested three times in the first four days of the march.” (Year: 1913)
 ```
