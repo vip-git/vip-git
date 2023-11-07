@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Monday` ⚡⚡⚡
+Have an amazing `Tuesday` ⚡⚡⚡
 
-Did you know Today on `06th of November`
+Did you know Today on `07th of November`
  
- [<img src="https://www.deccanherald.com/sites/dh/files/styles/article_detail/public/articleimages/2020/06/23/Young%20Gandhi-1592912142.jpg?itok=NsgYkb-n" width="300" />](https://www.sahistory.org.za/dated-event/mohandas-k-gandhi-arrested-he-leads-march-indian-miners-south-africa) 
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/After_the_capture_of_the_Winter_Palace_26_October_1917.jpg" width="300" />](https://en.wikipedia.org/wiki/October_Revolution) 
  ```
-“Mohandas Gandhi led a march of miners in South Africa. He was arrested three times in the first four days of the march.” (Year: 1913)
+“Vladimir Lenin`s forces overthrew Alexander Kerensky`s government in Russia`s Bolshevik Revolution.” (Year: 1917)
 ```
