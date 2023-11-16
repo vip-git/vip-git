@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Wednesday` ⚡⚡⚡
+Have an amazing `Thursday` ⚡⚡⚡
 
-Did you know Today on `15th of November`
+Did you know Today on `16th of November`
  
- [<img src="http://news.bbc.co.uk/media/images/40068000/jpg/_40068326_morat_238.jpg" width="300" />](http://news.bbc.co.uk/onthisday/hi/dates/stories/october/15/newsid_2533000/2533131.stm) 
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Jalta_1945.jpg" width="300" />](https://en.wikipedia.org/wiki/Soviet_Union–United_States_relations) 
  ```
-“About 250,000 protesters against the Vietnam War, the largest war protest ever, converged peacefully on Washington, DC.” (Year: 1969)
+“The United States and the Soviet Union established diplomatic relations.” (Year: 1933)
 ```
