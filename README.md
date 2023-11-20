@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Sunday` ⚡⚡⚡
+Have an amazing `Monday` ⚡⚡⚡
 
-Did you know Today on `19th of November`
+Did you know Today on `20th of November`
  
- [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Milli_Vanilli_and_C._Michael_Greene.jpg" width="300" />](https://en.wikipedia.org/wiki/Milli_Vanilli) 
+ [<img src="https://i.insider.com/607074b5a451820019b3a43f?width=1300&format=jpeg&auto=webp" width="300" />](https://www.insider.com/queen-elizabeth-and-prince-philip-marriage-2016-11) 
  ```
-“Milli Vanilli`s Grammy award was rescinded after it was discovered they didn`t do their own singing.” (Year: 1990)
+“The future Queen Elizabeth II married Philip Mountbatten, Duke of Ediburgh.” (Year: 1947)
 ```
