@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Sunday` ⚡⚡⚡
+Have an amazing `Monday` ⚡⚡⚡
 
-Did you know Today on `26th of November`
+Did you know Today on `27th of November`
  
- [<img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Tony_Blair_2010_%28cropped%29.jpg" width="300" />](https://www.historyplace.com/speeches/blair.htm) 
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Ada_Byron_daguerreotype_by_Antoine_Claudet_1843_or_1850.jpg/220px-Ada_Byron_daguerreotype_by_Antoine_Claudet_1843_or_1850.jpg" width="300" />](https://en.wikipedia.org/wiki/Ada_Lovelace) 
  ```
-“Tony Blair became the first British prime minister to speak to the Irish parliament.” (Year: 1998)
+“Lord Byron`s daughter Ada died. She had assisted Charles Babbage with his `analytical engine` and is credited with inventing computer language.” (Year: 1852)
 ```
