@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Tuesday` ⚡⚡⚡
+Have an amazing `Wednesday` ⚡⚡⚡
 
-Did you know Today on `28th of November`
+Did you know Today on `29th of November`
  
- [<img src="https://www.nasa.gov/sites/default/files/1964_november_mariner_04_0.jpg" width="300" />](https://www.jpl.nasa.gov/missions/mariner-4) 
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/UN_Palestine_Partition_Versions_1947.jpg/230px-UN_Palestine_Partition_Versions_1947.jpg" width="300" />](https://en.wikipedia.org/wiki/United_Nations_Partition_Plan_for_Palestine) 
  ```
-“The U.S. spacecraft Mariner 4 launched—on its way to the first successful mission to Mars.” (Year: 1964)
+“The United Nations voted to grant the Jewish people a homeland to be established in Palestine.” (Year: 1947)
 ```
