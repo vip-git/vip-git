@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Tuesday` ⚡⚡⚡
+Have an amazing `Wednesday` ⚡⚡⚡
 
-Did you know Today on `05th of December`
+Did you know Today on `06th of December`
  
- [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Mary_Celeste_as_Amazon_in_1861_%28cropped%29.jpg" width="300" />](https://en.wikipedia.org/wiki/Mary_Celeste) 
+ [<img src="https://static.dw.com/image/51178194_303.jpg" width="300" />](https://www.sciencespo.fr/mass-violence-war-massacre-resistance/en/document/hindu-muslim-communal-riots-india-i-1947-1986.html) 
  ```
-“Having left New York on Nov. 5, the brigantine Mary Celeste was found adrift off Portugal with everyone aboard mysteriously missing.” (Year: 1872)
+“The destruction of a mosque in India by Hindu extremists set off two months of Muslim-Hindu fighting that claimed at least 2,000 lives.” (Year: 1992)
 ```
