@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Sunday` ⚡⚡⚡
+Have an amazing `Monday` ⚡⚡⚡
 
-Did you know Today on `17th of December`
+Did you know Today on `18th of December`
  
- [<img src="https://news4sanantonio.com/resources/media/082b2201-da4f-4c39-acfb-810ffc6203fc-jumbo16x9_Nafta.jpg?1601920059336" width="300" />](https://www.trade.gov/north-american-free-trade-agreement-nafta#:~:text=The%20North%20American%20Free%20Trade%20Agreement%20(NAFTA)%2C%20which%20was,U.S.%2DMexico%20bilateral%20commercial%20relationship.) 
+ [<img src="https://www.deathpenaltyproject.org/wp-content/uploads/2015/11/Untitled-design-3.jpg" width="300" />](https://www.legislation.gov.uk/ukpga/1965/71) 
  ```
-“North American Free Trade Agreement (NAFTA) signed by U.S., Canada, and Mexico.” (Year: 1992)
+“The British Parliament abolished the death penalty for murder.” (Year: 1969)
 ```
