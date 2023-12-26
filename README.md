@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Monday` ⚡⚡⚡
+Have an amazing `Tuesday` ⚡⚡⚡
 
-Did you know Today on `25th of December`
+Did you know Today on `26th of December`
  
- [<img src="https://upload.wikimedia.org/wikipedia/commons/7/78/The_Tramp_Essanay.jpg" width="300" />](http://en.wikipedia.org/wiki/Charlie_Chaplin) 
+ [<img src="" width="300" />]() 
  ```
-“British film actor, director, and producer Charlie Chaplin died in Switzerland at age 88.” (Year: 1977)
+
 ```
