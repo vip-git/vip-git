@@ -1,7 +1,7 @@
 ## Hey there 👋
-Have an amazing `Wednesday` ⚡⚡⚡
+Have an amazing `Thursday` ⚡⚡⚡
 
-Did you know Today on `27th of December`
+Did you know Today on `28th of December`
  
  [<img src="" width="300" />]() 
  ```
