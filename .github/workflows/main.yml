@@ -43,9 +43,9 @@ jobs:
               esac
            }
            day=fact_$(date +%b)-$(date +%d)
-           fact_of_the_day=$(curl -s $FACTS_OF_THE_DAY | jq -rc --arg day "$day" '.data[] | select(.meta_key==$day) | .meta_value') 
-           img_of_the_day=$(curl -s $FACTS_OF_THE_DAY | jq -rc --arg day "$day" '.data[] | select(.meta_key==$day) | .meta_img') 
-           imgURL_of_the_day=$(curl -s $FACTS_OF_THE_DAY | jq -rc --arg day "$day" '.data[] | select(.meta_key==$day) | .meta_img_url') 
+           fact_of_the_day=$(curl -sk $FACTS_OF_THE_DAY | jq -rc --arg day "$day" '.data[] | select(.meta_key==$day) | .meta_value') 
+           img_of_the_day=$(curl -sk $FACTS_OF_THE_DAY | jq -rc --arg day "$day" '.data[] | select(.meta_key==$day) | .meta_img') 
+           imgURL_of_the_day=$(curl -sk $FACTS_OF_THE_DAY | jq -rc --arg day "$day" '.data[] | select(.meta_key==$day) | .meta_img_url') 
            echo $day $fact_of_the_day
            echo -e $'## Hey there 👋\nHave an amazing `'$(date +%A)'` ⚡⚡⚡\n\nDid you know Today on `'$(date +%d`DaySuffix`)' of '$(date +%B)'`\n \n [<img src="'$img_of_the_day'" width="300" />]('$imgURL_of_the_day') \n ```\n'$fact_of_the_day'\n```' > README.md
 
