@@ -31,8 +31,6 @@ jobs:
 
     # Runs a single command using the runners shell
     - name: Run hey there and fact of the day
-      env:
-        FACTS_OF_THE_DAY: ${{ secrets.FACTS_OF_THE_DAY }}
       run: |
            DaySuffix() {
               case `date +%d` in
