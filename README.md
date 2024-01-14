@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Saturday` ⚡⚡⚡
+Have an amazing `Sunday` ⚡⚡⚡
 
-Did you know Today on `13th of January`
+Did you know Today on `14th of January`
  
- [<img src="https://i.ytimg.com/vi/9MZqPZpWBYI/hqdefault.jpg" width="300" />](http://nba.com/history/top-moments/2001-jordan-return-wizards) 
+ [<img src="https://upload.wikimedia.org/wikipedia/en/0/0d/Simpsons_FamilyPicture.png" width="300" />](http://en.wikipedia.org/wiki/Bart_the_Genius) 
  ```
-“Michael Jordan announced his second retirement from the NBA. He would `unretire` again in 2001.” (Year: 1999)
+“The Simpsons premiered on television.” (Year: 1990)
 ```
