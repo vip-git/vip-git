@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Friday` ⚡⚡⚡
+Have an amazing `Saturday` ⚡⚡⚡
 
-Did you know Today on `16th of February`
+Did you know Today on `17th of February`
  
- [<img src="https://cdn-images-1.listennotes.com/podcasts/historypod/16th-february-1937-organic-9QEeABdfDTW-ZJCHRQPhVyW.400x300.jpg" width="300" />](https://nowweknowem.wordpress.com/2014/02/16/the-patent-for-nylon-was-awarded-today-in-1937-to-wallace-carothers-and-the-dupont-corporation-now-we-know-em/#:~:text=people%20from%20history-,The%20patent%20for%20nylon%20was%20awarded%20today%20in%201937%20to,and%20spent%20many%20hours%20experimenting.) 
+ [<img src="https://static01.nyt.com/images/2008/02/18/world/18kosovo-inline3-650.jpg?quality=75&auto=webp&disable=upscale" width="300" />](https://www.britannica.com/place/Kosovo/Self-declared-independence) 
  ```
-“Nylon was patented.” (Year: 1937)
+“Kosovo declared independence from Serbia.” (Year: 2008)
 ```
