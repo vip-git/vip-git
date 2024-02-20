@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Monday` ⚡⚡⚡
+Have an amazing `Tuesday` ⚡⚡⚡
 
-Did you know Today on `19th of February`
+Did you know Today on `20th of February`
  
- [<img src="https:://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Edison_and_phonograph_edit1.jpg/1280px-Edison_and_phonograph_edit1.jpg" width="300" />](https://www.history.com/this-day-in-history/thomas-alva-edison-patents-the-phonograph#:~:text=The%20technology%20that%20made%20the,%E2%80%94on%20February%2019%2C%201878.https) 
+ [<img src="https://www.nydailynews.com/resizer/X6QLvlM4wqCS-vZv58__ICXYteg=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/QLG53UMFE7JLWRMNDDMI4WAZDY.jpg" width="300" />](https://www.history.com/this-day-in-history/an-american-orbits-earth) 
  ```
-“Thomas Edison patented the gramophone (phonograph).” (Year: 1878)
+“John Glenn became the first American to orbit Earth.” (Year: 1962)
 ```
