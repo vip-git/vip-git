@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Tuesday` ⚡⚡⚡
+Have an amazing `Wednesday` ⚡⚡⚡
 
-Did you know Today on `20th of February`
+Did you know Today on `21st of February`
  
- [<img src="https://www.nydailynews.com/resizer/X6QLvlM4wqCS-vZv58__ICXYteg=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/QLG53UMFE7JLWRMNDDMI4WAZDY.jpg" width="300" />](https://www.history.com/this-day-in-history/an-american-orbits-earth) 
+ [<img src="https://www.hawaii-post.com/2002-03JUL-stamps.jpg" width="300" />](https://sofrep.com/fightersweep/today-aviation-history-adventurer-steve-fossett-becomes-1st-person-fly-solo-across-pacific-ocean-balloon/) 
  ```
-“John Glenn became the first American to orbit Earth.” (Year: 1962)
+“Steve Fossett became the first person to cross the Pacific Ocean solo in a balloon.” (Year: 1995)
 ```
