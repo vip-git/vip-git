@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Thursday` ⚡⚡⚡
+Have an amazing `Friday` ⚡⚡⚡
 
-Did you know Today on `22nd of February`
+Did you know Today on `23rd of February`
  
- [<img src="https://www.decades.com/assets/videoimage/i0W3PgYcru8_thumb.jpg" width="300" />](https://en.wikipedia.org/wiki/1935_in_aviation#:~:text=White%20House) 
+ [<img src="https://i.imgur.com/duxn8EM.png" width="300" />](http://news.bbc.co.uk/onthisday/hi/dates/stories/february/22/newsid_4245000/4245877.stm) 
  ```
-“Airplanes were no longer permitted to fly over the White House.” (Year: 1935)
+“Scottish scientists announced the successful cloning of a sheep, Dolly.” (Year: 1997)
 ```
