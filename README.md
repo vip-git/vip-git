@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Saturday` ⚡⚡⚡
+Have an amazing `Sunday` ⚡⚡⚡
 
-Did you know Today on `02nd of March`
+Did you know Today on `03rd of March`
  
- [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Morocco_1918.JPG/1280px-Morocco_1918.JPG" width="300" />](https://www.cvce.eu/en/education/unit-content/-/unit/dd10d6bf-e14d-40b5-9ee6-37f978c87a01/2796f581-3e5a-4dff-9fbe-fd3d48966b38) 
+ [<img src="https://historycms2.house.gov/assets/15032390670.jpeg?wd=280" width="300" />](https://history.house.gov/Institution/Presidential-Vetoes/Presidential-Vetoes/#:~:text=The%20first%20successful%20congressional%20override,veto%20that%20cannot%20be%20overridden.) 
  ```
-“Morocco gained independence from France.” (Year: 1956)
+“The U.S. Senate passed legislation overriding a presidential veto for the first time.” (Year: 1845)
 ```
