@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Thursday` ⚡⚡⚡
+Have an amazing `Friday` ⚡⚡⚡
 
-Did you know Today on `21st of March`
+Did you know Today on `22nd of March`
  
- [<img src="https://www.aclualabama.org/sites/default/files/styles/featured_image_mobile_480x319/public/field_image/we_march_with_selma_cph.3c35695.jpg?itok=HsBOJ5sL" width="300" />](https://kinginstitute.stanford.edu/encyclopedia/selma-montgomery-march) 
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Arab_League_Summit%2C_1964.jpg" width="300" />](https://en.wikipedia.org/wiki/Arab_League#:~:text=The%20Arab%20League%20was%20formed%20in%20Cairo%20on%2022%20March%201945) 
  ```
-“Martin Luther King, Jr., led the start of a civil rights march from Selma to Montgomery, Alabama.” (Year: 1965)
+“The Arab League was formed in Cairo, by Egypt, Iraq, Jordan, Lebanon, and Syria.” (Year: 1945)
 ```
