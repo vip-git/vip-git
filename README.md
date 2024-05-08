@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Tuesday` ⚡⚡⚡
+Have an amazing `Wednesday` ⚡⚡⚡
 
-Did you know Today on `07th of May`
+Did you know Today on `08th of May`
  
- [<img src="https://i.redd.it/1fbvlt69shw01.jpg" width="300" />](https://en.wikipedia.org/wiki/First_inauguration_of_Vladimir_Putin#:~:text=President%20of%20Russia.&text=The%20First%20Inauguration%20of%20Vladimir,and%20lasted%20exactly%20one%20hour.) 
+ [<img src="https://media.defense.gov/2020/May/04/2002294069/-1/-1/1/200504-D-RB598-001.JPG" width="300" />](https://www.defense.gov/Experience/VE-Day/#:~:text=On%20May%208%2C%201945%20%2D%20known,%2C%20on%20June%206%2C%201944.) 
  ```
-“Vladimir Putin was inaugurated as Russia’s president.” (Year: 2000)
+“V-E Day marks the European victory of the Allies in World War II.” (Year: 1945)
 ```
