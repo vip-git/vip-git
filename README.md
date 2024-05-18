@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Friday` ⚡⚡⚡
+Have an amazing `Saturday` ⚡⚡⚡
 
-Did you know Today on `17th of May`
+Did you know Today on `18th of May`
  
- [<img src="https://media4.s-nbcnews.com/j/msnbc/Components/Photos/040517/040517_first_marriage_hmed_7a7.fit-760w.jpg" width="300" />](https://www.nbcnews.com/id/wbna4991967) 
+ [<img src="https://pbs.twimg.com/media/D62edEeXYAAYjW2.jpg" width="300" />](https://www.guinnessworldrecords.com/world-records/first-person-to-break-the-sound-barrier-(female)#:~:text=The%20first%20woman%20to%20fly,to%20break%20the%20sound%20barrier.) 
  ```
-“In Massachusetts, same-sex couples exchanged marriage vows for the first time in the United States.” (Year: 2004)
+“Jacqueline Cochran became the first woman to fly faster than the speed of sound.” (Year: 1953)
 ```
