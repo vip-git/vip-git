@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Monday` ⚡⚡⚡
+Have an amazing `Tuesday` ⚡⚡⚡
 
-Did you know Today on `27th of May`
+Did you know Today on `28th of May`
  
- [<img src="http://www.saint-petersburg.com/images/history/st-petersburg-in-the-era-of-peter-the-great/map-of-st-petersburg-in-1717-by-nicholas-de-fer.jpg" width="300" />](https://en.wikipedia.org/wiki/History_of_Saint_Petersburg#:~:text=Founded%20by%20Tsar%20Peter%20the,the%20Russian%20Revolution%20of%201917.) 
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Bronze_Horseman002.jpg" width="300" />](https://www.rferl.org/a/twenty-five-years-after-mathias-rust-remembers-historic-flight-to-red-square/24595709.html) 
  ```
-“St. Petersburg was founded by Czar Peter the Great.” (Year: 1703)
+“Mathias Rust, a 19-year-old pilot from West Germany, landed his private plane in Moscow’s Red Square. He was arrested and sentenced to four years in a labor camp, but was released after just one.” (Year: 1987)
 ```
