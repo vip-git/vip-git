@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Monday` ⚡⚡⚡
+Have an amazing `Tuesday` ⚡⚡⚡
 
-Did you know Today on `10th of June`
+Did you know Today on `11th of June`
  
- [<img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Scheda_elettorale_referendum_2_giugno_1946.jpg" width="300" />](https://en.wikipedia.org/wiki/1946_Italian_institutional_referendum#:~:text=10%20June) 
+ [<img src="https://images.slideplayer.com/20/6220118/slides/slide_2.jpg" width="300" />](https://blogs.bl.uk/magnificentmaps/2020/06/great-barrier-reef-discovery.html#:~:text=Exactly%20250%20years%20ago%20today,km%20(over%201%2C400%20miles).) 
  ```
-“Italy replaced its monarchy with a republic.” (Year: 1946)
+“Capt. James Cook discovered the Great Barrier Reef off Australia .” (Year: 1770)
 ```
