@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Tuesday` ⚡⚡⚡
+Have an amazing `Wednesday` ⚡⚡⚡
 
-Did you know Today on `18th of June`
+Did you know Today on `19th of June`
  
- [<img src="https://cdn.britannica.com/08/75508-050-FCDFE7FF/Amelia-Earhart-woman-flight-25-1932.jpg" width="300" />](https://en.wikipedia.org/wiki/Amelia_Earhart) 
+ [<img src="https://cdn.britannica.com/49/168949-050-64CF22C4/Map-states-slave-slavery-territory-freedom-Missouri-1856.jpg" width="300" />](https://www.archives.gov/publications/prologue/2017/winter/summer-of-1862) 
  ```
-“Aviator Amelia Earhart became the first woman to fly across the Atlantic Ocean. She completed the flight from Newfoundland to Wales in about 21 hours.” (Year: 1928)
+“Congress abolished slavery in the U.S. territories.” (Year: 1862)
 ```
