@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Monday` ⚡⚡⚡
+Have an amazing `Tuesday` ⚡⚡⚡
 
-Did you know Today on `24th of June`
+Did you know Today on `25th of June`
  
- [<img src="https://static01.nyt.com/images/2011/06/25/nyregion/25marriage4_span/25marriage4_span-articleLarge.jpg?quality=75&auto=webp&disable=upscale" width="300" />](https://en.wikipedia.org/wiki/Same-sex_marriage_in_New_York#:~:text=June%2024%2C%202011%3A%20The%20New,takes%20effect%20in%2030%20days.) 
+ [<img src="https://www.rollingstone.com/wp-content/uploads/2018/06/rs-170256-88697169.jpg?resize=1800,1200&w=450" width="300" />](https://www.history.com/this-day-in-history/king-of-pop-michael-jackson-dies-at-age-50#:~:text=On%20June%2025%2C%202009%2C%20Michael,him%20by%20his%20personal%20doctor.) 
  ```
-“New York passes a law to allow same-sex marriage, becoming the largest state that allows gay and lesbian couples to marry.” (Year: 2011)
+“Michael Jackson, lifelong musician, pop singer, and superstar, dies at age 50.” (Year: 2009)
 ```
