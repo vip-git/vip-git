@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Monday` ⚡⚡⚡
+Have an amazing `Tuesday` ⚡⚡⚡
 
-Did you know Today on `01st of July`
+Did you know Today on `02nd of July`
  
- [<img src="https://s.france24.com/media/display/a34ce994-0b0f-11e9-b2c0-005056bff430/w:1280/p:16x9/croatie%20UE.webp" width="300" />](https://en.wikipedia.org/wiki/2013_enlargement_of_the_European_Union#:~:text=The%20most%20recent%20enlargement%20of,official%20candidate%20in%20early%202004.) 
+ [<img src="https://i.pinimg.com/236x/b1/93/2a/b1932a804e3e1a28a0a6e79825beadc3--history-mysteries-unsolved-mysteries.jpg" width="300" />](https://www.history.com/topics/exploration/what-happened-to-amelia-earhart#:~:text=On%20the%20morning%20of%20July,attempt%20to%20circumnavigate%20the%20globe.&text=A%20court%20order%20declared%20Earhart,18%20months%20after%20she%20disappeared.) 
  ```
-“Croatia became the 28th member of the European Union.” (Year: 2013)
+“Amelia Earhart and her co-pilot Fred Noonan disappeared over the Pacific Ocean while attempting to fly around the world.” (Year: 1937)
 ```
