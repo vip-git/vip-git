@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Wednesday` ⚡⚡⚡
+Have an amazing `Thursday` ⚡⚡⚡
 
-Did you know Today on `03rd of July`
+Did you know Today on `04th of July`
  
- [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Arrival_of_Marshal_Randon_in_Algier-Ernest-Francis_Vacherot_mg_5120.jpg" width="300" />](https://en.wikipedia.org/wiki/French_Algeria#:~:text=French%20rule%20in%20the%20region,War%20of%20Independence%20in%201962.&text=The%20war%20ended%20in%201962,determination%20referendum%20in%20July%201962.) 
+ [<img src="https://www.history.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTU3ODc5MDgyNjc0ODkwNDYz/by-john-trumbull-3.jpg" width="300" />](https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence) 
  ```
-“Algeria became independent after 132 years of French rule.” (Year: 1962)
+“The U.S. declared independence from Great Britain.” (Year: 1776)
 ```
