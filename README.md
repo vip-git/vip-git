@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Thursday` ⚡⚡⚡
+Have an amazing `Friday` ⚡⚡⚡
 
-Did you know Today on `04th of July`
+Did you know Today on `05th of July`
  
- [<img src="https://www.history.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTU3ODc5MDgyNjc0ODkwNDYz/by-john-trumbull-3.jpg" width="300" />](https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence) 
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/BatallaCarabobo02.JPG" width="300" />](https://www.thoughtco.com/independence-from-spain-in-venezuela-2136397#:~:text=Radicals%20within%20the%20government%2C%20such,sever%20all%20ties%20with%20Spain.) 
  ```
-“The U.S. declared independence from Great Britain.” (Year: 1776)
+“Venezuela became the first South American country to declare independence from Spain.” (Year: 1811)
 ```
