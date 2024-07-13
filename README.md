@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Friday` ⚡⚡⚡
+Have an amazing `Saturday` ⚡⚡⚡
 
-Did you know Today on `12th of July`
+Did you know Today on `13th of July`
  
- [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Flag_of_the_Gilbert_and_Ellice_Islands_%281937%E2%80%931976%29.svg" width="300" />](https://history.state.gov/countries/kiribati#:~:text=The%20United%20States%20recognized%20the,under%20the%20name%20of%20Kiribati.) 
+ [<img src="https://i.pinimg.com/originals/e3/1f/95/e31f9551958f428112e121201c37f644.png" width="300" />](https://www.history.com/this-day-in-history/first-world-cup#:~:text=On%20July%2013%2C%201930%2C%20France,in%20host%20city%20Montevideo%2C%20Uruguay.) 
  ```
-“Kiribati, formerly the Gilbert Islands, gained its independence from the United Kingdom.” (Year: 1979)
+“The first World Cup soccer competition began in Montevideo, Uruguay.” (Year: 1930)
 ```
