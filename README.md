@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Tuesday` ⚡⚡⚡
+Have an amazing `Wednesday` ⚡⚡⚡
 
-Did you know Today on `23rd of July`
+Did you know Today on `24th of July`
  
- [<img src="https://image4.slideserve.com/771498/slide2-l.jpg" width="300" />](https://en.wikipedia.org/wiki/Comet_Hale%E2%80%93Bopp) 
+ [<img src="http://www.fggam.org/wp-content/uploads/2015/07/tennessee.jpg" width="300" />](https://www.politico.com/story/2008/07/tenn-is-readmitted-to-the-union-july-24-1866-011990) 
  ```
-“The Hale-Bopp comet was discovered by Alan Hale and Thomas Bopp.” (Year: 1995)
+“Tennessee became the first Confederate state to be readmitted to the Union.” (Year: 1866)
 ```
