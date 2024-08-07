@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Tuesday` ⚡⚡⚡
+Have an amazing `Wednesday` ⚡⚡⚡
 
-Did you know Today on `06th of August`
+Did you know Today on `07th of August`
  
- [<img src="https://www.robankspromotions.co.uk/wp-content/uploads/2015/05/600px-JamaicanIndependence.jpg" width="300" />](https://en.wikipedia.org/wiki/Independence_of_Jamaica#:~:text=The%20Colony%20of%20Jamaica%20gained,conquered%20the%20Indigenous%20Arawak%20people.) 
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Explorer_6_paddles_up.jpg" width="300" />](https://www.history.com/this-day-in-history/u-s-satellite-photographs-earth) 
  ```
-“Jamaica gained its independence within the Britain Commonwealth.” (Year: 1962)
+“The United States launched Explorer 6, which sent back a picture of Earth.” (Year: 1959)
 ```
