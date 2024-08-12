@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Sunday` ⚡⚡⚡
+Have an amazing `Monday` ⚡⚡⚡
 
-Did you know Today on `11th of August`
+Did you know Today on `12th of August`
  
- [<img src="https://files.nc.gov/ncdcr/this-day-nc/august_11_araphoe.jpg" width="300" />](https://www.ncdcr.gov/blog/2015/08/11/distress-signal-sos-first-heard-at-hatteras-1909) 
+ [<img src="https://www.swissinfo.ch/resource/image/44319140/landscape_ratio16x9/1920/1080/3249997860cec19b6842623def466751/1ECFE53EB0C6CA4090FC82487A5BCABD/349770368--1-.jpg" width="300" />](http://edition.cnn.com/WORLD/europe/9808/12/swiss.banks/index.html) 
  ```
-“Arapahoe became the first American ship to use the S.O.S. distress signal.” (Year: 1909)
+“Swiss banks agreed to pay $1.25 billion to settle lawsuits brought by Holocaust survivors and their heirs. The banks had kept millions of dollars deposited by Holocaust victims before and during World War II.” (Year: 1998)
 ```
