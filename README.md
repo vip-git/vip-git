@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Wednesday` ⚡⚡⚡
+Have an amazing `Thursday` ⚡⚡⚡
 
-Did you know Today on `14th of August`
+Did you know Today on `15th of August`
  
- [<img src="https://cdn.britannica.com/46/160546-050-00ECD73D/forces-soldiers-Boxer-China-Beijing-Imperial-Palace-1900.jpg" width="300" />](https://www.britannica.com/event/Boxer-Rebellion) 
+ [<img src="https://www.telegraph.co.uk/content/dam/science/2017/02/22/JS121434226_PA_TRAPPIST-1-solar-system_trans_NvBQzQNjv4BqkG1sgSWw5LSQoolLf0IcOtqZrElOoFXWeNRb-OSesHU.jpg" width="300" />](https://www.republicworld.com/technology-news/science/astronomers-discovered-1st-solar-system-outside-our-own-in-2001.html) 
  ```
-“International forces entered Beijing, China, in an effort to suppress the antiforeign uprising known as the Boxer Rebellion.” (Year: 1900)
+“Astronomers announced the discovery of the first solar system outside our own.” (Year: 2001)
 ```
