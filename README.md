@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Wednesday` ⚡⚡⚡
+Have an amazing `Thursday` ⚡⚡⚡
 
-Did you know Today on `21st of August`
+Did you know Today on `22nd of August`
  
- [<img src="http://migis.eu/wp-content/uploads/2017/12/lv383.png" width="300" />](https://en.wikipedia.org/wiki/On_the_Restoration_of_Independence_of_the_Republic_of_Latvia#:~:text=On%2021%20August%201991) 
+ [<img src="https://www.history.com/.image/t_share/MTU3ODc4NTk3ODc3MjQ1MjU3/image-placeholder-title.jpg" width="300" />](https://www.history.com/news/japan-colonization-korea#:~:text=In%201910%2C%20Korea%20was%20annexed,out%20war%20on%20Korean%20culture.) 
  ```
-“Latvia declared its independence from the Soviet Union.” (Year: 1991)
+“Korea was annexed by Japan after five years as a protectorate.” (Year: 1910)
 ```
