@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Saturday` ⚡⚡⚡
+Have an amazing `Sunday` ⚡⚡⚡
 
-Did you know Today on `24th of August`
+Did you know Today on `25th of August`
  
- [<img src="https://miro.medium.com/max/768/1*EfP0ryjp5ECrUiWcqzlENw.jpeg" width="300" />](https://www.history.com/this-day-in-history/spain-accepts-mexican-independence) 
+ [<img src="https://slidetodoc.com/presentation_image_h/c8cec80f2fab10938279de5224c29fa2/image-4.jpg" width="300" />](https://www.officeholidays.com/holidays/uruguay/uruguay-independence-day#:~:text=On%20August%2025th%201825%2C%20following,to%20Brazil%20recognising%20Uruguay's%20independence.) 
  ```
-“Mexico gained its independence from Spain with the Treaty of Cordoba.” (Year: 1821)
+“Uruguay declared its independence from Brazil.” (Year: 1825)
 ```
