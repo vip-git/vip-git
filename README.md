@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Sunday` ⚡⚡⚡
+Have an amazing `Monday` ⚡⚡⚡
 
-Did you know Today on `01st of September`
+Did you know Today on `02nd of September`
  
- [<img src="https://cdn.britannica.com/77/205677-050-1782118C/Damage-Tokyo-Yokohama-earthquake-1923.jpg" width="300" />](http://www.greatkantoearthquake.com/aftermath.html) 
+ [<img src="https://www.zinnedproject.org/wp-content/uploads/2018/06/Ho-Chi-Minh-Zinn-Education-Project.jpg" width="300" />](http://historymatters.gmu.edu/d/5139/#:~:text=On%20September%202%2C%201945%2C%20Ho,America's%201776%20Declaration%20of%20Independence.) 
  ```
-“A devastating earthquake struck the Japanese cities of Tokyo and Yokohama. Nearly 150,000 people were killed and more than two million left homeless.” (Year: 1923)
+“Ho Chi Minh declared Vietnam an independent republic.” (Year: 1945)
 ```
