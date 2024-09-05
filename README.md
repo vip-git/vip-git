@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Wednesday` ⚡⚡⚡
+Have an amazing `Thursday` ⚡⚡⚡
 
-Did you know Today on `04th of September`
+Did you know Today on `05th of September`
  
- [<img src="https://www.gannett-cdn.com/presto/2019/09/03/PCIN/6ae6ad17-0821-4d10-b4e4-2467e81b5619-Mural_painting_which_depicts_the_founding_of_Los_Angeles_ca19311939.jpg?width=660&height=365&fit=crop&format=pjpg&auto=webp" width="300" />](https://la.curbed.com/2018/4/20/17016988/los-angeles-history-timeline-facts-earthquakes#:~:text=El%20Pueblo%20de%20la%20Reina,into%20Alaska%20and%20Northern%20California.) 
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/President_Ronald_Reagan_presents_Mother_Teresa_with_the_Medal_of_Freedom_at_a_White_House_Ceremony_in_the_Rose_Garden.jpg/1920px-President_Ronald_Reagan_presents_Mother_Teresa_with_the_Medal_of_Freedom_at_a_White_House_Ceremony_in_the_Rose_Garden.jpg" width="300" />](https://en.wikipedia.org/wiki/Mother_Teresa) 
  ```
-“The city of Los Angeles was founded by Spanish settlers.” (Year: 1781)
+“Humanitarian Mother Teresa, who won a Nobel Peace Prize for her work with the poor, died in Calcutta, India, at age 87.” (Year: 1997)
 ```
