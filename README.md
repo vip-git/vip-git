@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Thursday` ⚡⚡⚡
+Have an amazing `Friday` ⚡⚡⚡
 
-Did you know Today on `10th of October`
+Did you know Today on `11th of October`
  
- [<img src="https://fijisun.com.fj/wp-content/uploads/2020/10/120222714_2081546911978817_7323137209317591492_o-750x403.jpg" width="300" />](https://fijisun.com.fj/2020/10/07/fiji-gained-independence-from-britain-50-years-ago/) 
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Einstein-Roosevelt-letter.png/1200px-Einstein-Roosevelt-letter.png" width="300" />](https://en.wikipedia.org/wiki/Einstein%E2%80%93Szil%C3%A1rd_letter#:~:text=The%20Einstein%E2%80%93Szilard%20letter%20was,Roosevelt%20on%20August%202%2C%201939.&text=It%20prompted%20action%20by%20Roosevelt,developing%20the%20first%20atomic%20bombs.) 
  ```
-“Fiji gained its independence from Great Britain.” (Year: 1970)
+“A letter from Albert Einstein was delivered to President Franklin D. Roosevelt concerning the possibility of atomic weapons.” (Year: 1939)
 ```
