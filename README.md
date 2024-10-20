@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Saturday` ⚡⚡⚡
+Have an amazing `Sunday` ⚡⚡⚡
 
-Did you know Today on `19th of October`
+Did you know Today on `20th of October`
  
- [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/American_union_bank.gif/1920px-American_union_bank.gif" width="300" />](https://en.wikipedia.org/wiki/Wall_Street_Crash_of_1929) 
+ [<img src="https://www.surinametourism.sr/wp-content/uploads/2019/10/chinese_familie-300x275.jpg" width="300" />](https://en.wikipedia.org/wiki/Chinese_Surinamese#:~:text=In%201858%2C%20500%20Chinese%20laborers,would%20do%20%22for%20free%22.) 
  ```
-“The stock market crashed on what came to be known as `Black Monday.` Stocks dropped a record 508 points, or 22.6%, topping the drops on October 28 and 29 in 1929 that ushered in the Great Depression.” (Year: 1987)
+“1st Chinese immigrant arrives in Suriname.” (Year: 1843)
 ```
