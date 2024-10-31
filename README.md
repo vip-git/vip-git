@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Wednesday` ⚡⚡⚡
+Have an amazing `Thursday` ⚡⚡⚡
 
-Did you know Today on `30th of October`
+Did you know Today on `31st of October`
  
- [<img src="https://www.marshallfoundation.org/marshall/wp-content/uploads/sites/22/2014/04/marshallplanhistory.jpg" width="300" />](https://www.marshallfoundation.org/blog/nobel-peace-prize/#:~:text=On%20December%2010%2C%201953%2C%20General,which%20had%20concluded%20in%201952.) 
+ [<img src="https://images.newscientist.com/wp-content/uploads/1992/11/07000000/galileo_before_the_holy_office-e1498130768597.jpg" width="300" />](http://www.baskent.edu.tr/~tkaracay/etudio/agora/news/Galileo.html#:~:text=Vatican%20Science%20Panel%20Told%20By%20Pope%3A%20Galileo%20Was%20Right&text=Moving%20formally%20to%20rectify%20a,Earth%20revolves%20around%20the%20Sun.) 
  ```
-“Gen. George C. Marshall won the Nobel Peace Prize for originating the Marshall Plan.” (Year: 1953)
+“Pope John Paul II admitted that the Roman Catholic Church had erred in convicting Galileo of heresy 350 years earlier.” (Year: 1992)
 ```
