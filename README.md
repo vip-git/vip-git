@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Thursday` ⚡⚡⚡
+Have an amazing `Friday` ⚡⚡⚡
 
-Did you know Today on `31st of October`
+Did you know Today on `01st of November`
  
- [<img src="https://images.newscientist.com/wp-content/uploads/1992/11/07000000/galileo_before_the_holy_office-e1498130768597.jpg" width="300" />](http://www.baskent.edu.tr/~tkaracay/etudio/agora/news/Galileo.html#:~:text=Vatican%20Science%20Panel%20Told%20By%20Pope%3A%20Galileo%20Was%20Right&text=Moving%20formally%20to%20rectify%20a,Earth%20revolves%20around%20the%20Sun.) 
+ [<img src="https://www.consilium.europa.eu/en/maastricht-treaty/assets/LpKslYllQ4/hpn-maastrichtfamily_eu_lp002371061h_hi-2560x1440.jpeg" width="300" />](https://www.ecb.europa.eu/explainers/tell-me-more/html/25_years_maastricht.en.html#:~:text=The%20Maastricht%20Treaty%20officially%20came,the%20treaties%20that%20followed%20later.) 
  ```
-“Pope John Paul II admitted that the Roman Catholic Church had erred in convicting Galileo of heresy 350 years earlier.” (Year: 1992)
+“The Maastricht Treaty was enacted, establishing the European Union.” (Year: 1993)
 ```
