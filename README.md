@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Tuesday` ⚡⚡⚡
+Have an amazing `Wednesday` ⚡⚡⚡
 
-Did you know Today on `12th of November`
+Did you know Today on `13th of November`
  
- [<img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg" width="300" />](https://en.wikipedia.org/wiki/Space_Shuttle_Columbia) 
+ [<img src="https://www.massmoments.org/files/assets/moments/11-13-1946/11_13.1_1946.jpg" width="300" />](https://www.wired.com/2007/11/nov-13-1946-artificial-snow-falls-for-the-first-time/) 
  ```
-“The space shuttle Columbia was launched for the second time. It was the first time a space vehicle was used more than once.” (Year: 1981)
+“Vincent Schaefer produced artificial snow from a natural cloud for the first time at Mount Greylock in Massachusetts.” (Year: 1946)
 ```
