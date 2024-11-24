@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Saturday` ⚡⚡⚡
+Have an amazing `Sunday` ⚡⚡⚡
 
-Did you know Today on `23rd of November`
+Did you know Today on `24th of November`
  
- [<img src="http://wcsa.world/Userfiles/Upload/images/fg.jpg" width="300" />](http://wcsa.world/news/world-almanac-event-academy/wcsa-on-this-day-november-23-2018-the-first-smartphone-the-ibm-simon-is-introduced-at-comdex-in-las-vegas-nevada-in-1992) 
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/6/68/Van_Diemen%27s_Land_%2815202418751%29.jpg" width="300" />](https://en.wikipedia.org/wiki/Van_Diemen%27s_Land) 
  ```
-“The first smartphone, the IBM Simon, is introduced at COMDEX in Las Vegas, Nevada.” (Year: 1992)
+“Abel Tasman discovered Van Diemen's land, later renamed Tasmania.” (Year: 1642)
 ```
