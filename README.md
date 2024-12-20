@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Thursday` ⚡⚡⚡
+Have an amazing `Friday` ⚡⚡⚡
 
-Did you know Today on `19th of December`
+Did you know Today on `20th of December`
  
- [<img src="https://i.insider.com/59574185bb35030a49690451?width=1136&format=jpeg" width="300" />](https://www.history.com/this-day-in-history/britain-agrees-to-return-hong-kong-to-china#:~:text=In%20the%20Hall%20of%20the,extension%20of%20its%20capitalist%20system.) 
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Carl_Sagan_Planetary_Society_cropped.png" width="300" />](https://en.wikipedia.org/wiki/Carl_Sagan#:~:text=After%20suffering%20from%20myelodysplasia%2C%20Sagan,%2C%20on%20December%2020%2C%201996.) 
  ```
-“Britain and China signed an accord returning Hong Kong to Chinese sovereignty on July 1, 1997.” (Year: 1984)
+“Astronomer Carl Sagan died at age 62.” (Year: 1996)
 ```
