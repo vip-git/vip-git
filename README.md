@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Friday` ⚡⚡⚡
+Have an amazing `Saturday` ⚡⚡⚡
 
-Did you know Today on `27th of December`
+Did you know Today on `28th of December`
  
- [<img src="https://www.cfr.org/sites/default/files/image/2014/09/BW-GG_cropped.jpg" width="300" />](https://www.worldbank.org/en/about/leadership/members) 
+ [<img src="https://images.squarespace-cdn.com/content/v1/54d23339e4b05e3af8143898/1449635225298-HI50R3VF4F9EAM36RU4N/ke17ZwdGBToddI8pDm48kJn-Jvt5ZDuvjMKP_f-j-l17gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTm6TGbZoHqkPa09oubCTenQr-NtzQ2ke-TWG9HYW-g8ypdq1mFM-gtF2pSotX3_0tm/image-asset.png" width="300" />](https://en.wikipedia.org/wiki/William_F._Semple) 
  ```
-“The World Bank was created with an agreement signed by 28 nations.” (Year: 1945)
+“William F. Semple patented chewing gum.” (Year: 1869)
 ```
