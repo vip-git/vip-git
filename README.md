@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Thursday` ⚡⚡⚡
+Have an amazing `Friday` ⚡⚡⚡
 
-Did you know Today on `02nd of January`
+Did you know Today on `03rd of January`
  
- [<img src="https://laststandonzombieisland.files.wordpress.com/2020/01/stossel-makarov-nogi-togo-the-sphere-jan-1905.jpg" width="300" />](http://en.wikipedia.org/wiki/Siege_of_Port_Arthur) 
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Vernet_Luis_Portrait.jpg" width="300" />](https://en.wikipedia.org/wiki/Reassertion_of_British_sovereignty_over_the_Falkland_Islands_(1833)) 
  ```
-“The Russo-Japanese war ended.” (Year: 1905)
+“Britain seized control of the Falkland Islands.” (Year: 1833)
 ```
