@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Thursday` ⚡⚡⚡
+Have an amazing `Friday` ⚡⚡⚡
 
-Did you know Today on `23rd of January`
+Did you know Today on `24th of January`
  
- [<img src="https://devastatingdisasters.com/wp-content/uploads/2015/03/shaanxi-earthquake-1556-featured.jpg" width="300" />](https://en.wikipedia.org/wiki/1556_Shaanxi_earthquake) 
+ [<img src="https://i.pinimg.com/564x/f7/cf/48/f7cf4804e7a66efbcba59db85ef7f8fb--gold-rush-marshalls.jpg" width="300" />](https://en.wikipedia.org/wiki/California_Gold_Rush) 
  ```
-“The deadliest earthquake on record killed 830,000 in Shansi, China.” (Year: 1556)
+“Gold was first discovered in California, in Sutter's mill. When President Polk announced the news in December, the gold rush began.” (Year: 1848)
 ```
