@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Friday` ⚡⚡⚡
+Have an amazing `Saturday` ⚡⚡⚡
 
-Did you know Today on `31st of January`
+Did you know Today on `01st of February`
  
- [<img src="https://gdb.rferl.org/CA591D40-4ACE-473F-8D55-05FF14BB3FB9_w2114_s.jpg" width="300" />](https://www.rferl.org/a/fast-food-moscow-russia/26542682.html#:~:text=When%20the%20fast%2Dfood%20chain,opened%20on%20January%2031%2C%201990.) 
+ [<img src="https://static01.nyt.com/images/2009/04/27/world/27icelandA-xl.jpg?quality=75&auto=webp&disable=upscale" width="300" />](https://en.wikipedia.org/wiki/J%C3%B3hanna_Sigur%C3%B0ard%C3%B3ttir) 
  ```
-“The first McDonald`s opened in Russia.” (Year: 1990)
+“Johanna Sigurdardottir takes office as Iceland`s first female prime minister.” (Year: 2009)
 ```
