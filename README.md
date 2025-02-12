@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Tuesday` ⚡⚡⚡
+Have an amazing `Wednesday` ⚡⚡⚡
 
-Did you know Today on `11th of February`
+Did you know Today on `12th of February`
  
- [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Ohsumi.jpg" width="300" />](https://www.history.com/this-day-in-history/the-worlds-fourth-space-power#:~:text=From%20the%20Kagoshima%20Space%20Center,1958%2C%20and%20France%20in%201965.) 
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Collage_independencia_Chile.jpg" width="300" />](https://en.wikipedia.org/wiki/Chilean_War_of_Independence#:~:text=A%20declaration%20of%20independence%20was,Spanish%20American%20wars%20of%20independence.) 
  ```
-“Japan became the fourth country to put a satellite into orbit.” (Year: 1970)
+“Chile formally proclaimed its independence from Spain.” (Year: 1818)
 ```
