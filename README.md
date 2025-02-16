@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Saturday` ⚡⚡⚡
+Have an amazing `Sunday` ⚡⚡⚡
 
-Did you know Today on `15th of February`
+Did you know Today on `16th of February`
  
- [<img src="https://www.canada.ca/content/dam/pch/images/services/flag-canada/canada-flag-letters-patent.jpg" width="300" />](https://www.canada.ca/en/canadian-heritage/services/flag-canada-history.html#:~:text=The%20new%20maple%20leaf%20flag,public%20ceremony%20on%20Parliament%20Hill.) 
+ [<img src="https://cdn-images-1.listennotes.com/podcasts/historypod/16th-february-1937-organic-9QEeABdfDTW-ZJCHRQPhVyW.400x300.jpg" width="300" />](https://nowweknowem.wordpress.com/2014/02/16/the-patent-for-nylon-was-awarded-today-in-1937-to-wallace-carothers-and-the-dupont-corporation-now-we-know-em/#:~:text=people%20from%20history-,The%20patent%20for%20nylon%20was%20awarded%20today%20in%201937%20to,and%20spent%20many%20hours%20experimenting.) 
  ```
-“The Maple Leaf Flag officially became the new national flag of Canada.” (Year: 1965)
+“Nylon was patented.” (Year: 1937)
 ```
