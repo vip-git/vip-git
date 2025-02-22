@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Friday` ⚡⚡⚡
+Have an amazing `Saturday` ⚡⚡⚡
 
-Did you know Today on `21st of February`
+Did you know Today on `22nd of February`
  
- [<img src="https://www.hawaii-post.com/2002-03JUL-stamps.jpg" width="300" />](https://sofrep.com/fightersweep/today-aviation-history-adventurer-steve-fossett-becomes-1st-person-fly-solo-across-pacific-ocean-balloon/) 
+ [<img src="https://www.decades.com/assets/videoimage/i0W3PgYcru8_thumb.jpg" width="300" />](https://en.wikipedia.org/wiki/1935_in_aviation#:~:text=White%20House) 
  ```
-“Steve Fossett became the first person to cross the Pacific Ocean solo in a balloon.” (Year: 1995)
+“Airplanes were no longer permitted to fly over the White House.” (Year: 1935)
 ```
