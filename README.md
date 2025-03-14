@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Thursday` ⚡⚡⚡
+Have an amazing `Friday` ⚡⚡⚡
 
-Did you know Today on `13th of March`
+Did you know Today on `14th of March`
  
- [<img src="https://inteng-storage.s3.amazonaws.com/images/JULY/sizes/Uranus_md.jpg" width="300" />](https://www.space.com/17432-william-herschel.html#:~:text=Herschel%20lobbied%20to%20name%20the,the%20position%20of%20court%20astronomer.) 
+ [<img src="https://i0.wp.com/todayincthistory.com/wp-content/uploads/2019/03/03-14-Cotton-Gin-HW-1869.png" width="300" />](https://www.history.com/topics/inventions/cotton-gin-and-eli-whitney#:~:text=In%201794%2C%20U.S.%2Dborn%20inventor,had%20become%20America's%20leading%20export.) 
  ```
-“The German-born English astronomer Sir William Herschel discovered the planet Georgium Sidus, later known as Uranus.” (Year: 1781)
+“The cotton gin was patented by Eli Whitney.” (Year: 1794)
 ```
