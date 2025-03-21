@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Thursday` ⚡⚡⚡
+Have an amazing `Friday` ⚡⚡⚡
 
-Did you know Today on `20th of March`
+Did you know Today on `21st of March`
  
- [<img src="https://www.sahistory.org.za/sites/default/files/article_image/namibian_revolution.jpg" width="300" />](https://en.wikipedia.org/wiki/Namibia#:~:text=21%20March%201990) 
+ [<img src="https://www.aclualabama.org/sites/default/files/styles/featured_image_mobile_480x319/public/field_image/we_march_with_selma_cph.3c35695.jpg?itok=HsBOJ5sL" width="300" />](https://kinginstitute.stanford.edu/encyclopedia/selma-montgomery-march) 
  ```
-“Namibia becomes an independent nation.” (Year: 1990)
+“Martin Luther King, Jr., led the start of a civil rights march from Selma to Montgomery, Alabama.” (Year: 1965)
 ```
