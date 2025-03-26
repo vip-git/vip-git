@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Tuesday` ⚡⚡⚡
+Have an amazing `Wednesday` ⚡⚡⚡
 
-Did you know Today on `25th of March`
+Did you know Today on `26th of March`
  
- [<img src="https://i0.wp.com/www.bookofdaystales.com/wp-content/uploads/2019/03/eec5.jpg" width="300" />](https://www.europarl.europa.eu/about-parliament/en/in-the-past/the-parliament-and-the-treaties/treaty-of-rome#:~:text=Two%20treaties%20were%20signed%20on,a%20proposal%20from%20the%20Commission.) 
+ [<img src="https://images.prothomalo.com/prothomalo-english%2Fimport%2Fmedia%2F2019%2F03%2F27%2F20bf4c0cdcf01da26e89f327c4fb9e6d-The-New-York-Times-1.jpg?auto=format%2Ccompress&format=webp&w=480&dpr=2.6" width="300" />](https://en.wikipedia.org/wiki/Bangladesh_Liberation_War#:~:text=26%20March%201971%20is%20considered,former%20East%20Pakistan%20as%20Bangladesh.) 
  ```
-“The European Economic Community was established by the Treaty of Rome.” (Year: 1957)
+“East Pakistan proclaimed its independence, taking the name Bangladesh.” (Year: 1971)
 ```
