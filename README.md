@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Friday` ⚡⚡⚡
+Have an amazing `Saturday` ⚡⚡⚡
 
-Did you know Today on `04th of April`
+Did you know Today on `05th of April`
  
- [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/US_historical_flags-United_States_of_America.jpg/1200px-US_historical_flags-United_States_of_America.jpg" width="300" />](https://www.politico.com/story/2017/04/congress-redesigns-us-flag-april-4-1818-236803#:~:text=This%20is%20the%20so%2Dcalled,state's%20admission%20to%20the%20Union.) 
+ [<img src="https://pbs.twimg.com/media/D3aLhHOXsAAG1nn.jpg" width="300" />](https://en.wikipedia.org/wiki/Frances_Phipps) 
  ```
-“Congress adopted a U.S. flag with one star for each state.” (Year: 1818)
+“Canadian Fran Phipps became the first woman to reach the North Pole.” (Year: 1971)
 ```
