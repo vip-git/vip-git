@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Thursday` ⚡⚡⚡
+Have an amazing `Friday` ⚡⚡⚡
 
-Did you know Today on `01st of May`
+Did you know Today on `02nd of May`
  
- [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Coat_of_Arms_of_Scotland_%281660-1689%29.svg/280px-Coat_of_Arms_of_Scotland_%281660-1689%29.svg.png" width="300" />](https://en.wikipedia.org/wiki/Acts_of_Union_1707#:~:text=The%20Acts%20took%20effect%20on,the%20Union%20of%20the%20Parliaments.) 
+ [<img src="https://www.limkokwing.net/graphics/community/recognized_leadership/nelson_mandela.jpeg" width="300" />](https://www.africa.upenn.edu/Articles_Gen/Election_Victory_15727.html) 
  ```
-“The Act of Union joined England and Scotland to form Great Britain.” (Year: 1707)
+“Nelson Mandela was victorious in South Africa’s first multiracial election.” (Year: 1994)
 ```
