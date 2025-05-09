@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Thursday` ⚡⚡⚡
+Have an amazing `Friday` ⚡⚡⚡
 
-Did you know Today on `08th of May`
+Did you know Today on `09th of May`
  
- [<img src="https://media.defense.gov/2020/May/04/2002294069/-1/-1/1/200504-D-RB598-001.JPG" width="300" />](https://www.defense.gov/Experience/VE-Day/#:~:text=On%20May%208%2C%201945%20%2D%20known,%2C%20on%20June%206%2C%201944.) 
+ [<img src="https://www.gannett-cdn.com/-mm-/393c76255467a1e05af304f8a802ebda19ffcbc3/c=0-114-2200-1352/local/-/media/Cincinnati/2014/05/20/ap090602098070.jpg?width=2560" width="300" />](https://eu.cincinnati.com/story/news/2019/05/09/today-history-may-9-nelson-mandela-first-black-president-south-africa/1150611001/) 
  ```
-“V-E Day marks the European victory of the Allies in World War II.” (Year: 1945)
+“The South African parliament chose Nelson Mandela as president.” (Year: 1994)
 ```
