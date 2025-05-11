@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Saturday` ⚡⚡⚡
+Have an amazing `Sunday` ⚡⚡⚡
 
-Did you know Today on `10th of May`
+Did you know Today on `11th of May`
  
- [<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Sir_Winston_Churchill_-_19086236948.jpg" width="300" />](https://www.history.com/this-day-in-history/churchill-becomes-prime-minister) 
+ [<img src="https://www.historytoday.com/sites/default/files/styles/large/public/thai.jpg?itok=AB0sPlXf" width="300" />](http://www.thai-or.com/thailand-overview) 
  ```
-“Winston Churchill succeeded Neville Chamberlain as British prime minister.” (Year: 1940)
+“Siam changed its name to Thailand for the second time.” (Year: 1949)
 ```
