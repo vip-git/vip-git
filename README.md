@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Wednesday` ⚡⚡⚡
+Have an amazing `Thursday` ⚡⚡⚡
 
-Did you know Today on `11th of June`
+Did you know Today on `12th of June`
  
- [<img src="https://images.slideplayer.com/20/6220118/slides/slide_2.jpg" width="300" />](https://blogs.bl.uk/magnificentmaps/2020/06/great-barrier-reef-discovery.html#:~:text=Exactly%20250%20years%20ago%20today,km%20(over%201%2C400%20miles).) 
+ [<img src="https://www.loc.gov/rr/hispanic/1898/img/aguinaldo.jpg" width="300" />](https://www.britannica.com/biography/Emilio-Aguinaldo#:~:text=June%2012,%201898) 
  ```
-“Capt. James Cook discovered the Great Barrier Reef off Australia .” (Year: 1770)
+“Emilio Aguinaldo, head of the Philippine nationalists, proclaimed independence from Spain.” (Year: 1898)
 ```
