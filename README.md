@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Saturday` ⚡⚡⚡
+Have an amazing `Sunday` ⚡⚡⚡
 
-Did you know Today on `21st of June`
+Did you know Today on `22nd of June`
  
- [<img src="https://lookingupwayup.com/dev/wp-content/uploads/2019/06/clip_image002.jpg" width="300" />](https://www.britannica.com/biography/Michael-Melvill#:~:text=On%20June%2021,%202004) 
+ [<img src="https://www.atsu.edu/museum-of-osteopathic-medicine/wp-content/themes/museum/images/atstill-pointing.jpg" width="300" />](https://nmos.ca/history-of-osteopathy/#:~:text=On%20June%2022%2C%201874%20Dr,identified%20his%20techniques%20as%20Osteopathic.&text=In%201892%2C%20he%20started%20the%20American%20School%20of%20Osteopathy.) 
  ```
-“Michael Melvill pilots the first privately-developed spacecraft,SpaceShipOne, into space.” (Year: 2004)
+“Dr. Andrew Still became the first to practice osteopathy.” (Year: 1874)
 ```
