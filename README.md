@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Monday` ⚡⚡⚡
+Have an amazing `Tuesday` ⚡⚡⚡
 
-Did you know Today on `30th of June`
+Did you know Today on `01st of July`
  
- [<img src="https://scx1.b-cdn.net/csz/news/800a/2013/animageobtai.jpg" width="300" />](https://en.wikipedia.org/wiki/Tunguska_event#:~:text=30%20June) 
+ [<img src="https://s.france24.com/media/display/a34ce994-0b0f-11e9-b2c0-005056bff430/w:1280/p:16x9/croatie%20UE.webp" width="300" />](https://en.wikipedia.org/wiki/2013_enlargement_of_the_European_Union#:~:text=The%20most%20recent%20enlargement%20of,official%20candidate%20in%20early%202004.) 
  ```
-“A powerful natural explosion from an unknown cause rocked the Tunguska Basin, in eastern Siberia, flattening hundreds of square miles of forest and resulting in tremors that could be felt hundreds of miles away.” (Year: 1908)
+“Croatia became the 28th member of the European Union.” (Year: 2013)
 ```
