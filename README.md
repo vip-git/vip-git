@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Saturday` ⚡⚡⚡
+Have an amazing `Sunday` ⚡⚡⚡
 
-Did you know Today on `05th of July`
+Did you know Today on `06th of July`
  
- [<img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/BatallaCarabobo02.JPG" width="300" />](https://www.thoughtco.com/independence-from-spain-in-venezuela-2136397#:~:text=Radicals%20within%20the%20government%2C%20such,sever%20all%20ties%20with%20Spain.) 
+ [<img src="https://s.france24.com/media/display/0b3813d8-fcdf-11e8-9ccd-005056a964fe/w:900/p:16x9/anne_frank_diary.jpg" width="300" />](https://www.annefrank.org/en/anne-frank/who-was-anne-frank/) 
  ```
-“Venezuela became the first South American country to declare independence from Spain.” (Year: 1811)
+“Anne Frank and her family sought refuge from the Nazis in Amsterdam.” (Year: 1942)
 ```
