@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Monday` ⚡⚡⚡
+Have an amazing `Tuesday` ⚡⚡⚡
 
-Did you know Today on `07th of July`
+Did you know Today on `08th of July`
  
- [<img src="https://upload.wikimedia.org/wikipedia/commons/5/50/SanPasqual.jpg" width="300" />](http://www.militarymuseum.org/Sloat.html) 
+ [<img src="https://www.thenation.com/wp-content/uploads/2015/07/The_Wall_Street_Journal_first_issue_cc_img.jpg" width="300" />](https://www.britannica.com/topic/The-Wall-Street-Journal#:~:text=The%20Wall%20Street%20Journal%20was,and%20success%20from%20the%20start.) 
  ```
-“Commodore John D. Sloat occupied Monterey and declared California annexed to the United States.” (Year: 1846)
+“The Wall Street Journal began publication.” (Year: 1889)
 ```
