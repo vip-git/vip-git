@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Wednesday` ⚡⚡⚡
+Have an amazing `Thursday` ⚡⚡⚡
 
-Did you know Today on `09th of July`
+Did you know Today on `10th of July`
  
- [<img src="https://media-cdn.tripadvisor.com/media/photo-s/1d/08/23/d8/plaza-de-mayo.jpg" width="300" />](https://en.wikipedia.org/wiki/Argentine_Declaration_of_Independence) 
+ [<img src="https://www.medyaolusum.com/en/wp-content/uploads/2019/04/granada-ramadan.jpg" width="300" />](https://www.abc.net.au/news/2003-07-11/six-centuries-on-mosque-opens-in-granada/1883750) 
  ```
-“Argentina formally declared independence from Spain.” (Year: 1816)
+“Spain opened its first mosque (in Granada) since the Moors were expelled in 1492.” (Year: 2003)
 ```
