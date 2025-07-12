@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Friday` ⚡⚡⚡
+Have an amazing `Saturday` ⚡⚡⚡
 
-Did you know Today on `11th of July`
+Did you know Today on `12th of July`
  
- [<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Secretary_Pompeo_Meets_With_Vietnamese_Deputy_Prime_Minister_Pham_Binh_Minh_%2840253094493%29_%28cropped%29.jpg" width="300" />](https://en.wikipedia.org/wiki/United_States%E2%80%93Vietnam_relations#:~:text=After%20a%2020%2Dyear%20hiatus,Vietnam%20on%20July%2011%2C%201995.&text=In%20January%202007%2C%20Congress%20approved,Relations%20(PNTR)%20for%20Vietnam.) 
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Flag_of_the_Gilbert_and_Ellice_Islands_%281937%E2%80%931976%29.svg" width="300" />](https://history.state.gov/countries/kiribati#:~:text=The%20United%20States%20recognized%20the,under%20the%20name%20of%20Kiribati.) 
  ```
-“The United States and Vietnam established full diplomatic relations.” (Year: 1995)
+“Kiribati, formerly the Gilbert Islands, gained its independence from the United Kingdom.” (Year: 1979)
 ```
