@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Wednesday` ⚡⚡⚡
+Have an amazing `Thursday` ⚡⚡⚡
 
-Did you know Today on `16th of July`
+Did you know Today on `17th of July`
  
- [<img src="https://images2.minutemediacdn.com/image/upload/c_crop,h_2019,w_3000,x_0,y_0/v1560651792/shape/mentalfloss/585759-gettyimages-849192.jpg?itok=vvSi46hY" width="300" />](https://www.nasa.gov/mission_pages/apollo/apollo11.html) 
+ [<img src="https://www.newspapers.com/topics/wp-content/uploads/SpanishAmericanWar.jpeg" width="300" />](https://www.history.com/this-day-in-history/armistice-ends-the-spanish-american-war#:~:text=On%20July%203%2C%20the%20Spanish,thus%20Cuba%E2%80%94to%20the%20Americans.&text=On%20December%2010%2C%20the%20Treaty,ended%20the%20Spanish%2DAmerican%20War.) 
  ```
-“Apollo 11 took off on the first manned flight to the moon.” (Year: 1969)
+“Spain surrendered to the United States at Santiago, Cuba, ending the Spanish-American War.” (Year: 1898)
 ```
