@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Saturday` ⚡⚡⚡
+Have an amazing `Sunday` ⚡⚡⚡
 
-Did you know Today on `19th of July`
+Did you know Today on `20th of July`
  
- [<img src="https://pbs.twimg.com/media/DidZYLAVMAEYBos.jpg" width="300" />](https://www.mirror.co.uk/news/uk-news/winston-churchills-v-victory-sign-18337048) 
+ [<img src="https://thatgift.files.wordpress.com/2015/05/armstrong.jpg?w=1024&h=768&crop=1" width="300" />](https://www.history.com/this-day-in-history/armstrong-walks-on-moon#:~:text=At%2010%3A56%20p.m.%20EDT,on%20the%20surface%20of%20the) 
  ```
-“Winston Churchill was the first to use the two-finger `V is for Victory` sign.” (Year: 1941)
+“Astronaut Neil A. Armstrong was the first man to walk on the Moon.” (Year: 1969)
 ```
