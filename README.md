@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Sunday` ⚡⚡⚡
+Have an amazing `Monday` ⚡⚡⚡
 
-Did you know Today on `27th of July`
+Did you know Today on `28th of July`
  
- [<img src="https://4rfnv3jdfte8qj2229aqgj4h-wpengine.netdna-ssl.com/wp-content/uploads/2019/07/17877720_web1_190727-SNE-BugsBunnyTurns79-FLARE2.jpg" width="300" />](http://www.findingdulcinea.com/news/on-this-day/July-August-08/On-this-Day--Bugs-Bunny-Makes-Debut.html#:~:text=On%20July%2027%2C%201940%2C%20Bugs,the%20Warner%20Brothers'%20cartoon%20rabbit.) 
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/La_Independencia_del_Per%C3%BA.jpg" width="300" />](https://en.wikipedia.org/wiki/Peruvian_War_of_Independence) 
  ```
-“Bugs Bunny made his debut in the cartoon A Wild Hare.” (Year: 1940)
+“Peru declared its independence from Spain.” (Year: 1821)
 ```
