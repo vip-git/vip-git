@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Tuesday` ⚡⚡⚡
+Have an amazing `Wednesday` ⚡⚡⚡
 
-Did you know Today on `29th of July`
+Did you know Today on `30th of July`
  
- [<img src="https://img.mlbstatic.com/mlb-images/image/private/t_2x1/t_w1536/mlb/f8yanz0iygvcdm1r1cqm.jpg" width="300" />](https://www.mlb.com/cut4/bill-mueller-hits-grand-slams-from-both-sides-of-the-plate-c268937788) 
+ [<img src="https://static.dw.com/image/16135323_403.jpg" width="300" />](https://en.wikipedia.org/wiki/2012_India_blackouts#:~:text=The%20blackout%20on%2031%20July,generating%20capacity%20was%20taken%20offline.) 
  ```
-“Red sox switch hitter Bill Mueller became the first baseball player to hit grand slam home runs from both sides of the plate in the same game.” (Year: 2003)
+“620 million people were without power in India, the worst power outage in world history.” (Year: 2012)
 ```
