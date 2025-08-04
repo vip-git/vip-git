@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Sunday` ⚡⚡⚡
+Have an amazing `Monday` ⚡⚡⚡
 
-Did you know Today on `03rd of August`
+Did you know Today on `04th of August`
  
- [<img src="https://api.time.com/wp-content/uploads/2016/05/160524-nba-anniversary-14.jpg" width="300" />](https://en.wikipedia.org/wiki/National_Basketball_Association) 
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Thomas_Stevens_bicycle.jpg/800px-Thomas_Stevens_bicycle.jpg" width="300" />](https://www.bicycle-and-bikes.com/history-of-bicycles/tomas-stevens-penny-farthing/) 
  ```
-“The National Basketball Association was formed.” (Year: 1949)
+“Thomas Stevens became the first person to bicycle across the United States. He later bicycled around the world.” (Year: 1884)
 ```
