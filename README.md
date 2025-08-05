@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Monday` ⚡⚡⚡
+Have an amazing `Tuesday` ⚡⚡⚡
 
-Did you know Today on `04th of August`
+Did you know Today on `05th of August`
  
- [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Thomas_Stevens_bicycle.jpg/800px-Thomas_Stevens_bicycle.jpg" width="300" />](https://www.bicycle-and-bikes.com/history-of-bicycles/tomas-stevens-penny-farthing/) 
+ [<img src="https://bloximages.chicago2.vip.townnews.com/napavalleyregister.com/content/tncms/assets/v3/editorial/f/55/f55e9797-9de3-5888-a0c4-0e41b84efd23/5a9c8d72d1ed0.image.jpg?resize=1200%2C1044" width="300" />](https://en.wikipedia.org/wiki/Joan_Benoit) 
  ```
-“Thomas Stevens became the first person to bicycle across the United States. He later bicycled around the world.” (Year: 1884)
+“Joan Benoit won the first Olympic women's marathon.” (Year: 1984)
 ```
