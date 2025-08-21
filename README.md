@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Wednesday` ⚡⚡⚡
+Have an amazing `Thursday` ⚡⚡⚡
 
-Did you know Today on `20th of August`
+Did you know Today on `21st of August`
  
- [<img src="https://tigerwoods.com/wp-content/uploads/2016/11/GettyImages-72575972_small.jpg" width="300" />](https://tigerwoods.com/timeline/) 
+ [<img src="http://migis.eu/wp-content/uploads/2017/12/lv383.png" width="300" />](https://en.wikipedia.org/wiki/On_the_Restoration_of_Independence_of_the_Republic_of_Latvia#:~:text=On%2021%20August%201991) 
  ```
-“Tiger Woods won the PGA Championship becoming the first player since Ben Hogan in 1953 to win three majors in one year.” (Year: 2000)
+“Latvia declared its independence from the Soviet Union.” (Year: 1991)
 ```
