@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Friday` ⚡⚡⚡
+Have an amazing `Saturday` ⚡⚡⚡
 
-Did you know Today on `22nd of August`
+Did you know Today on `23rd of August`
  
- [<img src="https://www.history.com/.image/t_share/MTU3ODc4NTk3ODc3MjQ1MjU3/image-placeholder-title.jpg" width="300" />](https://www.history.com/news/japan-colonization-korea#:~:text=In%201910%2C%20Korea%20was%20annexed,out%20war%20on%20Korean%20culture.) 
+ [<img src="https://www.thelocal.de/wp-content/uploads/2015/10/1443707042_11%20november.jpg" width="300" />](https://en.wikipedia.org/wiki/German_reunification#:~:text=Accordingly%2C%20on%20Unification%20Day%2C%203,%2Dfledged%20Federal%20City%2DState.) 
  ```
-“Korea was annexed by Japan after five years as a protectorate.” (Year: 1910)
+“East and West Germany announce they will unite on Oct 3.” (Year: 1990)
 ```
