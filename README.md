@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Thursday` ⚡⚡⚡
+Have an amazing `Friday` ⚡⚡⚡
 
-Did you know Today on `28th of August`
+Did you know Today on `29th of August`
  
- [<img src="https://s.marketwatch.com/public/resources/images/MW-IC869_cdc_mu_ZQ_20200323174951.jpg" width="300" />](https://www.nature.com/articles/d42859-018-00002-y) 
+ [<img src="https://www.atomicheritage.org/sites/default/files/styles/large/public/RDS1.jpg?itok=wqkYjVc2" width="300" />](https://www.ctbto.org/specials/testing-times/29-august-1949-first-soviet-nuclear-test#:~:text=On%2029%20August%201949%2C%20the,a%20yield%20of%2022%20kilotons.) 
  ```
-“The Centers for Disease Control announced a medical task force had been formed to look into the incidence of Kaposi`s sarcoma and pneumocystis in homosexual men. AIDS was later found to be the cause.” (Year: 1981)
+“The U.S.S.R. tested their first atomic bomb.” (Year: 1949)
 ```
