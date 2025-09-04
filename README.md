@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Wednesday` ⚡⚡⚡
+Have an amazing `Thursday` ⚡⚡⚡
 
-Did you know Today on `03rd of September`
+Did you know Today on `04th of September`
  
- [<img src="https://olivialongueville.com/wp-content/uploads/2020/09/%D0%91%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9.png" width="300" />](https://en.wikipedia.org/wiki/Richard_I_of_England#:~:text=Richard%20I%20was%20officially%20invested,Abbey%20on%203%20September%201189.) 
+ [<img src="https://www.gannett-cdn.com/presto/2019/09/03/PCIN/6ae6ad17-0821-4d10-b4e4-2467e81b5619-Mural_painting_which_depicts_the_founding_of_Los_Angeles_ca19311939.jpg?width=660&height=365&fit=crop&format=pjpg&auto=webp" width="300" />](https://la.curbed.com/2018/4/20/17016988/los-angeles-history-timeline-facts-earthquakes#:~:text=El%20Pueblo%20de%20la%20Reina,into%20Alaska%20and%20Northern%20California.) 
  ```
-“Richard I (the Lion-Hearted) was crowned king of England at Westminster Abbey.” (Year: 1189)
+“The city of Los Angeles was founded by Spanish settlers.” (Year: 1781)
 ```
