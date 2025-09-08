@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Sunday` ⚡⚡⚡
+Have an amazing `Monday` ⚡⚡⚡
 
-Did you know Today on `07th of September`
+Did you know Today on `08th of September`
  
- [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Oscar_Pereira_da_Silva_-_Sess%C3%A3o_das_Cortes_De_Lisboa%2C_Acervo_do_Museu_Paulista_da_USP_2.jpg/200px-Oscar_Pereira_da_Silva_-_Sess%C3%A3o_das_Cortes_De_Lisboa%2C_Acervo_do_Museu_Paulista_da_USP_2.jpg" width="300" />](https://courses.lumenlearning.com/boundless-worldhistory/chapter/brazilian-independence/#:~:text=On%20September%207%2C%201822%2C%20Prince,and%20Portugal%20in%20late%201825.) 
+ [<img src="https://apjjf.org/data/02_Signing_security_treaty_1951(1)1.jpg" width="300" />](https://adst.org/2016/10/japan-world-war-ii-peace-treaty-macarthur/#:~:text=The%20San%20Francisco%20Peace%20Treaty,post%2Dwar%20occupation%20of%20Japan.) 
  ```
-“Brazil declared its independence from Portugal.” (Year: 1822)
+“The San Francisco Peace Treaty was signed, formally ending World War II hostilities with Japan.” (Year: 1951)
 ```
