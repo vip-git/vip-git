@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Thursday` ⚡⚡⚡
+Have an amazing `Friday` ⚡⚡⚡
 
-Did you know Today on `18th of September`
+Did you know Today on `19th of September`
  
- [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/JuraIndependencia.jpg" width="300" />](https://en.wikipedia.org/wiki/Chilean_Declaration_of_Independence#:~:text=The%20Chilean%20Declaration%20of%20Independence,Concepci%C3%B3n%20on%201%20January%201818.) 
+ [<img src="https://ichef.bbci.co.uk/news/1024/branded_news/A390/production/_97727814_041547332afp.jpg" width="300" />](https://en.wikipedia.org/wiki/1985_Mexico_City_earthquake) 
  ```
-“Chile declared its independence from Spain.” (Year: 1810)
+“The Mexico City area was struck by the first of two devastating earthquakes that claimed thousands of lives. The second earthquake hit 36 hours later.” (Year: 1985)
 ```
