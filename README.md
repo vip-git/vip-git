@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Saturday` ⚡⚡⚡
+Have an amazing `Sunday` ⚡⚡⚡
 
-Did you know Today on `20th of September`
+Did you know Today on `21st of September`
  
- [<img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Victor_Emmanuel_reviews_the_troops_for_the_Crimean_War.jpg" width="300" />](https://en.wikipedia.org/wiki/Capture_of_Rome) 
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/PRCFounding.jpg" width="300" />](https://history.state.gov/milestones/1945-1952/chinese-rev#:~:text=On%20October%201%2C%201949%2C%20Chinese,Republic%20of%20China%20(PRC).) 
  ```
-“Victor Emmanuel II, the first king of modern Italy, seized the Papal States from the French.” (Year: 1870)
+“The People's Republic of China was proclaimed.” (Year: 1949)
 ```
