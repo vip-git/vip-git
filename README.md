@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Friday` ⚡⚡⚡
+Have an amazing `Saturday` ⚡⚡⚡
 
-Did you know Today on `26th of September`
+Did you know Today on `27th of September`
  
- [<img src="https://3.bp.blogspot.com/-6woK4lkrvy8/WlhHVK1fGDI/AAAAAAAAPBw/aVnIzCf0XSA8WD12nrSGt44_F9_ctP0dQCLcBGAs/s1600/Korean_War_in_pictures%2B%25289%2529.jpg" width="300" />](https://www.history.com/this-day-in-history/u-s-forces-land-at-inchon#:~:text=By%20the%20early%20evening%2C%20the,to%20the%20communists%20in%20June.&text=forces%20in%20Korea.) 
+ [<img src="https://cms.accuweather.com/wp-content/uploads/2015/09/650x366_09261741_hd22.jpg" width="300" />](https://www.britannica.com/event/Ise-Bay-typhoon-of-1959) 
  ```
-“United Nations troops recaptured Seoul, the capital of South Korea, from the North Koreans.” (Year: 1950)
+“Typhoon Vera battered the Japanese island of Honshu, killing almost 5,000 people.” (Year: 1959)
 ```
