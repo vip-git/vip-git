@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Sunday` ⚡⚡⚡
+Have an amazing `Monday` ⚡⚡⚡
 
-Did you know Today on `28th of September`
+Did you know Today on `29th of September`
  
- [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ribbentrop-Molotov.svg/2000px-Ribbentrop-Molotov.svg.png" width="300" />](https://en.wikipedia.org/wiki/Molotov%E2%80%93Ribbentrop_Pact#:~:text=The%20Molotov%E2%80%93Ribbentrop%20Pact%20was,to%20partition%20Poland%20between%20them.) 
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Tomb_of_pope_Johannes_Paulus_I.jpg/1920px-Tomb_of_pope_Johannes_Paulus_I.jpg" width="300" />](https://en.wikipedia.org/wiki/Pope_John_Paul_I_conspiracy_theories) 
  ```
-“A German-Soviet agreement divided Poland between Nazi Germany and the USSR.” (Year: 1939)
+“John Paul I died one month after becoming pope.” (Year: 1978)
 ```
