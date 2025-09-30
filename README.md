@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Monday` ⚡⚡⚡
+Have an amazing `Tuesday` ⚡⚡⚡
 
-Did you know Today on `29th of September`
+Did you know Today on `30th of September`
  
- [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Tomb_of_pope_Johannes_Paulus_I.jpg/1920px-Tomb_of_pope_Johannes_Paulus_I.jpg" width="300" />](https://en.wikipedia.org/wiki/Pope_John_Paul_I_conspiracy_theories) 
+ [<img src="https://www.gambetanews.com/wp-content/uploads/2019/10/independence-day-of-botswana.jpg" width="300" />](http://www.botswanaembassy.org/page/history-of-botswana#:~:text=After%2080%20years%20as%20a,until%20his%20death%20in%201980.) 
  ```
-“John Paul I died one month after becoming pope.” (Year: 1978)
+“Botswana gained its independence from Great Britain.” (Year: 1966)
 ```
