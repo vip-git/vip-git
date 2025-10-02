@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Wednesday` ⚡⚡⚡
+Have an amazing `Thursday` ⚡⚡⚡
 
-Did you know Today on `01st of October`
+Did you know Today on `02nd of October`
  
- [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/1925_Ford_Model_T_touring.jpg/1200px-1925_Ford_Model_T_touring.jpg" width="300" />](https://www.history.com/this-day-in-history/ford-motor-company-unveils-the-model-t) 
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Almamy_Samory_Tour%C3%A9.jpg" width="300" />](https://en.wikipedia.org/wiki/Guinea#:~:text=The%20land%20that%20is%20now,France%20on%202%20October%201958.) 
  ```
-“Henry Ford introduced the first mass-produced automobile on the market—the Model T car to the market. Each car cost $825.” (Year: 1908)
+“Guinea proclaimed its independence from France.” (Year: 1958)
 ```
