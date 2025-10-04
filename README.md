@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Friday` ⚡⚡⚡
+Have an amazing `Saturday` ⚡⚡⚡
 
-Did you know Today on `03rd of October`
+Did you know Today on `04th of October`
  
- [<img src="https://i.guim.co.uk/img/media/4a534dd68eddcdf6f37f59219b635a5bd7f76709/0_154_5391_3236/master/5391.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=044749afb53cd903d14ea7de0284aabb" width="300" />](https://en.wikipedia.org/wiki/History_of_Germany_(1945%E2%80%931990)) 
+ [<img src="https://www.history.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTU3ODc3NjU4ODk0MjgwNDE1/this-day-in-history-10041957---sputnik-launched.jpg" width="300" />](https://www.nasa.gov/image-feature/oct-4-1957-sputnik-the-dawn-of-the-space-age/#:~:text=History%20changed%20on%20Oct.,weighing%20less%20than%20190%20pounds.) 
  ```
-“East Germany and West Germany united to become Germany, 45 years after being split into two countries at the end of World War II.” (Year: 1990)
+“The Soviet Union launched the first artificial satellite, Sputnik, into orbit around the earth, ushering in the Space Age and Space Race.” (Year: 1957)
 ```
