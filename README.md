@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Tuesday` ⚡⚡⚡
+Have an amazing `Wednesday` ⚡⚡⚡
 
-Did you know Today on `07th of October`
+Did you know Today on `08th of October`
  
- [<img src="https://static.dw.com/image/50722132_7.png" width="300" />](https://en.wikipedia.org/wiki/East_Germany) 
+ [<img src="https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/23f82fd6-7cd8-44ad-ab08-cd7ca50fa91a/fx1_lrg.jpg" width="300" />](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2572009/) 
  ```
-“The Republic of East Germany was formed.” (Year: 1949)
+“World’s first internal pacemaker was implanted.” (Year: 1948)
 ```
