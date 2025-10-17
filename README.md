@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Thursday` ⚡⚡⚡
+Have an amazing `Friday` ⚡⚡⚡
 
-Did you know Today on `16th of October`
+Did you know Today on `17th of October`
  
- [<img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Zhou_Enlai_announced_the_success_of_China%27s_atomic_bomb_test.jpg" width="300" />](https://en.wikipedia.org/wiki/Project_596) 
+ [<img src="https://nu.aeon.co/images/5f3335c6-470b-45d0-adb3-ac47069a4df9/header_essay-93434392.jpg" width="300" />](https://www.rescue.org/article/albert-einstein-and-birth-international-rescue-committee#:~:text=Einstein%20arrived%20in%20America%20on,fled%20persecution%20in%20Nazi%20Germany.&text=Its%20mission%2C%20as%20The%20New,policies%20of%20the%20Hitler%20regime.%22) 
  ```
-“China detonated its first atomic bomb.” (Year: 1964)
+“Albert Einstein arrived in the United States as a refugee from Nazi Germany.” (Year: 1933)
 ```
