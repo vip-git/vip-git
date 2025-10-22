@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Tuesday` ⚡⚡⚡
+Have an amazing `Wednesday` ⚡⚡⚡
 
-Did you know Today on `21st of October`
+Did you know Today on `22nd of October`
  
- [<img src="https://cdn.britannica.com/44/19444-050-1DA32C1C/replica-Thomas-A-Edison-lightbulb-1925.jpg" width="300" />](https://www.livescience.com/43424-who-invented-the-light-bulb.html#:~:text=The%20first%20practical%20incandescent%20light%20bulb&text=Edison%20and%20his%20team%20of,lamp%20with%20a%20carbon%20filament.) 
+ [<img src="https://akm-img-a-in.tosshub.com/indiatoday/images/story/201810/garnerin_2-297x434.jpeg?nujlH.NRLIowP9mJFYcFghqnVigqbzlj" width="300" />](https://www.thehindu.com/children/garnering-support-for-parachute-jumps/article32872613.ece#:~:text=On%20October%2022%2C%201797%2C%20Garnerin,severed%20it%20from%20the%20balloon.) 
  ```
-“Thomas Edison invented a workable incandescent electric lamp.” (Year: 1879)
+“Andre-Jacques Garnerin made the first parachute jump from a balloon.” (Year: 1797)
 ```
