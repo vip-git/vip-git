@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Thursday` ⚡⚡⚡
+Have an amazing `Friday` ⚡⚡⚡
 
-Did you know Today on `23rd of October`
+Did you know Today on `24th of October`
  
- [<img src="https://imgs.6sqft.com/wp-content/uploads/2020/10/23100947/1915-NYC-suffrage-march-4.jpg" width="300" />](https://www.6sqft.com/on-october-23-1915-tens-of-thousands-of-nyc-women-marched-for-the-right-to-vote/#:~:text=On%20October%2023%2C%201915%2C%20tens%20of%20thousands%20of%20New%20Yorkers,between%2025%2C000%20and%2060%2C000%20participants.) 
+ [<img src="http://www.infoniagara.com/niagaradaredevils/images/annietaylor_lg.jpg" width="300" />](http://www.infoniagara.com/niagaradaredevils/annietaylor.aspx#:~:text=On%20October%2024th%2C%201901%20Annie,to%20gain%20fame%20and%20fortune.) 
  ```
-“25,000 women marched in New York City, demanding the right to vote.” (Year: 1915)
+“Anna Edson Taylor became the first person to survive going over Niagara Falls in a barrel.” (Year: 1901)
 ```
