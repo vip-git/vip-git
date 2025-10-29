@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Tuesday` ⚡⚡⚡
+Have an amazing `Wednesday` ⚡⚡⚡
 
-Did you know Today on `28th of October`
+Did you know Today on `29th of October`
  
- [<img src="https://www.massmoments.org/files/assets/moments/03-14-1794/03_14_1794.jpg" width="300" />](https://www.archives.gov/historical-docs/todays-doc/index.html?dod-date=314#:~:text=Designed%20to%20separate%20cotton%20fiber,to%20agricultural%20production%20in%20America.) 
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Reza_Shah_Mustafa_Kemal_Ataturk.jpg/260px-Reza_Shah_Mustafa_Kemal_Ataturk.jpg" width="300" />](https://en.wikipedia.org/wiki/Mustafa_Kemal_Atat%C3%BCrk#:~:text=Establishment%20of%20the%20Republic%20of%20Turkey,-See%20also%3A%20Treaty&text=On%2024%20July%201923%2C%20the,national%20holiday%20on%20that%20date.) 
  ```
-“Eli Whitney applied for a patent for the cotton gin.” (Year: 1793)
+“The Republic of Turkey was proclaimed under Mustafa Kemal Ataturk.” (Year: 1923)
 ```
