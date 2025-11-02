@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Saturday` ⚡⚡⚡
+Have an amazing `Sunday` ⚡⚡⚡
 
-Did you know Today on `01st of November`
+Did you know Today on `02nd of November`
  
- [<img src="https://www.consilium.europa.eu/en/maastricht-treaty/assets/LpKslYllQ4/hpn-maastrichtfamily_eu_lp002371061h_hi-2560x1440.jpeg" width="300" />](https://www.ecb.europa.eu/explainers/tell-me-more/html/25_years_maastricht.en.html#:~:text=The%20Maastricht%20Treaty%20officially%20came,the%20treaties%20that%20followed%20later.) 
+ [<img src="https://images.theconversation.com/files/362805/original/file-20201011-21-tx638h.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=900.0&fit=crop" width="300" />](https://en.wikipedia.org/wiki/Dewey_Defeats_Truman) 
  ```
-“The Maastricht Treaty was enacted, establishing the European Union.” (Year: 1993)
+“Harry S. Truman defeated Thomas E. Dewey to the surprise of pollsters and newspapers, in the greatest presidential upset in history.” (Year: 1948)
 ```
