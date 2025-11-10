@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Sunday` ⚡⚡⚡
+Have an amazing `Monday` ⚡⚡⚡
 
-Did you know Today on `09th of November`
+Did you know Today on `10th of November`
  
- [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/The_Subway_Sun_Extra_We%27re_Proud_of_You...jpg" width="300" />](https://en.wikipedia.org/wiki/Northeast_blackout_of_1965) 
+ [<img src="https://www.bimbimbikes.com/destination-tips/wp-content/uploads/2020/04/Great-Wall-of-China.jpg" width="300" />](http://www.famousdaily.com/history/great-wall-of-china-opens-to-public.html) 
  ```
-“A switch at a station near Niagara Falls failed. The Northeast and parts of Canada went dark for more than 13 hours.” (Year: 1965)
+“The Great Wall of China opened to the world for tourism.” (Year: 1970)
 ```
