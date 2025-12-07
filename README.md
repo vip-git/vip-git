@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Saturday` ⚡⚡⚡
+Have an amazing `Sunday` ⚡⚡⚡
 
-Did you know Today on `06th of December`
+Did you know Today on `07th of December`
  
- [<img src="https://static.dw.com/image/51178194_303.jpg" width="300" />](https://www.sciencespo.fr/mass-violence-war-massacre-resistance/en/document/hindu-muslim-communal-riots-india-i-1947-1986.html) 
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Relief_Map_of_Armenia.png" width="300" />](https://en.wikipedia.org/wiki/1988_Armenian_earthquake) 
  ```
-“The destruction of a mosque in India by Hindu extremists set off two months of Muslim-Hindu fighting that claimed at least 2,000 lives.” (Year: 1992)
+“A 6.9 magnitude earthquake hit Armenia, killing 25,000.” (Year: 1988)
 ```
