@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Thursday` ⚡⚡⚡
+Have an amazing `Friday` ⚡⚡⚡
 
-Did you know Today on `11th of December`
+Did you know Today on `12th of December`
  
- [<img src="https://cdn.britannica.com/72/196072-050-BAB22AE2/Refugees-tent-school-UNICEF-Somalia-Hargeysa.jpg" width="300" />](https://en.wikipedia.org/wiki/UNICEF) 
+ [<img src="https://www.historypod.net/wp-content/uploads/2017/11/12-12i.jpg" width="300" />](https://www.history.com/this-day-in-history/kenya-declares-independence-from-britain) 
  ```
-“The United Nations International Children's Emergency Fund (UNICEF) was established.” (Year: 1946)
+“Kenya gained its independence from Britain.” (Year: 1963)
 ```
