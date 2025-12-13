@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Friday` ⚡⚡⚡
+Have an amazing `Saturday` ⚡⚡⚡
 
-Did you know Today on `12th of December`
+Did you know Today on `13th of December`
  
- [<img src="https://www.historypod.net/wp-content/uploads/2017/11/12-12i.jpg" width="300" />](https://www.history.com/this-day-in-history/kenya-declares-independence-from-britain) 
+ [<img src="https://pbs.twimg.com/media/DuVCBqGUYAE0V-G?format=jpg&name=large" width="300" />](https://www.history.com/this-day-in-history/saddam-hussein-captured) 
  ```
-“Kenya gained its independence from Britain.” (Year: 1963)
+“American forces captured Saddam Hussein who was hiding in a hole near his hometown of Tikrit.” (Year: 2003)
 ```
