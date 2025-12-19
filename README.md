@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Thursday` ⚡⚡⚡
+Have an amazing `Friday` ⚡⚡⚡
 
-Did you know Today on `18th of December`
+Did you know Today on `19th of December`
  
- [<img src="https://www.deathpenaltyproject.org/wp-content/uploads/2015/11/Untitled-design-3.jpg" width="300" />](https://www.legislation.gov.uk/ukpga/1965/71) 
+ [<img src="https://i.insider.com/59574185bb35030a49690451?width=1136&format=jpeg" width="300" />](https://www.history.com/this-day-in-history/britain-agrees-to-return-hong-kong-to-china#:~:text=In%20the%20Hall%20of%20the,extension%20of%20its%20capitalist%20system.) 
  ```
-“The British Parliament abolished the death penalty for murder.” (Year: 1969)
+“Britain and China signed an accord returning Hong Kong to Chinese sovereignty on July 1, 1997.” (Year: 1984)
 ```
