@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Saturday` ⚡⚡⚡
+Have an amazing `Sunday` ⚡⚡⚡
 
-Did you know Today on `20th of December`
+Did you know Today on `21st of December`
  
- [<img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Carl_Sagan_Planetary_Society_cropped.png" width="300" />](https://en.wikipedia.org/wiki/Carl_Sagan#:~:text=After%20suffering%20from%20myelodysplasia%2C%20Sagan,%2C%20on%20December%2020%2C%201996.) 
+ [<img src="https://springfield.edu/sites/default/files/styles/feature_smaller/public/2017-02/Dr_Naismith_with_peach_basket_0.jpg?h=03236d71&itok=e9PTue0L" width="300" />](https://springfield.edu/where-basketball-was-invented-the-birthplace-of-basketball) 
  ```
-“Astronomer Carl Sagan died at age 62.” (Year: 1996)
+“The first basketball game, invented at Springfield College in Massachusetts by James E. Naismith, was played.” (Year: 1891)
 ```
