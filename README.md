@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Wednesday` ⚡⚡⚡
+Have an amazing `Thursday` ⚡⚡⚡
 
-Did you know Today on `31st of December`
+Did you know Today on `01st of January`
  
- [<img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Edison_bulb.jpg" width="300" />](https://en.wikipedia.org/wiki/Thomas_Edison#:~:text=Edison%20made%20the%20first%20public,the%20rich%20will%20burn%20candles.%22) 
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Euro_coins_and_banknotes.jpg" width="300" />](https://en.wikipedia.org/wiki/History_of_the_euro#:~:text=notes%20and%20coins%20began%20to%20circulate%20in%202002) 
  ```
-“Thomas Edison gave the first public demonstration of an electric incandescent lamp.” (Year: 1879)
+“Euro coins and notes went into circulation in twelve European nations.” (Year: 2002)
 ```
