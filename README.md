@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Saturday` ⚡⚡⚡
+Have an amazing `Sunday` ⚡⚡⚡
 
-Did you know Today on `10th of January`
+Did you know Today on `11th of January`
  
- [<img src="https://i.pinimg.com/originals/c1/df/03/c1df036be8a1065348ce17bc2f18ad89.jpg" width="300" />](https://en.wikipedia.org/wiki/London_Underground#:~:text=The%20world's%20first%20underground%20railway,railways%20to%20supplement%20the%20service.) 
+ [<img src="http://airandspace.si.edu/webimages/previews/SI-73-4032p.jpg" width="300" />](https://pioneersofflight.si.edu/content/earhart-solos-pacific#:~:text=On%20January%2011%E2%80%9312%2C%201935,had%20already%20claimed%20several%20lives.s) 
  ```
-“The first underground passenger railway, the Metropolitan, opened in London.” (Year: 1863)
+“Amelia Earhart became the first person to fly solo from Hawaii to California.” (Year: 1935)
 ```
