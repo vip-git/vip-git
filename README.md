@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Monday` ⚡⚡⚡
+Have an amazing `Tuesday` ⚡⚡⚡
 
-Did you know Today on `12th of January`
+Did you know Today on `13th of January`
  
- [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/The_development_and_the_ways_to_rejuvenate_cells_-_en.svg/2560px-The_development_and_the_ways_to_rejuvenate_cells_-_en.svg.png" width="300" />](http://news.bbc.co.uk/2/hi/uk_news/46862.stm) 
+ [<img src="https://i.ytimg.com/vi/9MZqPZpWBYI/hqdefault.jpg" width="300" />](http://nba.com/history/top-moments/2001-jordan-return-wizards) 
  ```
-“Nineteen European countries signed an agreement banning human cloning.” (Year: 1998)
+“Michael Jordan announced his second retirement from the NBA. He would `unretire` again in 2001.” (Year: 1999)
 ```
