@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Monday` ⚡⚡⚡
+Have an amazing `Tuesday` ⚡⚡⚡
 
-Did you know Today on `26th of January`
+Did you know Today on `27th of January`
  
- [<img src="https://pbs.twimg.com/media/DPvx_z_VAAAUZrc?format=jpg&name=small" width="300" />](https://en.wikipedia.org/wiki/History_of_Australia_(1788%E2%80%931850)#:~:text=On%2024%20January%201788%20a%20French%20expedition%20of%20two%20ships%20led%20by%20Admiral%20Jean-Fran%C3%A7ois%20de%20La%20P%C3%A9rouse%20had%20arrived%20off%20Botany%20Bay) 
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Light_bulb_Edison_2.jpg/1280px-Light_bulb_Edison_2.jpg" width="300" />](https://www.archives.gov/historical-docs/edisons-light-bulb-patent#:~:text=On%20January%2027%2C%201880%2C%20Thomas,domestic%20use%20of%20electric%20light.) 
  ```
-“The first European settlers landed in Sydney, Australia.” (Year: 1788)
+“Thomas Edison was granted a patent for his incandescent light.” (Year: 1880)
 ```
