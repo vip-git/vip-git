@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Monday` ⚡⚡⚡
+Have an amazing `Tuesday` ⚡⚡⚡
 
-Did you know Today on `09th of February`
+Did you know Today on `10th of February`
  
- [<img src="http://vilnews.com/wp-content/uploads/2013/01/spirit.jpg" width="300" />](https://www.nytimes.com/1991/02/10/world/lithuania-votes-overwhelmingly-for-independence-from-moscow.html) 
+ [<img src="https://media.pri.org/s3fs-public/styles/story_main/public/story/images/DeepBlue.png?itok=N01yMnCK" width="300" />](https://en.wikipedia.org/wiki/Deep_Blue_versus_Garry_Kasparov) 
  ```
-“Lithuanians voted overwhelmingly for independence from the Soviet Union.” (Year: 1991)
+“IBM`s computer, Deep Blue, beat the world chess champion, Garry Kasparov, in the first game of their match.” (Year: 1996)
 ```
