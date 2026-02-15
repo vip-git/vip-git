@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Saturday` ⚡⚡⚡
+Have an amazing `Sunday` ⚡⚡⚡
 
-Did you know Today on `14th of February`
+Did you know Today on `15th of February`
  
- [<img src="https://i.pinimg.com/originals/4c/41/86/4c4186ac8fc973ae17a1ef39907eeb1d.jpg" width="300" />](https://www.britannica.com/place/Grenada/Independence) 
+ [<img src="https://www.canada.ca/content/dam/pch/images/services/flag-canada/canada-flag-letters-patent.jpg" width="300" />](https://www.canada.ca/en/canadian-heritage/services/flag-canada-history.html#:~:text=The%20new%20maple%20leaf%20flag,public%20ceremony%20on%20Parliament%20Hill.) 
  ```
-“The League of Women Voters was founded.” (Year: 1920)
+“The Maple Leaf Flag officially became the new national flag of Canada.” (Year: 1965)
 ```
