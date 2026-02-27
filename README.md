@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Thursday` ⚡⚡⚡
+Have an amazing `Friday` ⚡⚡⚡
 
-Did you know Today on `26th of February`
+Did you know Today on `27th of February`
  
- [<img src="https://thisdayintechhistory.com/wp-content/uploads/2011/02/798px-Watson_watt_02_fr-300x225.jpg" width="300" />](https://www.wired.com/2008/02/dayintech-0226/) 
+ [<img src="https://casadecampoliving-wp.s3-accelerate.amazonaws.com/2012/01/independencia_republica_dominicana1.jpg" width="300" />](https://casadecampoliving.com/february-27th-is-dominican-independence-day/) 
  ```
-“RADAR (Radio Detection and Ranging) was first demonstrated by Robert Watson-Watt.” (Year: 1935)
+“Dominican Republic gained independence from Haiti.” (Year: 1844)
 ```
