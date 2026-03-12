@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Wednesday` ⚡⚡⚡
+Have an amazing `Thursday` ⚡⚡⚡
 
-Did you know Today on `11th of March`
+Did you know Today on `12th of March`
  
- [<img src="https://s2.15min.lt/images/photos/2012/03/09/original/1990-uju-kovo-11-aja-prie-auksciausiosios-tarybos-budeje-zmones-lauke-lietuvos-nepriklausomybes-atst-4f599f7f95886.jpg" width="300" />](https://www.nytimes.com/1990/03/07/world/lithuanian-parliament-expected-to-declare-independence-sunday.html) 
+ [<img src="https://upfront.scholastic.com/content/dam/classroom-magazines/upfront/issues/2019-20/090219/p18-21-timespast-gandhi/UPF090219-TP-hero.jpg" width="300" />](https://www.history.com/topics/india/salt-march#:~:text=The%20Salt%20March%2C%20which%20took,distance%20of%20some%20240%20miles.) 
  ```
-“A newly elected parliament in Lithuania declared its independence from the Soviet Union.” (Year: 1990)
+“Mohandas Gandhi began his 200-mile march to protest the British salt tax.” (Year: 1930)
 ```
