@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Monday` ⚡⚡⚡
+Have an amazing `Tuesday` ⚡⚡⚡
 
-Did you know Today on `16th of March`
+Did you know Today on `17th of March`
  
- [<img src="http://www.todayifoundout.com/wp-content/uploads/2012/03/Goddard_and_Rocket.jpg" width="300" />](https://www.history.com/this-day-in-history/first-liquid-fueled-rocket#:~:text=Goddard%2C%20who%20successfully%20launches%20the,and%20landing%20184%20feet%20away.) 
+ [<img src="https://georgewbush-whitehouse.archives.gov/news/releases/2003/09/images/20030907-1_address090703th-515h.jpg" width="300" />](http://edition.cnn.com/2003/US/03/17/sprj.irq.bush.speech/index.html) 
  ```
-“The first liquid-fuel rocket was successfully launched by Prof. Robert Goddard at Auburn, Massachusetts. The rocket traveled 184 feet in 2.5 seconds.” (Year: 1926)
+“President Bush delivered an ultimatum to Saddam Hussein: leave Iraq within 48 hours or face an attack.” (Year: 2003)
 ```
