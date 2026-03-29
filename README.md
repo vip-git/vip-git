@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Saturday` ⚡⚡⚡
+Have an amazing `Sunday` ⚡⚡⚡
 
-Did you know Today on `28th of March`
+Did you know Today on `29th of March`
  
- [<img src="https://jdmitchelldesigns.files.wordpress.com/2016/03/march-28th-celebrates-first-washing-machine-patent.jpg?w=640" width="300" />](http://www.famousdaily.com/history/nathaniel-briggs-patents-washing-machine.html) 
+ [<img src="http://www.niagarafrontier.com/image/CNHfrozenfalls1.jpg" width="300" />](http://www.niagarafrontier.com/fallsstopped.html) 
  ```
-“Nathaniel Briggs patented a washing machine.” (Year: 1797)
+“For the first time in recorded history, Niagara Falls stopped flowing. An ice jam in the Niagara River above the rim of the falls caused the water to stop.” (Year: 1848)
 ```
