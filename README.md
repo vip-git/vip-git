@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Sunday` ⚡⚡⚡
+Have an amazing `Monday` ⚡⚡⚡
 
-Did you know Today on `05th of April`
+Did you know Today on `06th of April`
  
- [<img src="https://pbs.twimg.com/media/D3aLhHOXsAAG1nn.jpg" width="300" />](https://en.wikipedia.org/wiki/Frances_Phipps) 
+ [<img src="https://historythings.com/wp-content/uploads/2016/08/Athens_1896_report_cover.jpg" width="300" />](https://www.britannica.com/event/Athens-1896-Olympic-Games) 
  ```
-“Canadian Fran Phipps became the first woman to reach the North Pole.” (Year: 1971)
+“First modern Olympic Games opened in Athens, Greece.” (Year: 1896)
 ```
