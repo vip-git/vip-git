@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Friday` ⚡⚡⚡
+Have an amazing `Saturday` ⚡⚡⚡
 
-Did you know Today on `10th of April`
+Did you know Today on `11th of April`
  
- [<img src="https://mtv-main-assets.mountvernon.org/files/callout/text-image-block-full/image/sml_washingtoncabinet_loc_10098v_crop.jpg" width="300" />](https://www.mountvernon.org/george-washington/the-first-president/patents/#:~:text=2.,a%20system%20to%20grant%20patents.) 
+ [<img src="https://iowaculture.gov/sites/default/files/primary-sources/images/history-education-pss-gov-johnson-source.jpg" width="300" />](https://iowaculture.gov/history/education/educator-resources/primary-source-sets/government-democracy-and-laws/president) 
  ```
-“The U.S. patent system was formed.” (Year: 1790)
+“President Lyndon B. Johnson signed the 1968 Civil Rights Act.” (Year: 1968)
 ```
