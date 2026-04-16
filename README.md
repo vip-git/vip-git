@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Wednesday` ⚡⚡⚡
+Have an amazing `Thursday` ⚡⚡⚡
 
-Did you know Today on `15th of April`
+Did you know Today on `16th of April`
  
- [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/McDonalds_Museum.jpg" width="300" />](https://en.wikipedia.org/wiki/McDonald%27s_No._1_Store_Museum) 
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Harriet_Quimby_1.jpg/2560px-Harriet_Quimby_1.jpg" width="300" />](http://www.eyewitnesstohistory.com/quimby.htm) 
  ```
-“Ray Kroc acquired McDonald's and opened his first restaurant in Des Plaines, Ill., today the official McDonald’s Corporate Museum.” (Year: 1955)
+“Harriet Quimby became the first woman to fly across the English Channel.” (Year: 1912)
 ```
