@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Tuesday` ⚡⚡⚡
+Have an amazing `Wednesday` ⚡⚡⚡
 
-Did you know Today on `21st of April`
+Did you know Today on `22nd of April`
  
- [<img src="https://i.pinimg.com/originals/9c/12/57/9c1257045586fd5cdc0ff1d39127d6d7.jpg" width="300" />](https://en.wikipedia.org/wiki/History_of_Bras%C3%ADlia#:~:text=Bras%C3%ADlia%20was%20built%20in%2041,was%20the%20capital%20of%20Brazil.) 
+ [<img src="https://www.history.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTcwOTQ2MjQ4MjA1OTM1NzYw/earthdaytdih.jpg" width="300" />](https://www.earthday.org/history/) 
  ```
-“Brazil inaugurated its new capital, Brasilia.” (Year: 1960)
+“The first Earth Day was observed.” (Year: 1970)
 ```
