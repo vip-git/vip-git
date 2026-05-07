@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Wednesday` ⚡⚡⚡
+Have an amazing `Thursday` ⚡⚡⚡
 
-Did you know Today on `06th of May`
+Did you know Today on `07th of May`
  
- [<img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Scotland_Parliament_Holyrood.jpg" width="300" />](https://en.wikipedia.org/wiki/Scottish_Parliament#:~:text=An%20election%20was%20held%20on%206%20May) 
+ [<img src="https://i.redd.it/1fbvlt69shw01.jpg" width="300" />](https://en.wikipedia.org/wiki/First_inauguration_of_Vladimir_Putin#:~:text=President%20of%20Russia.&text=The%20First%20Inauguration%20of%20Vladimir,and%20lasted%20exactly%20one%20hour.) 
  ```
-“Scotland elected its first separate parliament in three centuries.” (Year: 1999)
+“Vladimir Putin was inaugurated as Russia’s president.” (Year: 2000)
 ```
