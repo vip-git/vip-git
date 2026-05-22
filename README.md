@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Thursday` ⚡⚡⚡
+Have an amazing `Friday` ⚡⚡⚡
 
-Did you know Today on `21st of May`
+Did you know Today on `22nd of May`
  
- [<img src="https://go.newspapers.com/i/email/Ncom_HIH_May2016.jpg" width="300" />](https://www.history.com/topics/exploration/charles-a-lindbergh) 
+ [<img src="http://www.dailynews.lk/sites/default/files/news/2018/05/27/z_p11-The-day.jpg" width="300" />](https://en.wikipedia.org/wiki/Dominion_of_Ceylon#:~:text=In%201948%2C%20the%20British%20Colony,was%20changed%20to%20Sri%20Lanka.) 
  ```
-“Charles Lindbergh became the first person to fly across the Atlantic (from New York to Paris) in his monoplane, The Spirit of St. Louis.” (Year: 1927)
+“Ceylon became Sri Lanka.” (Year: 1972)
 ```
