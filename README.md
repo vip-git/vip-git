@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Friday` ⚡⚡⚡
+Have an amazing `Saturday` ⚡⚡⚡
 
-Did you know Today on `22nd of May`
+Did you know Today on `23rd of May`
  
- [<img src="http://www.dailynews.lk/sites/default/files/news/2018/05/27/z_p11-The-day.jpg" width="300" />](https://en.wikipedia.org/wiki/Dominion_of_Ceylon#:~:text=In%201948%2C%20the%20British%20Colony,was%20changed%20to%20Sri%20Lanka.) 
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Columbian_%28B%26O%29_train.jpg" width="300" />](https://www.britannica.com/topic/Baltimore-and-Ohio-Railroad) 
  ```
-“Ceylon became Sri Lanka.” (Year: 1972)
+“The Baltimore and Ohio Railroad began the first passenger service in the United States.” (Year: 1830)
 ```
