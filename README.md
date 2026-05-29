@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Thursday` ⚡⚡⚡
+Have an amazing `Friday` ⚡⚡⚡
 
-Did you know Today on `28th of May`
+Did you know Today on `29th of May`
  
- [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Bronze_Horseman002.jpg" width="300" />](https://www.rferl.org/a/twenty-five-years-after-mathias-rust-remembers-historic-flight-to-red-square/24595709.html) 
+ [<img src="https://www.sc.com/breeze-blog/assets/pws/images/page/hillary-norgay.jpg" width="300" />](https://en.wikipedia.org/wiki/Timeline_of_Mount_Everest_expeditions#1953:_Edmund_Hillary_and_Tenzing_Norgay) 
  ```
-“Mathias Rust, a 19-year-old pilot from West Germany, landed his private plane in Moscow’s Red Square. He was arrested and sentenced to four years in a labor camp, but was released after just one.” (Year: 1987)
+“Edmund Hillary and Tenzing Norgay became the first to reach the summit of Mount Everest.” (Year: 1953)
 ```
