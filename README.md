@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Saturday` ⚡⚡⚡
+Have an amazing `Sunday` ⚡⚡⚡
 
-Did you know Today on `06th of June`
+Did you know Today on `07th of June`
  
- [<img src="https://townsquare.media/site/385/files/2019/06/GettyImages-3259113.jpg?w=980&q=75" width="300" />](https://www.history.com/this-day-in-history/first-drive-in-movie-theater-opens#:~:text=On%20June%206%2C%201933%2C%20eager,Boulevard%20in%20Camden%2C%20New%20Jersey.) 
+ [<img src="https://carpediemrome.com/wp-content/uploads/2019/12/vatican-aerial-2048x1357.jpg" width="300" />](https://en.wikipedia.org/wiki/Vatican_City#:~:text=7%20June%201929) 
  ```
-“The first drive-in movie theater opened in Camden, New Jersey.” (Year: 1933)
+“Vatican City became a sovereign state.” (Year: 1929)
 ```
