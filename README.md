@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Sunday` ⚡⚡⚡
+Have an amazing `Monday` ⚡⚡⚡
 
-Did you know Today on `07th of June`
+Did you know Today on `08th of June`
  
- [<img src="https://carpediemrome.com/wp-content/uploads/2019/12/vatican-aerial-2048x1357.jpg" width="300" />](https://en.wikipedia.org/wiki/Vatican_City#:~:text=7%20June%201929) 
+ [<img src="https://www.historyplace.com/speeches/speechgfx/reagan-parliament3.jpg" width="300" />](https://www.history.com/topics/us-presidents/reagan-addresses-british-parliament-video) 
  ```
-“Vatican City became a sovereign state.” (Year: 1929)
+“President Reagan became the first American president to address a joint session of Britain’s Parliament.” (Year: 1982)
 ```
