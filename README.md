@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Monday` ⚡⚡⚡
+Have an amazing `Tuesday` ⚡⚡⚡
 
-Did you know Today on `08th of June`
+Did you know Today on `09th of June`
  
- [<img src="https://www.historyplace.com/speeches/speechgfx/reagan-parliament3.jpg" width="300" />](https://www.history.com/topics/us-presidents/reagan-addresses-british-parliament-video) 
+ [<img src="https://static.wikia.nocookie.net/donaldduck/images/1/1f/DonaldDuck.jpg/revision/latest/scale-to-width-down/899?cb=20090727132040&path-prefix=no" width="300" />](https://abc7chicago.com/donald-duck-anniversary-birthday-first-appearance/5338510/#:~:text=Everybody's%20favorite%20cartoon%20duck%20made,cartoon%20characters%20by%20the%201940s.) 
  ```
-“President Reagan became the first American president to address a joint session of Britain’s Parliament.” (Year: 1982)
+“Donald Duck makes his film debut in The Wise Little Hen.” (Year: 1934)
 ```
