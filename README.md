@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Friday` ⚡⚡⚡
+Have an amazing `Saturday` ⚡⚡⚡
 
-Did you know Today on `12th of June`
+Did you know Today on `13th of June`
  
- [<img src="https://www.loc.gov/rr/hispanic/1898/img/aguinaldo.jpg" width="300" />](https://www.britannica.com/biography/Emilio-Aguinaldo#:~:text=June%2012,%201898) 
+ [<img src="https://www.nasa.gov/sites/default/files/thumbnails/image/pioneer10_art.jpg" width="300" />](https://www.history.com/this-day-in-history/pioneer-10-departs-solar-system) 
  ```
-“Emilio Aguinaldo, head of the Philippine nationalists, proclaimed independence from Spain.” (Year: 1898)
+“The U.S. space probe Pioneer 10, launched in 1972, became the first spacecraft to leave the solar system.” (Year: 1983)
 ```
