@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Saturday` ⚡⚡⚡
+Have an amazing `Sunday` ⚡⚡⚡
 
-Did you know Today on `13th of June`
+Did you know Today on `14th of June`
  
- [<img src="https://www.nasa.gov/sites/default/files/thumbnails/image/pioneer10_art.jpg" width="300" />](https://www.history.com/this-day-in-history/pioneer-10-departs-solar-system) 
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Univac_I_at_Census_Bureau_with_two_operators.jpg" width="300" />](https://en.wikipedia.org/wiki/UNIVAC_I#:~:text=June%2014) 
  ```
-“The U.S. space probe Pioneer 10, launched in 1972, became the first spacecraft to leave the solar system.” (Year: 1983)
+“The first commercial computer, Univac I, was unveiled.” (Year: 1951)
 ```
