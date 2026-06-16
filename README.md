@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Monday` ⚡⚡⚡
+Have an amazing `Tuesday` ⚡⚡⚡
 
-Did you know Today on `15th of June`
+Did you know Today on `16th of June`
  
- [<img src="https://www.massmoments.org/assets/images/a/06_15.2_1844-57760f8d.jpg" width="300" />](https://www.massmoments.org/moment-details/charles-goodyear-receives-patent-for-vulcanized-rubber.html) 
+ [<img src="https://gdb.rferl.org/88FEC9B7-368F-42EC-A827-8316AA11E99E_w1080_h608_s.jpg" width="300" />](https://en.wikipedia.org/wiki/1996_Russian_presidential_election) 
  ```
-“Charles Goodyear was granted a patent for rubber vulcanization.” (Year: 1844)
+“Russia voted in its first independent presidential election. Boris Yeltsin eventually won in a runoff.” (Year: 1996)
 ```
