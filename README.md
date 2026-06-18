@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Wednesday` ⚡⚡⚡
+Have an amazing `Thursday` ⚡⚡⚡
 
-Did you know Today on `17th of June`
+Did you know Today on `18th of June`
  
- [<img src="https://s.hdnux.com/photos/10/33/60/2210833/5/rawImage.jpg" width="300" />](http://news.bbc.co.uk/2/hi/science/nature/2049048.stm) 
+ [<img src="https://cdn.britannica.com/08/75508-050-FCDFE7FF/Amelia-Earhart-woman-flight-25-1932.jpg" width="300" />](https://en.wikipedia.org/wiki/Amelia_Earhart) 
  ```
-“Australian scientists announced that they had `teleported` a laser beam—breaking it up and reconstructing it in another location.” (Year: 2002)
+“Aviator Amelia Earhart became the first woman to fly across the Atlantic Ocean. She completed the flight from Newfoundland to Wales in about 21 hours.” (Year: 1928)
 ```
