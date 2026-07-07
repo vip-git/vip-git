@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Monday` ⚡⚡⚡
+Have an amazing `Tuesday` ⚡⚡⚡
 
-Did you know Today on `06th of July`
+Did you know Today on `07th of July`
  
- [<img src="https://s.france24.com/media/display/0b3813d8-fcdf-11e8-9ccd-005056a964fe/w:900/p:16x9/anne_frank_diary.jpg" width="300" />](https://www.annefrank.org/en/anne-frank/who-was-anne-frank/) 
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/5/50/SanPasqual.jpg" width="300" />](http://www.militarymuseum.org/Sloat.html) 
  ```
-“Anne Frank and her family sought refuge from the Nazis in Amsterdam.” (Year: 1942)
+“Commodore John D. Sloat occupied Monterey and declared California annexed to the United States.” (Year: 1846)
 ```
