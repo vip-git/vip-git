@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Tuesday` ⚡⚡⚡
+Have an amazing `Wednesday` ⚡⚡⚡
 
-Did you know Today on `14th of July`
+Did you know Today on `15th of July`
  
- [<img src="https://static.wixstatic.com/media/94e197_3c31e9984831493889a5288fa9da56d8~mv2.jpg/v1/fit/w_1000%2Ch_628%2Cal_c%2Cq_80/file.jpg" width="300" />](https://www.librarypoint.org/blogs/post/the-fall-of-the-bastille/#:~:text=On%20July%2014%2C%201789%2C%20a,beginning%20of%20the%20French%20Revolution.) 
+ [<img src="https://assets.simpleviewinc.com/simpleview/image/fetch/c_fill,h_835,q_75,w_1200/https://assets.simpleviewinc.com/simpleview/image/upload/crm/riversandroutesil/Wadlow_JenniferGann0-f9c0c7bf5056a36_f9c0c966-5056-a36a-09fc831072f09a92.jpg" width="300" />](https://en.wikipedia.org/wiki/Robert_Wadlow) 
  ```
-“The storming and destruction of Bastille marked the beginning of the French Revolution.” (Year: 1789)
+“The world's tallest man (8 feet, 11.1 inches), Robert Wadlow, died.” (Year: 1940)
 ```
