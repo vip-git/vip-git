@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Friday` ⚡⚡⚡
+Have an amazing `Saturday` ⚡⚡⚡
 
-Did you know Today on `17th of July`
+Did you know Today on `18th of July`
  
- [<img src="https://www.newspapers.com/topics/wp-content/uploads/SpanishAmericanWar.jpeg" width="300" />](https://www.history.com/this-day-in-history/armistice-ends-the-spanish-american-war#:~:text=On%20July%203%2C%20the%20Spanish,thus%20Cuba%E2%80%94to%20the%20Americans.&text=On%20December%2010%2C%20the%20Treaty,ended%20the%20Spanish%2DAmerican%20War.) 
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Nadia_Com%C4%83neci_2016_stamp_of_Romania.jpg" width="300" />](https://en.wikipedia.org/wiki/Nadia_Com%C4%83neci) 
  ```
-“Spain surrendered to the United States at Santiago, Cuba, ending the Spanish-American War.” (Year: 1898)
+“14-year-old Romanian gymnast Nadia Comaneci earned the first perfect score, a ten, at the Olympics and went on to score six more tens and win three gold medals.” (Year: 1976)
 ```
