@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Sunday` ⚡⚡⚡
+Have an amazing `Monday` ⚡⚡⚡
 
-Did you know Today on `02nd of August`
+Did you know Today on `03rd of August`
  
- [<img src="https://i.pinimg.com/originals/19/59/cc/1959cca42c0a8a5f64316e9fdf1f3532.jpg" width="300" />](https://www.britannica.com/event/Persian-Gulf-War) 
+ [<img src="https://api.time.com/wp-content/uploads/2016/05/160524-nba-anniversary-14.jpg" width="300" />](https://en.wikipedia.org/wiki/National_Basketball_Association) 
  ```
-“The Persian Gulf War broke out when Iraq invaded Kuwait.” (Year: 1990)
+“The National Basketball Association was formed.” (Year: 1949)
 ```
