@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Monday` ⚡⚡⚡
+Have an amazing `Tuesday` ⚡⚡⚡
 
-Did you know Today on `17th of August`
+Did you know Today on `18th of August`
  
- [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Indonesia_declaration_of_independence_17_August_1945.jpg" width="300" />](https://en.wikipedia.org/wiki/Proclamation_of_Indonesian_Independence) 
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Baptism_of_Virginia_Dare.jpeg/1920px-Baptism_of_Virginia_Dare.jpeg" width="300" />](https://www.ncpedia.org/culture/legends/virginia-dare) 
  ```
-“Indonesian nationalists proclaimed independence from the Netherlands.” (Year: 1945)
+“Virginia Dare became the first child of English parents born in North America.” (Year: 1587)
 ```
