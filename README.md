@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Tuesday` ⚡⚡⚡
+Have an amazing `Wednesday` ⚡⚡⚡
 
-Did you know Today on `25th of August`
+Did you know Today on `26th of August`
  
- [<img src="https://slidetodoc.com/presentation_image_h/c8cec80f2fab10938279de5224c29fa2/image-4.jpg" width="300" />](https://www.officeholidays.com/holidays/uruguay/uruguay-independence-day#:~:text=On%20August%2025th%201825%2C%20following,to%20Brazil%20recognising%20Uruguay's%20independence.) 
+ [<img src="https://www.archives.gov/files/exhibits/featured-documents/amendment-19/images/amendment-19-l.jpg" width="300" />](https://www.ourdocuments.gov/doc.php?flash=false&doc=63) 
  ```
-“Uruguay declared its independence from Brazil.” (Year: 1825)
+“The 19th Amendment giving women the right to vote went into effect.” (Year: 1920)
 ```
