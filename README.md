@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Sunday` ⚡⚡⚡
+Have an amazing `Monday` ⚡⚡⚡
 
-Did you know Today on `27th of September`
+Did you know Today on `28th of September`
  
- [<img src="https://cms.accuweather.com/wp-content/uploads/2015/09/650x366_09261741_hd22.jpg" width="300" />](https://www.britannica.com/event/Ise-Bay-typhoon-of-1959) 
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ribbentrop-Molotov.svg/2000px-Ribbentrop-Molotov.svg.png" width="300" />](https://en.wikipedia.org/wiki/Molotov%E2%80%93Ribbentrop_Pact#:~:text=The%20Molotov%E2%80%93Ribbentrop%20Pact%20was,to%20partition%20Poland%20between%20them.) 
  ```
-“Typhoon Vera battered the Japanese island of Honshu, killing almost 5,000 people.” (Year: 1959)
+“A German-Soviet agreement divided Poland between Nazi Germany and the USSR.” (Year: 1939)
 ```
