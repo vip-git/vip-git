@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Tuesday` ⚡⚡⚡
+Have an amazing `Wednesday` ⚡⚡⚡
 
-Did you know Today on `13th of October`
+Did you know Today on `14th of October`
  
- [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/B%27nai_B%27rith_membership_certificate_1876.jpg/1024px-B%27nai_B%27rith_membership_certificate_1876.jpg" width="300" />](https://www.bnaibrith.org/about-us.html#:~:text=Since%20our%20founding%20in%201843,presidents%20and%20other%20world%20leaders.) 
+ [<img src="https://pbs.twimg.com/media/Ea0yiN3XgAEEqbR.jpg" width="300" />](https://www.nobelprize.org/prizes/peace/1964/king/facts/) 
  ```
-“The Jewish organization B'nai B'rith was founded.” (Year: 1843)
+“Martin Luther King, Jr., was awarded the Nobel Peace Prize for his work in civil rights.” (Year: 1964)
 ```
