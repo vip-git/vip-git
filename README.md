@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Sunday` ⚡⚡⚡
+Have an amazing `Monday` ⚡⚡⚡
 
-Did you know Today on `18th of October`
+Did you know Today on `19th of October`
  
- [<img src="https://pbs.twimg.com/media/EHJoBX2UUAA46q8.jpg" width="300" />](https://history.state.gov/milestones/1866-1898/alaska-purchase#:~:text=The%20Senate%20approved%20the%20treaty,to%20the%20Pacific%20northern%20rim.) 
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/American_union_bank.gif/1920px-American_union_bank.gif" width="300" />](https://en.wikipedia.org/wiki/Wall_Street_Crash_of_1929) 
  ```
-“The United States took possession of Alaska from Russia.” (Year: 1867)
+“The stock market crashed on what came to be known as `Black Monday.` Stocks dropped a record 508 points, or 22.6%, topping the drops on October 28 and 29 in 1929 that ushered in the Great Depression.” (Year: 1987)
 ```
