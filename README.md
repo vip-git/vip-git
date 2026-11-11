@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Tuesday` ⚡⚡⚡
+Have an amazing `Wednesday` ⚡⚡⚡
 
-Did you know Today on `10th of November`
+Did you know Today on `11th of November`
  
- [<img src="https://www.bimbimbikes.com/destination-tips/wp-content/uploads/2020/04/Great-Wall-of-China.jpg" width="300" />](http://www.famousdaily.com/history/great-wall-of-china-opens-to-public.html) 
+ [<img src="https://upload.wikimedia.org/wikipedia/en/3/36/Unilateral_Declaration_of_Independence_%28Rhodesia%29.jpg" width="300" />](https://en.wikipedia.org/wiki/Rhodesia%27s_Unilateral_Declaration_of_Independence) 
  ```
-“The Great Wall of China opened to the world for tourism.” (Year: 1970)
+“Rhodesia proclaimed its independence from Britain.” (Year: 1965)
 ```
