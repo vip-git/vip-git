@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Wednesday` ⚡⚡⚡
+Have an amazing `Thursday` ⚡⚡⚡
 
-Did you know Today on `11th of November`
+Did you know Today on `12th of November`
  
- [<img src="https://upload.wikimedia.org/wikipedia/en/3/36/Unilateral_Declaration_of_Independence_%28Rhodesia%29.jpg" width="300" />](https://en.wikipedia.org/wiki/Rhodesia%27s_Unilateral_Declaration_of_Independence) 
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg" width="300" />](https://en.wikipedia.org/wiki/Space_Shuttle_Columbia) 
  ```
-“Rhodesia proclaimed its independence from Britain.” (Year: 1965)
+“The space shuttle Columbia was launched for the second time. It was the first time a space vehicle was used more than once.” (Year: 1981)
 ```
