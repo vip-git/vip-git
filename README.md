@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Saturday` ⚡⚡⚡
+Have an amazing `Sunday` ⚡⚡⚡
 
-Did you know Today on `14th of November`
+Did you know Today on `15th of November`
  
- [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Surveyor_3-Apollo_12.jpg" width="300" />](https://en.wikipedia.org/wiki/Apollo_12) 
+ [<img src="http://news.bbc.co.uk/media/images/40068000/jpg/_40068326_morat_238.jpg" width="300" />](http://news.bbc.co.uk/onthisday/hi/dates/stories/october/15/newsid_2533000/2533131.stm) 
  ```
-“Apollo 12, the second manned lunar expedition, was launched.” (Year: 1969)
+“About 250,000 protesters against the Vietnam War, the largest war protest ever, converged peacefully on Washington, DC.” (Year: 1969)
 ```
