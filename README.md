@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Wednesday` ⚡⚡⚡
+Have an amazing `Thursday` ⚡⚡⚡
 
-Did you know Today on `18th of November`
+Did you know Today on `19th of November`
  
- [<img src="https://connecticuthistory.org/wp-content/uploads/sites/6/2011/11/Nathaniel_Palmer-e1337455158214.jpg" width="300" />](https://connecticuthistory.org/nathaniel-palmer-discovers-antarctica-today-in-history/) 
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Milli_Vanilli_and_C._Michael_Greene.jpg" width="300" />](https://en.wikipedia.org/wiki/Milli_Vanilli) 
  ```
-“Captain Nathaniel Palmer discovered Antarctica.” (Year: 1820)
+“Milli Vanilli`s Grammy award was rescinded after it was discovered they didn`t do their own singing.” (Year: 1990)
 ```
