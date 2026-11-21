@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Friday` ⚡⚡⚡
+Have an amazing `Saturday` ⚡⚡⚡
 
-Did you know Today on `20th of November`
+Did you know Today on `21st of November`
  
- [<img src="https://i.insider.com/607074b5a451820019b3a43f?width=1300&format=jpeg&auto=webp" width="300" />](https://www.insider.com/queen-elizabeth-and-prince-philip-marriage-2016-11) 
+ [<img src="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2016/02/23805/image770x420cropped.jpg" width="300" />](https://www.arabnews.com/node/1660001) 
  ```
-“The future Queen Elizabeth II married Philip Mountbatten, Duke of Ediburgh.” (Year: 1947)
+“Egypt`s Boutros Boutros-Ghali was chosen to become secretary-general by the UN Security Council.” (Year: 1991)
 ```
