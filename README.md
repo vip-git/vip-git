@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Sunday` ⚡⚡⚡
+Have an amazing `Monday` ⚡⚡⚡
 
-Did you know Today on `22nd of November`
+Did you know Today on `23rd of November`
  
- [<img src="https://static.dw.com/image/59221972_403.jpg" width="300" />](https://www.britannica.com/biography/Angela-Merkel) 
+ [<img src="http://wcsa.world/Userfiles/Upload/images/fg.jpg" width="300" />](http://wcsa.world/news/world-almanac-event-academy/wcsa-on-this-day-november-23-2018-the-first-smartphone-the-ibm-simon-is-introduced-at-comdex-in-las-vegas-nevada-in-1992) 
  ```
-“German politician Angela Merkel was sworn in as the country's chancellor, becoming the first woman to hold the post.” (Year: 2005)
+“The first smartphone, the IBM Simon, is introduced at COMDEX in Las Vegas, Nevada.” (Year: 1992)
 ```
