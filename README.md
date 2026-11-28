@@ -1,9 +1,9 @@
 ## Hey there 👋
-Have an amazing `Friday` ⚡⚡⚡
+Have an amazing `Saturday` ⚡⚡⚡
 
-Did you know Today on `27th of November`
+Did you know Today on `28th of November`
  
- [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Ada_Byron_daguerreotype_by_Antoine_Claudet_1843_or_1850.jpg/220px-Ada_Byron_daguerreotype_by_Antoine_Claudet_1843_or_1850.jpg" width="300" />](https://en.wikipedia.org/wiki/Ada_Lovelace) 
+ [<img src="https://www.nasa.gov/sites/default/files/1964_november_mariner_04_0.jpg" width="300" />](https://www.jpl.nasa.gov/missions/mariner-4) 
  ```
-“Lord Byron`s daughter Ada died. She had assisted Charles Babbage with his `analytical engine` and is credited with inventing computer language.” (Year: 1852)
+“The U.S. spacecraft Mariner 4 launched—on its way to the first successful mission to Mars.” (Year: 1964)
 ```
